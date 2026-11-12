@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-12T11:22:06.661043Z",
+  "exportedAt": "2026-11-12T21:23:20.962667Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -329,7 +329,7 @@
       "description": "",
       "drmLicense": "",
       "drmScheme": "",
-      "featured": false,
+      "featured": true,
       "featured_order": 0,
       "group": "ALWAN SPORTS",
       "id": "kudqiny0kz95vc4",
@@ -9772,5 +9772,22 @@
       "order": 0,
       "type": "sport"
     }
+  },
+  "appConfig": {
+    "announcement": {
+      "enabled": true,
+      "text": "test"
+    },
+    "groupOrder": [
+      "KURD TV",
+      "ALWAN SPORTS",
+      "BEIN+",
+      "DOCUMENTARY",
+      "KIDS",
+      "KURD SPORTS",
+      "MUSIC",
+      "QURAN",
+      "SPORTS"
+    ]
   }
 }
