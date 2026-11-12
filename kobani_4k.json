@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-12T21:23:20.962667Z",
+  "exportedAt": "2026-11-12T21:29:04.592454Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -9788,6 +9788,15 @@
       "MUSIC",
       "QURAN",
       "SPORTS"
-    ]
+    ],
+    "access": {
+      "enabled": true,
+      "codes": [
+        {
+          "label": "ا",
+          "hash": "f9d6d888cac686658ba63099759f7eef1590cb6e40472c28371d676fb85dea35"
+        }
+      ]
+    }
   }
 }
