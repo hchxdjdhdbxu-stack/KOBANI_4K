@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T12:59:13.174849Z",
+  "exportedAt": "2026-11-13T13:02:30.775743Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -2197,20 +2197,21 @@
       "referer": "",
       "subtitleUrl": "",
       "type": "live",
-      "url": "http://a36.cdnprime24.top:8080/live/7137884299/74238942394/978087.ts",
+      "url": "http://rahmmax.org:2052/live/30635000266893/85606299443755/601568.m3u8",
       "url2": "http://bepkxmqd.pardns.com/live/9C1C9S78/4NSSUNFQ/172974.ts",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
       "url2Name": "",
       "url2Referer": "",
       "url2UserAgent": "",
-      "url3": "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/601568.ts",
+      "url3": "http://a36.cdnprime24.top:8080/live/7137884299/74238942394/978087.ts",
       "url3DrmLicense": "",
       "url3DrmScheme": "",
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": "."
+      "userAgent": ".",
+      "bannerType": "video"
     },
     "zx73pklo97qw6gv": {
       "backdrop": "",
