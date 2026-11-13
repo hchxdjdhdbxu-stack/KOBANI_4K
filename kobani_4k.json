@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T10:48:19.008781Z",
+  "exportedAt": "2026-11-13T12:22:51.981574Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8491,6 +8491,12 @@
       "versionCode": 1,
       "versionName": "",
       "enabled": true
-    }
+    },
+    "groupOrderSport": [
+      "BEIN+",
+      "ALWAN SPORTS",
+      "KURD SPORTS",
+      "SPORTS"
+    ]
   }
 }
