@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T16:30:47.414566Z",
+  "exportedAt": "2026-11-13T16:32:50.057598Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -406,7 +406,7 @@
       "referer": "",
       "subtitleUrl": "",
       "type": "live",
-      "url": "http://silka.m3um9xplus.org:2052/live/47880216916408/19467886815799/649691.ts",
+      "url": "http://rahmmax.org:2052/live/88577072662804/15518509928643/649691.ts",
       "url2": "https://streams.rooter.gg/hls/437cf97c81671384bfb54d35708d00ca/hd720.m3u8",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
@@ -419,7 +419,8 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": ""
+      "userAgent": "",
+      "bannerType": "video"
     },
     "ynb255ofvbwixda": {
       "backdrop": "",
