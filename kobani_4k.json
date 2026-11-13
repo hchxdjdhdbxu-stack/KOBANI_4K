@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T13:32:17.985080Z",
+  "exportedAt": "2026-11-13T13:49:59.512778Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -6787,7 +6787,7 @@
       "referer": "",
       "subtitleUrl": "",
       "type": "live",
-      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601515.m3u8",
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601515.ts",
       "url2": "",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
