@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T12:25:35.807591Z",
+  "exportedAt": "2026-11-13T12:26:22.004611Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8469,14 +8469,10 @@
     },
     "groupOrder": [
       "KURD TV",
-      "ALWAN SPORTS",
-      "BEIN+",
+      "QURAN",
       "DOCUMENTARY",
       "KIDS",
-      "KURD SPORTS",
-      "MUSIC",
-      "QURAN",
-      "SPORTS"
+      "MUSIC"
     ],
     "access": {
       "enabled": true,
