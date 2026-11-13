@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T12:54:01.106591Z",
+  "exportedAt": "2026-11-13T12:55:41.868701Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8497,7 +8497,8 @@
       "apkUrl": "https://vida-private.s3.us-east-1.amazonaws.com/sessionFile/MIN9zDz415WC6Hbv74gVyf/sandbox/HlIKX2ZLO3p4IE2TGJGoVP_1794523353215_na1fn_L2hvbWUvdWJ1bnR1L2tvYmFuaV92NTdfZGVsaXZlcmFibGVzL0tPQkFOSS12NTctdmVyc2lvbi0xLWJ1aWxkMjE.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZV3A2ECZBEK37IZO%2F20261113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261113T101510Z&X-Amz-Expires=603800&X-Amz-Signature=4eac641a38a8b21a496fc58b088ee60636c3313382d0cd3cdda256ea07ce3f22&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27KOBANI-v57-version-1-build21.apk&response-content-type=application%2Fvnd.android.package-archive&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "versionCode": 0,
       "versionName": "",
-      "enabled": true
+      "enabled": true,
+      "force": true
     },
     "groupOrderSport": [
       "BEIN+",
