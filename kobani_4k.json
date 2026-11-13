@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T13:03:38.939603Z",
+  "exportedAt": "2026-11-13T13:10:02.528734Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -533,8 +533,8 @@
       "referer": "",
       "subtitleUrl": "",
       "type": "live",
-      "url": "http://tanbieh.com:80/live/110366811170D/162411098190gH/357551.m3u8",
-      "url2": "http://new-pro.tv:8080/live/98:06:3C:88:94:74/31633052805815/752032.ts",
+      "url": "http://rahmmax.org:2052/live/30635000266893/85606299443755/601394.ts",
+      "url2": "http://tanbieh.com:80/live/110366811170D/162411098190gH/357551.m3u8",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
       "url2Name": "",
@@ -546,7 +546,8 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": "."
+      "userAgent": ".",
+      "bannerType": "video"
     },
     "zggwyvxpdhy4m9n": {
       "backdrop": "",
