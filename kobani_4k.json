@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T13:17:27.939669Z",
+  "exportedAt": "2026-11-13T13:20:03.218832Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -2103,7 +2103,7 @@
       "subtitleUrl": "",
       "type": "live",
       "url": "http://one4klive.com:8080/live/Ghgffjklllkjhgf/Hafid1997/98204.m3u8",
-      "url2": "http://silka.m3um9xplus.org:2052/live/47880216916408/19467886815799/601450.ts",
+      "url2": "http://rahmmax.org:2052/live/88577072662804/15518509928643/601450.ts",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
       "url2Name": "",
@@ -2115,7 +2115,8 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": ""
+      "userAgent": "",
+      "bannerType": "video"
     },
     "agki8pehii2xo2u": {
       "backdrop": "",
