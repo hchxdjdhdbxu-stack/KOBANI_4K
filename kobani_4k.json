@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T09:59:15.745244Z",
+  "exportedAt": "2026-11-13T10:01:24.705249Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8495,7 +8495,7 @@
   },
   "appConfig": {
     "announcement": {
-      "enabled": true,
+      "enabled": false,
       "text": "test"
     },
     "groupOrder": [
