@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T10:48:01.802322Z",
+  "exportedAt": "2026-11-13T10:48:19.008781Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -329,7 +329,7 @@
       "description": "",
       "drmLicense": "",
       "drmScheme": "",
-      "featured": true,
+      "featured": false,
       "featured_order": 0,
       "group": "ALWAN SPORTS",
       "id": "kudqiny0kz95vc4",
