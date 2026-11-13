@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T13:16:06.211572Z",
+  "exportedAt": "2026-11-13T13:16:50.152729Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -7777,7 +7777,7 @@
       "referer": "",
       "subtitleUrl": "",
       "type": "live",
-      "url": "http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601461.ts",
+      "url": "http://rahmmax.org:2052/live/88577072662804/15518509928643/601461.m3u8",
       "url2": "",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
@@ -7790,7 +7790,8 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": "SmartIPTV"
+      "userAgent": "SmartIPTV",
+      "bannerType": "video"
     },
     "50tr9u5uz5a0ycr": {
       "backdrop": "",
