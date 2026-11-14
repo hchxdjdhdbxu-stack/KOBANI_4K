@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-14T14:06:28.647163Z",
+  "exportedAt": "2026-11-14T14:08:18.537402Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -2138,7 +2138,7 @@
       "subtitleUrl": "",
       "type": "live",
       "url": "http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/429782.m3u8",
-      "url2": "http://109.71.252.138/Newline8k1/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes&type=live",
+      "url2": "http://s21tv.co:80/live/809933047584/316247341655/807691.ts",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
       "url2Name": "",
@@ -2151,7 +2151,10 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "bannerType": "video"
+      "bannerType": "video",
+      "free": false,
+      "hdr2": false,
+      "hdr3": false
     },
     "78xoj225nxpgb0t": {
       "backdrop": "",
