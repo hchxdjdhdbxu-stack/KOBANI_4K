@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-14T13:54:45.944482Z",
+  "exportedAt": "2026-11-14T14:03:10.095045Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -2973,19 +2973,23 @@
       "subtitleUrl": "",
       "type": "live",
       "url": "http://rahmmax.org:2052/live/36750623403240/14750722182138/602828.ts",
-      "url2": "http://kenvixpro.online:8080/live/893747082774/403275543172/442853.m3u8",
+      "url2": "http://s21tv.co:80/live/809933047584/316247341655/807625.ts",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
       "url2Name": "",
       "url2Referer": "",
       "url2UserAgent": "",
-      "url3": "http://silka.m3um9xplus.org:2052/live/21116253178258/14909458224355/602828.ts",
+      "url3": "http://kenvixpro.online:8080/live/893747082774/403275543172/442853.m3u8",
       "url3DrmLicense": "",
       "url3DrmScheme": "",
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": "SmartIPTV"
+      "userAgent": "SmartIPTV",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "s69xfmqisyr4gx8": {
       "backdrop": "",
