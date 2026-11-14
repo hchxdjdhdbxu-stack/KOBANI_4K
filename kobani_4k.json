@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-14T14:08:36.593105Z",
+  "exportedAt": "2026-11-14T14:14:34.579152Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -471,7 +471,7 @@
       "referer": "",
       "subtitleUrl": "",
       "type": "live",
-      "url": "http://silka.m3um9xplus.org:2052/live/29938654291415/49071921116498/649693.ts",
+      "url": "http://pro.prince4k.com:7355/live/YY5BOOMKSPOH779@KK/LICS7Y98CSILSCIJCC/181672.ts",
       "url2": "http://halatv.org:8080/live/46665/0555017096/181911.m3u8",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
@@ -484,7 +484,11 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": "Dalvik/2.1.0 (Linux; U; Android 11; RMX3261 Build/RP1A.201005.001)"
+      "userAgent": "Dalvik/2.1.0 (Linux; U; Android 11; RMX3261 Build/RP1A.201005.001)",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "vnw1p3v31w85w0h": {
       "backdrop": "",
