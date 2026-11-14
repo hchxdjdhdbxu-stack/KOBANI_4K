@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-14T16:51:48.429022Z",
+  "exportedAt": "2026-11-14T16:52:03.657027Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8516,7 +8516,10 @@
     "vip": {
       "lockedGroups": [
         "ALWAN SPORTS",
-        "SPORTS"
+        "SPORTS",
+        "QURAN",
+        "MUSIC",
+        "KURD TV"
       ],
       "codes": [
         {
