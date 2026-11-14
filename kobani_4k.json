@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-14T16:52:59.417002Z",
+  "exportedAt": "2026-11-14T17:00:34.209257Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8522,7 +8522,8 @@
         "KURD TV",
         "KURD SPORTS",
         "KIDS",
-        "DOCUMENTARY"
+        "DOCUMENTARY",
+        "BEIN+"
       ],
       "codes": [
         {
