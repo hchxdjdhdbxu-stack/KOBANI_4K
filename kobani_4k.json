@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-13T16:38:39.395580Z",
+  "exportedAt": "2026-11-14T00:06:28.124039Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -4661,7 +4661,7 @@
       "description": "",
       "drmLicense": "",
       "drmScheme": "",
-      "featured": false,
+      "featured": true,
       "featured_order": 0,
       "group": "BEIN+",
       "id": "o47wny61m5a5wv7",
