@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-14T13:12:06.633044Z",
+  "exportedAt": "2026-11-14T13:54:45.944482Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -6923,7 +6923,7 @@
       "referer": "",
       "subtitleUrl": "",
       "type": "live",
-      "url": "http://85.237.89.6:9590/live/zinatvkurdishsong/mono.m3u8",
+      "url": "http://s21tv.co:80/live/f6WNbQGVtd/M3GNH0dkzl/807622.m3u8",
       "url2": "",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
@@ -6936,7 +6936,11 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": "SmartIPTV"
+      "userAgent": "SmartIPTV",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "yrw3080u598aqf2": {
       "backdrop": "",
