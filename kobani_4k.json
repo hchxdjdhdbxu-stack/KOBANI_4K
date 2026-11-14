@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-14T00:06:28.124039Z",
+  "exportedAt": "2026-11-14T00:06:47.509076Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -9,7 +9,7 @@
       "description": "",
       "drmLicense": "",
       "drmScheme": "",
-      "featured": false,
+      "featured": true,
       "featured_order": 0,
       "group": "KURD TV",
       "id": "5zpvxfocjaeef61",
