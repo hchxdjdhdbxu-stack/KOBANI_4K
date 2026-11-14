@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-14T17:00:34.209257Z",
+  "exportedAt": "2026-11-14T17:01:06.361075Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8533,7 +8533,12 @@
           "days": 1
         }
       ],
-      "freeTime": {}
+      "freeTime": {
+        "bein+": {
+          "minutes": 180,
+          "periodHours": 24
+        }
+      }
     }
   }
 }
