@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T13:03:56.469221Z",
+  "exportedAt": "2026-11-19T13:11:07.623295Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -3351,11 +3351,15 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "url": "http://m12m5678.xyz:2082/live/323821544531/787367257785/807722.m3u8",
+      "url": "http://rahmmax.org:2052/live/24717171183220/27528941619411/601452.ts",
       "url2": "http://str1.v3v3v.xyz/live/hicham_977382/phoNabqU/129915.ts",
-      "url3": "",
+      "url3": "http://m12m5678.xyz:2082/live/323821544531/787367257785/807722.m3u8",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "b73zomsy77hcwh0": {
       "backdrop": "",
