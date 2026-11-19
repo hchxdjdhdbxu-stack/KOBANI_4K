@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T13:42:10.921871Z",
+  "exportedAt": "2026-11-19T13:43:42.799245Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -7617,7 +7617,7 @@
       "featured_order": 0,
       "group": "KURD TV",
       "id": "8mexrbd67wmx9lc",
-      "logo": "https://cdn.phototourl.com/free/2026-08-12-ec68b7c3-106f-4c85-8e88-1dffc6ce505e.jpg",
+      "logo": "https://imagetourls.com/ar/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2F1gFQUNbhr.jpg",
       "name": "WAVE PLUS",
       "order": 82,
       "referer": "",
@@ -7638,7 +7638,11 @@
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "ufl8o7zjdu4gu8z": {
       "backdrop": "",
