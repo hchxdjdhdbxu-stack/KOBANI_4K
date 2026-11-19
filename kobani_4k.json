@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T14:16:08.452827Z",
+  "exportedAt": "2026-11-19T16:19:29.853407Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -2422,11 +2422,15 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "url": "http://31.43.191.125:8080/live/restream/restream/25195.ts",
-      "url2": "http://snap-tr.org/live/00491727832218/as2020as/354991.m3u8",
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601422.ts",
+      "url2": "http://31.43.191.125:8080/live/restream/restream/25195.ts",
       "url3": "https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": false,
+      "hdr3": false,
+      "bannerType": "video"
     },
     "xfyyrvevrzfs8qi": {
       "backdrop": "",
