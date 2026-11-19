@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T13:30:44.338392Z",
+  "exportedAt": "2026-11-19T13:31:05.221655Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -4996,7 +4996,7 @@
       "featured_order": 0,
       "group": "BEIN+",
       "id": "m8gz3tmkjce74x0",
-      "logo": "https://www.icard.com.sa/_next/image?url=https%3A%2F%2Fseo.icard.com.sa%2Fimages%2Fcategories%2F15806359.jpg&w=3840&q=75",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4L0TdHj0CEUE460GD0Eem3-QmgKR-3ATvc3pbgA8uPg&s=10",
       "name": "Shahid sport 2",
       "order": 19,
       "referer": "",
@@ -5015,7 +5015,11 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": "SmartIPTV"
+      "userAgent": "SmartIPTV",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "622ic7mn59t9yur": {
       "backdrop": "",
