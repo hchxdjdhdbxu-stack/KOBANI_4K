@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T13:11:07.623295Z",
+  "exportedAt": "2026-11-19T13:14:33.029221Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -5647,11 +5647,15 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "url": "http://falcontv.net:80/live/0143561382/4637213576/409640.m3u8",
+      "url": "http://rahmmax.org:2052/live/24717171183220/27528941619411/601508.ts",
       "url2": "http://vodkom.net:88/live/5kNEkkd53QU2HU2/qMNpkvpZeuJNwgT/189964.ts",
-      "url3": "",
+      "url3": "http://falcontv.net:80/live/0143561382/4637213576/409640.m3u8",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "2c1k5t0vlznyfxa": {
       "backdrop": "",
