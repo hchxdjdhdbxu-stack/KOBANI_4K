@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T13:31:05.221655Z",
+  "exportedAt": "2026-11-19T13:42:10.921871Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -7225,7 +7225,7 @@
       "featured_order": 0,
       "group": "KURD TV",
       "id": "zyc0ub5kygfk4vb",
-      "logo": "https://cdn.phototourl.com/free/2026-07-31-21969ad0-e72d-4b7b-bedf-355e1cfc61eb.jpg",
+      "logo": "https://imagetourls.com/ar/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2FHiVFtIm0.jpg",
       "name": "MIRNA TV",
       "order": 64,
       "referer": "",
@@ -7246,7 +7246,11 @@
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "b8mfgptbo2k02f1": {
       "backdrop": "",
