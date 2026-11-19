@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T16:26:06.475494Z",
+  "exportedAt": "2026-11-19T16:38:25.365417Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -5905,11 +5905,15 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "url": "http://magic-tv.live:2095/live/S5143182775/Saleem2025/1693064.ts",
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/649698.ts",
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "sbatpxyz3uvb5nm": {
       "backdrop": "",
