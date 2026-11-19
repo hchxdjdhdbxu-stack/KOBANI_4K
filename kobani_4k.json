@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T13:55:53.690907Z",
+  "exportedAt": "2026-11-19T13:59:31.668788Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -760,7 +760,7 @@
       "featured_order": 0,
       "group": "KURD TV",
       "id": "h1ms5o3koks94w9",
-      "logo": "https://rojavatv.net/wp-content/uploads/2024/02/rojavalogonew.png",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphVyOxXnUdMSmcOndndNpwzJYAVvNF0aSjgr98bqIzArpWhiP0TKRjm4&s=10",
       "name": "ROJAVA TV",
       "order": 14,
       "referer": "",
@@ -781,7 +781,11 @@
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": false,
+      "hdr3": false,
+      "bannerType": "video"
     },
     "tlg9pavu3fb7a5z": {
       "backdrop": "",
