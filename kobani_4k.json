@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T13:25:23.324935Z",
+  "exportedAt": "2026-11-19T13:27:51.366738Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -7281,7 +7281,7 @@
       "featured_order": 0,
       "group": "KURD TV",
       "id": "jp8hbdx9v5sgk04",
-      "logo": "https://cdn.phototourl.com/free/2026-08-01-1c980af1-a788-4ac7-9d60-cd442245a67e.jpg",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI9t6rAxt0oTj1qAzJgWBO6eH2yrlykViJGZyh2LJeOg&s=10",
       "name": "RANYA CITY",
       "order": 40,
       "referer": "",
@@ -7302,7 +7302,11 @@
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "ek9m5dfx4kxr4o5": {
       "backdrop": "",
