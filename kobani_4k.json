@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-19T12:48:26.240267Z",
+  "exportedAt": "2026-11-19T12:50:17.601032Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -448,11 +448,15 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "url": "http://mac-tv.live:8880/live/18895235669442/39085528431164/367346.m3u8",
+      "url": "http://pro.prince4k.com:7355/live/YY5BOOMKSPOH779@KK/LICS7Y98CSILSCIJCC/181669.ts",
       "url2": "http://siam33156879.com/live/589400454333/139696004034/293009.ts",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": false,
+      "hdr3": false,
+      "bannerType": "video"
     },
     "s2ub5pd3gv2hgm0": {
       "backdrop": "",
