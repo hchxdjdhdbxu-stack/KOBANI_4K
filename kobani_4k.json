@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-20T12:18:15.296545Z",
+  "exportedAt": "2026-11-20T12:24:50.401750Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -2512,7 +2512,7 @@
       "featured_order": 0,
       "group": "KURD TV",
       "id": "y9kjgxn8n1nx2dd",
-      "logo": "https://cdn.phototourl.com/free/2026-07-05-d73e8057-9898-4a6a-a21a-80b03a2e610d.jpg",
+      "logo": "https://i.postimg.cc/kMfr4DgK/IMG-20261120-152013-242.jpg",
       "name": "GK PLUS",
       "order": 69,
       "referer": "",
@@ -2533,7 +2533,11 @@
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "abaerbju14ilfyq": {
       "backdrop": "",
