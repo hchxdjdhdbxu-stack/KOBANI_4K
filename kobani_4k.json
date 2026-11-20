@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-20T18:40:55.211001Z",
+  "exportedAt": "2026-11-20T20:25:28.178702Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8385,7 +8385,7 @@
       "drmScheme": "clearkey",
       "featured": false,
       "featured_order": 0,
-      "group": "",
+      "group": "SPORTS",
       "id": "4m0acnmjkmg7b6x",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbH22AUcJSFOYH07BQ49aZchA7k-ftsoy4rYdB_-V2cw&s=10",
       "name": "BEIN SPORTS AUS 1",
