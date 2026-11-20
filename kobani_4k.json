@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-20T15:42:02.313940Z",
+  "exportedAt": "2026-11-20T16:38:41.586165Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -6682,11 +6682,15 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "url": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807735.ts",
-      "url2": "http://188.72.5.30:8080/live/alsard/555666/5229.ts",
+      "url": "http://clicktv1.live:2082/live/abdulhakimabduljbar/278614140521/180121.m3u8",
+      "url2": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807735.ts",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "5ux4tw2tpr09y1a": {
       "backdrop": "",
