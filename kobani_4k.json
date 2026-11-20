@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-20T14:54:55.949894Z",
+  "exportedAt": "2026-11-20T15:42:02.313940Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8695,7 +8695,8 @@
         }
       },
       "encrypt": false,
-      "adk": "/LL3KF2zs8qUXx2PQIXzI6oEbMhXBDsvOrKWCKjrhmzQl+s11CX+qAv3V2ipST/YQuml7GeaN+sWwXIl"
+      "adk": "/LL3KF2zs8qUXx2PQIXzI6oEbMhXBDsvOrKWCKjrhmzQl+s11CX+qAv3V2ipST/YQuml7GeaN+sWwXIl",
+      "lockMovies": true
     }
   }
 }
