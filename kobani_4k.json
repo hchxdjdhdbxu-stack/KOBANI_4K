@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T11:21:21.734386Z",
+  "exportedAt": "2026-11-21T11:27:17.083262Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -29,7 +29,11 @@
       "url3UserAgent": "",
       "userAgent": "",
       "bannerType": "image",
-      "enc": "3f/24wu8Tk6FG+HG6r8mr+L5e8FBK2UclaSHTIAEJxdD38lc1YsH42A299AqBMG4OrrHpkf9073Rmm1RHQjqkzEII6Ic9NW2+24wU6/w022NFtJWwxjDqj59PP6Pa3VFmhsv/hOCGkG+bfHUq696g4VjDrRUOT3r/uM+3wLjZBIQQmCYgp/WQdP41JiklygOfMRN1Jde"
+      "url": "http://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zc35pgu29xmmq6y": {
       "backdrop": "",
@@ -57,7 +61,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "9H9fjOZzHRvjQ6j8eQ2Xc3gavHx/vWiReuDbwehf+lhsp2R3JGKa1O0k7vOgkCU2h9REuqLQR2u4KCDg4ImmZCn/mEpyRDdvzJh6uxU9w+vM+nlhEwPveBcM1nscDynZ4sWwJ+IhEu9XCvI+8UPjtuHGs3ayLFNV7lzdLpvg3/nzRny0r3uKds2u6Tp36A=="
+      "url": "https://live.channel8.com/Channel8-Kurdish/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "qbex5rg81cmilpo": {
       "backdrop": "",
@@ -85,7 +93,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "KV0H+QugDoRE9TblWZfa2+kQaewSG3Z9H88+a5W70cFk+3Bbs6IjZw0ewn9TsF0Ngy1ksD8iwL2noIknYoVM2Zx8cT8G8k5PZOmDk6ik0gsBlaiPqjSV3T8l0dakos6ph+Wnmo94nUOOppSEDUR2Kbv6+YAIZyBu78pr+84F9CY8eOLLJVdppUyt22aCX1tNuwG5R+hg7kA="
+      "url": "http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "oqaoj7yoa4aan07": {
       "backdrop": "",
@@ -113,7 +125,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "let1u6bXEIf/cnnKE3RwstEkcanBf0AR0Qy3dY9ECYrxX+ybJ0tdwOfDdtfIOzU6RHfRFXRtpQJpsSog1CNqusEalxthN8enZLbEYWJZBM654w6BOljz0VNd4wRz4W9+GmEGpYn6Bak/FMDqAgONsqwXLlmr10gqsq7JN/07d5qvRZpF+/e1bGI8PtVeJlb67+JbfOcKVE32"
+      "url": "https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "tm47aj0vmlwlo5v": {
       "backdrop": "",
@@ -141,7 +157,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "+dOdbPj5hy3al33cVfoZ+M24dK/Og1LHN6eosrzPztB2OhQ2wdTVSshk0bAnJeTBpjhYWw9O339GByJWOux1twmDmVXdPcPl5f0zvwmkeVVnqblOK3rworWU7PAJmVTsO/D5Q3lQu6JqcOGxroFwhNRDvNdMUis38Oe2ikxKmZe+FylS0H217L9zvNmjzpV+gF3Lj2yxOzVu8WjXuxhxzPcT7Q=="
+      "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zzta93f42t6hpa2": {
       "backdrop": "",
@@ -169,7 +189,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "VNABRvEZoPx+7ZzPfz6pzrkUeqPJOY4JRzA+DqbPRG4RysmdU+CrQyO394FB08XA/pV1tDbVKwBuIvuhB7HPD9a91nP1fZi9U4OucX5DDufinxo//ut+HU2ScpMfsWRXuJ6pzXOxnL6l9aQp7xcRQ4BlG3KT/Tu56rdx3ICoC7sLu7VNg+/eMXh/QgLLrWw+YW+/3qx9cSOIuJ+zC103kNIFUPMx"
+      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "t08ovijwbzc55uw": {
       "backdrop": "",
@@ -197,7 +221,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "UiRx8XksCMdHK35N59A112qw2r+Kx7e0uKjBbcWoLS7pw1C1VlPpaDwalYtPb9oYoK9oSgIs51jRpuT6Ahg1M8p0WbMFdgN45pkA1hjWLgPCotq1qMO9EVEPm+UJ2M4+agO8mDmegpycxIBAcgIW2lVZ9enG5dS1PHMfORJL2biM0UVX5IC9xg=="
+      "url": "https://live.host247.net/gk/gksat/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "96qm8ld2topitpi": {
       "backdrop": "",
@@ -225,7 +253,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "iFU3Wg0xfJKq9OJgGrAoCrztBehIg5PuoyDnnAfmGUXEjIz3qs3sZHS/FfEVhHpJAkc3jxHGKShQ4+S64jR1ep7i3lurbLLEjVCqIHajiBXJ+ZiTF55NBBJMwJ5Czy9dua59IfTYERBX887Qpu0W4EeJ6j/MYyNkBPItFzcJBaDvw1IHJm3A2v8foHjH905vN602mD4fvw=="
+      "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "cnz8chsyj3em564": {
       "backdrop": "",
@@ -253,7 +285,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "W8QfNF9zi3GUoFVkumjaUAYc3UdNiOfzuq05NDzWHc5+Q6qJ1MUD4E2yujP64z5GUifiEocKL9oel2CD/2hDGwz/Jw+6yhNdvAK1wRk7tEBbIoX3/apiPzL3wWAAO90p5DhrKeIEE5pPm1ivxUn+Sib/imr+9AqjznTj+3I5hmArvw3oybL16ZSPDp+eFJqElkIsGwM0Xtorb02JTKFX8dyIZIH21gsQv9YR29cjTKKMB1/YrsuBUuMQh1ryYeD2uo0S8ozreSdFKK7/gyGmrH7ihYuRlg=="
+      "url": "http://www.speda1.site/upload/images/spedahd.m3u8",
+      "url2": "http://on94.vooqzw.top:8080/live/VIP011151759503620915/0a76c9918f08/25208.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "pjqq04ll6d9o4bp": {
       "backdrop": "",
@@ -281,7 +317,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "uYNWwEfBz3ywxm0ikGd7uZjlpuVrD9QVbl6/SZIuKN7Jeiictnb8MihDDfr4664rMMnhYpPNPlmrOP97+P92dAO9vhp63if0KHbSQQ2mpIwzO8li3+y8LKb+mnsYqEdtcD5cOFPYfxIS/G2uH/O4uCUW590mYcRQM0lkZwlOPfHTYxQHgtwEFehnjFT8fQ=="
+      "url": "http://stream.welattv.net:1935/welat/tv/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "kudqiny0kz95vc4": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ",
@@ -313,7 +353,11 @@
       "free": false,
       "hdr2": false,
       "hdr3": false,
-      "enc": "DtFIk42ITl9YFJ4G/LybwmpcR7QTSSI7xgHdkje2wzz/YN9ZXyNQqQ2iqB5FYv4c75X8oPDSW2HQIUwM6tX+YTRckNOw7akteVFwEb9G1CmmOgjfU3nYovUs2538489vu2mwk9v65bYZF3zrVXVwTd00gwNUXa9wpUeynR9579BdYUI5DHmGYNTourmTk4z/7+raHd3VZHNqZIxz+kjrS8GBWJ+KoOXru5e49tb6qOwh6HUYsJdeOOrRP/yvZXztT+PuJ0TqYEwp+oGvA0ozmwkMwG6pBmjuK6QA5BhUE2J4UeRBYNlWPEoPJHlj+cB+2TEvE/RoHfNhgJlFNZ6uIGoImutLf/6yfA=="
+      "url": "http://rahmmax.org:2052/live/29938654291415/49071921116498/649689.ts",
+      "url2": "http://rahmmax.org:2052/live/22735481183557/30051719864484/723477.ts",
+      "url3": "https://blcco.linkip.org/live/3461_.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "n9aaa1vn8nvr6ql": {
       "backdrop": "",
@@ -342,7 +386,11 @@
       "url3UserAgent": "",
       "userAgent": "",
       "bannerType": "video",
-      "enc": "b9HzjMHixaCTIeTZ9jRlrfNDPTPK8FQCLeXmhpUuyzoiPIKDuVJoMJnWe1xulvRQtjg8KiNjnexLlqGzJXBdEh9XEa6R4NHjqm6GGAejD4aV8jWmCghc7+ZTDMJXL6Bx47kSeNby9xsylRF8U9Q+lUZ7gogxf1wcwxJIOY4pyjmaGHOCxM4ovxIGoOE+auxpfqNqIslqy/wMGK4UYgzx+yfBk8OhvSEBVHviX10To1T8hcJNxVsSnOdgD09i4MIsrDPZg+C4jjtkrJ3S0i7onZdLBvmwRXmXXZ4dEiH2XC1y7lxYuSeuSOoiRe50f6TbCCDjYX8WdMFzgXgYYXY="
+      "url": "http://rahmmax.org:2052/live/29938654291415/49071921116498/649690.ts",
+      "url2": "http://falconpro.me:80/live/YBqpkhgz/ADA3BAD8/738893.m3u8",
+      "url3": "https://blcco.linkip.org/live/3460_.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "vgfssbydi4xyf0h": {
       "backdrop": "",
@@ -371,7 +419,11 @@
       "url3UserAgent": "",
       "userAgent": "",
       "bannerType": "video",
-      "enc": "lFObEBMgdCN2/WnIeb0s1afIMcGLax7YkAjBGYtLgIHgK4RFjGpuDRf2pZ65bp1e848a7Kkqr+aHFldjS0vjwcIDNc9FiKbABEBgdC/RBmlojP6C1k2ZWNxdtcfh1glqeM2sK+oYxaN3bQoZIy4Sv8qv3KuQw8KaeYgHdople9ak9A+nhk3oSctf64oIp7t2j5B/A+KwLYXngXcFprticvhJT7xHKBnQWG36aaM1zVAriHJc/3i9j6/xm7BWTJuF/ZsfuVDt5Da8b+6i9bU5xnZo+5uaTkY/9XO8/k5YY3bUm3jgkj8aypECt+gUs21EibAT4GNextDpUuREVjXEJ9P4Wh75savXab1J8ZVgiYhJ4GuFhlEGNg=="
+      "url": "http://rahmmax.org:2052/live/88577072662804/15518509928643/649691.ts",
+      "url2": "https://streams.rooter.gg/hls/437cf97c81671384bfb54d35708d00ca/hd720.m3u8",
+      "url3": "http://109.71.252.138/Alwan3/tracks-v1a1/mono.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ynb255ofvbwixda": {
       "backdrop": "",
@@ -403,7 +455,11 @@
       "hdr2": false,
       "hdr3": false,
       "bannerType": "video",
-      "enc": "mBxAnV5NsKX4CiAKmxyNALgYD4DIbdCLa9n+sbEm2xzH+d32qO7RAFtHNGBUpFHGOFEowMwsKmRxPuzYoY3NAG2noeuQYXIqd9/Sc8itGMtyrjhZkiBvWu7VK4d0YQdBvZoKce8oS/GJ1TaH2gLLkdFQSXKhxiF2lOAL/rw0JHg3xaY6djsrjlFehilsvY4PJMW+eNG81AqkNreQqGKalQJRXyyHzjhIWaTHAlQg1V5vjq2MmljRhAigR6qCHppl4M5yyn9u7biSIqsxIXBJnq5dQfAJVdV1BKeV8JENmlqWB/aHPecEJzVWprx5"
+      "url": "http://pro.prince4k.com:7355/live/YY5BOOMKSPOH779@KK/LICS7Y98CSILSCIJCC/181669.ts",
+      "url2": "https://restreamott.xyz/live/restreamtreetv/Arenatomas11/1024211.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "s2ub5pd3gv2hgm0": {
       "backdrop": "",
@@ -435,7 +491,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "WYgcPYNH7+rvIr65Y/LgJOu8QgUNJXaDSxrQgakhE0a+TnpYcRrifb2CGRir5qaW+3oSZ4W+hsRAngvCQFtlRsIUYwPkAM5Cix0CgSj/bzHKBGmgN1XrsZNx7V7IFgY6aZcmW5rogeg5qR5MjBWlUB7ODYyUpu5Nsrjzs28h669bZMx5xJ6Ioad/a0QgRHfLZyEFH2D0vAZ33TbvUan8fxnu3m6xGtKGecCPvLNdnQluhOMT31tFI/EabxdZZaSCFzxZwQ+9toDelLCgsc04YLrNjVym0ZBL/e0LFzk+5DsF2g=="
+      "url": "http://pro.prince4k.com:7355/live/YY5BOOMKSPOH779@KK/LICS7Y98CSILSCIJCC/181672.ts",
+      "url2": "http://halatv.org:8080/live/46665/0555017096/181911.m3u8",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "vnw1p3v31w85w0h": {
       "backdrop": "",
@@ -467,7 +527,11 @@
       "hdr2": false,
       "hdr3": false,
       "bannerType": "video",
-      "enc": "N4dIHaMzIPAr4Tu0SDkI5/Fc2cpNuwnexXKCOOb36wnBqCobNq3OZmsSrREfH1AR8Zw1TExkuCjvWhny5DhsZvJNTu+orN1DqWnFmhnL8VKbyQsoWPYFsTFW9WC902jrfPV7Nmep1tNI+FGJuajnxPl//Bw5NBm+y0V/vb0Y4Fdxf2ExGcHSWASF7AWn40dzNl1dnE4TWoNeXIAyZKuWp/QCgvqEn5R2BPv4WBSu4MnKA25Tul4lFm2qQdwo92sICTvYkQVo9Sk2jqWSwYe1ZSuo0VeLfnATk8CdvOi+INlVml7vCOnyz8lNKn7/2O4LceFTAPSSQOUh3db/oUxuL0nVEi7Txq56w45Z+P8S6/NYjFg="
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/649694.ts",
+      "url2": "http://fr.nettv.icu:8000/live/balhadjibojm3a/n3grmdfjgs/1936507.m3u8",
+      "url3": "http://109.71.252.138/Alwan6/tracks-v1a1/mono.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "9wgsvjzb28c5xrv": {
       "backdrop": "",
@@ -496,7 +560,11 @@
       "url3UserAgent": "",
       "userAgent": ".",
       "bannerType": "video",
-      "enc": "DT8KXMezTsFDk9/NafTXaM74I3DPrYcscgNdJuDiWnK123h5xkxrigR+sWVyQYw+6rKsogW+ZGGqCzKzgpF/GLZwGvVivBV0jPaY2kJ8Zu7KHtOz5xuFRsK8pCfL0KGrsrWIlSkQa5a/IHREJhzif3BSuyaE0YIMYo6jFcVd41NcoTmzpLcIuU5MTSOKqIex7ti3x2exXwXSxMxRIUoyI6dzQCJLG/VcQekkCbMW5p7ACxa/SBiKHLOtxPZpSpmQzHyadOI8IIiiWFfIE0WLMwBQUb2qB/6fHrbThQgUwFIeGPwwVMOwvn4d6NDY52meIg1VkN8BGG3TzEExhu+Az4THdryTO+pG78gf7T5dHUpK98yo39xHm8GhvSTy"
+      "url": "http://rahmmax.org:2052/live/30635000266893/85606299443755/601394.ts",
+      "url2": "http://tanbieh.com:80/live/110366811170D/162411098190gH/357551.m3u8",
+      "url3": "http://8k.lol:80/live/19765982173986/15908418752697/898340.ts",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zggwyvxpdhy4m9n": {
       "backdrop": "",
@@ -524,7 +592,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": ".",
-      "enc": "doHmxEZADfpm5/xdYmMCfqFuQelPi9QFCdn0RXybAf9wK/t90Ky/MIOjZ4/lCi/YkB+ggtZOElFzI1ooecUgVnBuK3zfLOP41mc8y80vYi3Jz9NnsVvlHJxQbq0km5+RW68mEQtLhPyuepcjyTCYOJWPAvvS9b6oCqokmnBxyvqFyvmI+5X2GZrZxLPRYG8c34HRafOfMCoA3q49Rpq5c8o11IUXCUs/3SutkUJLP1z72ar6BBZF0UONVT+vA8XyHMRzU6y2U+uU0a52TpfdcGio"
+      "url": "http://live.8kultra.org:80/live/mk6hsfGs/m8X1use/701586.m3u8",
+      "url2": "http://m3u.drm-26.com:80/live/8ztzf3livj/lt252p7aso/312579.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "dsmpkpoiggkfhxm": {
       "backdrop": "",
@@ -552,7 +624,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "SNUXyvQYC9C1u4rqTsJIgxOS3Dl5Px70qhEj/DW8miXPpAKRGxh/zibvsTivoEyIzJN6KkgVQPp9KFGTZ9MA+hJbcnNeA++iW6cXq6WhhVlVeM92aKX5SADJe8+DTovE5M+CxiJ9Ij+llJaAMqFk8VsaT/y404gEb2mvzJXk77lldT6QLRxPTkc+gY002GuqgKBF8StJjAfEwg=="
+      "url": "http://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "3qmcei075l8og8r": {
       "backdrop": "",
@@ -580,7 +656,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "Xh9sspsj6Zq3XxIbuRTlEQkp3IuziBaSsEwrSzkyBa7HIstmcV46kO/glYDE85RFARfgcZ3wUAVyVHIVixzRZv4rTYT74eQ2Az3BnxnJVm+0YdrVLowBw6mwJbMxpG+aOHSzO7HrlsJMRObv1zR63epuR2v9abmvWgWKVWyw8s6XvRwg"
+      "url": "https://live.jintv.org/medialive/jintv.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "wf5s48hhwxx3ns2": {
       "backdrop": "",
@@ -608,7 +688,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "IxZdOcpLzVV7HzIyWgphNZoUemVxzhG7Mvl5c1JpxaNOM8ehyDrEC62vG3NDqzkrBDnTpCmW+1jbQXPwlG7UapdoYwBRCj2hLgu2pgrbMWbSGvu8OdcBsRzZKWpAJCc52jX25BJB9Swth5efmJ64LdJNHf05/OOsrKYBjmuIYDGf0cpDeInnagR0JBT4MYSgveHT1K1bIug13VRkEQc="
+      "url": "https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "17nmvoix7eysize": {
       "backdrop": "",
@@ -636,7 +720,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "0TeeRSyi34DVmKFwvYW0bSTPCWZ/p6VneFZNg+I8jMcfJYVveNO4as9NA/yRx6bamcPMM5QUxcX3m/wVqTZH0JzGrqbyfqORjIjnX3Tc3RBeKaOngkyWWmnUt0onRVzFSqxOhtX5fR/EB/YCuVTvzlncNMSxPVNdD/32UUdnXd39fnMKAu8N+cU="
+      "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "vsy7jjp9q9ukfjy": {
       "backdrop": "",
@@ -664,7 +752,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "hJXeDHzBm4A2WO8Fz+z5m/Zk9u3VBoVGHciC6e7/6Pr/BTDVSSpZArZ1F0QtyjiK2FiIGBBzBMYlJ+s7a/Gm3uEpmdfAv/gVqJQK0SKCzZ/IcOXSPOFPgPNM42ZqwGxzt/jhMj3UCsGWZLAVY01LeD8KgPkabmvBvnRXhWWC8XM0ua8="
+      "url": "https://kurdchhls.wns.live/hls/stream.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "h1ms5o3koks94w9": {
       "backdrop": "",
@@ -696,7 +788,11 @@
       "hdr2": false,
       "hdr3": false,
       "bannerType": "video",
-      "enc": "fbyPjDoCUpCWZmNwhNbb4BpZUJAE1drbJIeFsduIbhwvNHlVEIWkM2nAz+suX/EfTWrn3YG3Z43L8fXvucUn6fdnQOBkiGt6v6QVl8NzXwXmUyaGRRwZQDfOy4U6jlx0LBshrXPOsaJFnCU9PlyR1pMExkuDxXANnWNbwUhULj+8taN2OwhynkDcbyo6ioraH4jXzD35+XDlUx1veDbt"
+      "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "tlg9pavu3fb7a5z": {
       "backdrop": "",
@@ -724,7 +820,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "FaIbX0lsgHmM2bHkxubav4BQ1JqXBMLCw5wk3ADB1GJharscO1uCoeOEzqCgy8Yhj3nrFkx61r3c6AvRsDaHalMOMZ0feSDFVUtYXA3SzToqDONlz3YoIuTz+oezRm/2QGQn+uT0BChanJ9q7UiTcNTHWAwfD/ysRAeGbw3B6pCismpC2eYDcO9Xcsd4po9uizsi1/P1NRGA9P3a6zwK"
+      "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "1i1rwgkiypu4kgo": {
       "backdrop": "",
@@ -752,7 +852,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "BgDj98OCC8zxSKoMLOMcduuuzRONdHwTXFL4jcbosAm6yKVDCOPL2FsQAtLzt3yi2zCBfOW4cKDLEuRb2J19Xw8F90l1RLtGroWcwCNLfPj39yKZ1RJyMEz81PMwd7Pt0az/w7VC7+/QiW+gWswZZEGJ3CGNTQ/+yaOOnRIzbcnzUJ4K16w/Jm10XU5rVfK7xyYw9+cVcS5+ttk="
+      "url": "https://183.bozztv.com/giatv/giatv-kanali21/kanali21/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "3148pmrsdxutoe5": {
       "backdrop": "",
@@ -780,7 +884,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "qu5ZYcPvb5tEi46ucy2ZXh9V+fkcXC/um7Glg8G5n73d1IH+GGj6ZNSeXVV0GWSQ+XhylAxre7fo19tcpJ4Q6hZNVWgo1b5EGQWpR4K3Za2kEBx8q3yEw6RzP7Ai+XXuUGEdr8rtFPcJYoluzt77ab0Yve7S6sada7SzPGeCP8aC/ocBiyh2Jl3N2Ox82vFQzI460aJ4Oyvdpw=="
+      "url": "http://mmn.mypsx.net:1935/live/mmnhddrama/chunklist_w2947989.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "9y1qyachb9y5jwh": {
       "backdrop": "",
@@ -808,7 +916,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "3MclvNMEZuk2ZQWDGKMLd2sq+eDKIfNXbvxUuYmaTjifffDLjF6IeI41nTdNqj6aD/0Y4cHoJB83d32ZNbDt7LlPZe7Ruin03oWP3i57wRHJD+dKUm3CFZ4ZZFyitJvxbO66dUtbkEsZdADM+agKbIcBNOUWkKZcs4mEf3CdR2apTQh6LwAPq1byal69O0i/8g=="
+      "url": "http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "y0485ndpsoiykfj": {
       "backdrop": "",
@@ -836,7 +948,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "89MgDTdvsrtuWCeey5GAoy7CRZ0T39SDzM28szIFBRXU2fBF1r+2+1a/R8nL2004WO7IxqqwJIVnPaO54OSewT/4MqgqhdU89j4dbF447hwgiQ+Dv37LlCfg8Y+itE50z6zP5+wDcxtVFk2M8YtP5llRjkBIYK0ADe5nf9002k9VVs6m5M+Dc693FRG7wKJYF9YGRsvo6p5W0aTB2zg="
+      "url": "http://mmn.mypsx.net:1935/live/mmnhdmovies/media_w767824203_1991.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "jqssq85cf6nkvki": {
       "backdrop": "",
@@ -864,7 +980,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "iU/dlfvOcEi9bCMA9Im+nBKEktXhPgnX9nD2eSCUmt+94FrGhgO2bHDqwjuVybQk07C2zExoEuXROrNu+ClDzSRkB150ZHCUqGkumCE2FmRCxhUrg53sV0dBD6eIfqNXCcI9e9ltLRWRHw8Yng1pJ1o7XwRVCTknGQ3FbhnxDnKaoFhHWevA5TPb7iclvGQn"
+      "url": "http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "luflkpgtyr02lak": {
       "backdrop": "",
@@ -892,7 +1012,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "KvrhJk4yiA+9lOvqBHqcjUpHmWMr7CDs/p5pB+XuGnzsrfmcIZRAI/NHpWErUnu57O0xYSilUR4b+R7B1XjnGyCXEUYZI7YsI2Tgpd3BAfaZZAH20nnBgjpegAf+ard86V4yT3Hf5h7dIzgmdr9w9MLVihEm62d5BE+Rs4nZxnf3D3TlcRdX59j0lUiKTp6hvaxbzhox"
+      "url": "http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "5bbxjrofdx6nl3o": {
       "backdrop": "",
@@ -920,7 +1044,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "iXsqtaCku3NGb3Qu6qX1XW8eeMOqtjOgqdVETkGeQ9g6zL4/tW+5ZzM3QcjEBrTgB9iy/4QKpxqncTcQFzXX92omC5GelKqIExuMykK9W6PPMgCprERWtOH8oJkvDXqKPjy+33SVp4utCWWlO4TXRMlYYixMYyfcgO8nMUZ+Cp8PUwxdY1mU3pfJxOd0Ag=="
+      "url": "http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "n2ljgx6g1obuofe": {
       "backdrop": "",
@@ -948,7 +1076,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "gV//INe+uE6gcZrtXztf+IxrBYuOqssDEfJBVE7ZPqj/1zIKPMMDiBZYQhvr5S8wXPcmTsauB3DQHjAp865NUmWZXn1MLSGkuKpBbCNvbrOB1/v9B6soKlQjL3a/Xzooij7s8EqSYc0LbSvWbup+qWLFgfVQhTC4ay7ff7l8"
+      "url": "http://54.36.110.140/live3/live3.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "rhitgcowlnb020n": {
       "backdrop": "",
@@ -976,7 +1108,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "OeKjV9j9/QAseqow/N+jCNthnKimyErybkUH46/mClvqkbhd4DmcYmd1oBrQhN40hyA3atnO/TZbuR0t8LvF/mMCuq92fOWcTDEh9RbFUCIiuIsu5T9ITeHffreLiCkZUJ1B5wDstj7QOcsLD5QMsAH32W4wGV4Y61F55uLOJC/YIKUBaIy3/yupgijQzQ99hm9hzdhY9MFT1FCP8A=="
+      "url": "https://live20.bozztv.com/giatv/giatv-Shawkat/Biner_HD/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zfzdi94qfz3mgub": {
       "backdrop": "",
@@ -1004,7 +1140,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "kyEmir/OB2+HDj5nFU/10miof4j/eLn8lQmR9ViulEQTjQ5vqD7Kp5tMH/Qa/Ljo75ZWfFr05JXQiiG3ZbpVkK68PwCzLsMmeApC7geWPwK39xnXpb0KS/ThGxk62LtznveQnivOgZhyO2qfVlFiyVKis+9MIBZ9q/ARPK/3FNzFu/y7lg=="
+      "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "9kwxcw2v25peqh8": {
       "backdrop": "",
@@ -1032,7 +1172,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "NLLU7v7bAc/ESkUc1+zFhYeCxLMsraX00LzfOYSDDZpwogEOqIRRo0Vdv+SNRwGpjqgYtt0ut1xqIA2XCW9e0K/DopQWRHLG+kZZD9H8QAU1E17Wknehq3i4miGdhbB7tR3eT6AJDHsgXMBSyp4k/ixmXBJJ79eJ3sA9pOi53Ip5Y/TCMqqau4Cc5NXIhEU="
+      "url": "http://mmn.mypsx.net:1935/live/mmnhdclip/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "3xv2ym644dnfof0": {
       "backdrop": "",
@@ -1060,7 +1204,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "BAg+LB8twUtc65HTSIqXvJhAUBxlPvDiN07XRsf/EPnJS4IvcPUke4oUzEjAg4srV1l+FBOSmddprCEnw+X4VUozUrvgyVp64QpzpzHOcypIehqoZWZBtOQY/PEViRWsTf89ypfYSEvGrLWjIetVgCauFC0jpZz8zDMnnYpkUuHJkxwPgOkmSlqY"
+      "url": "http://jegrmediahussen.com:8088/JMedia/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "mz3o5slosrg7roc": {
       "backdrop": "",
@@ -1088,7 +1236,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "WDJ/jFWmyd4cz2hX/7forDHxknH6ynHcc9sC5cSDpdh4pHnhNHUCP0CzhEM7k8vxTF6MTkOSBZK0picJAEXYeCvdJhys1kUnagUp8w1NeOwSYIA35m4uruInzNnPbi7DIPG4qgCGxI/9hobMAdA8QiVf3r1NMPqPPAf3ln0eR4S3bKYzYQ21QL8UIqQ="
+      "url": "http://avrstream.com:1935/live/SHARTV/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ani3f4zxibr7l21": {
       "backdrop": "",
@@ -1116,7 +1268,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "9/ATLXFwt4qKty3VmDYJvQ6ZXCiwt2CukrpXmvBI5ez18GOX9qg06ii/jE5KM9jsmzTK+Ewc7s4dRjQdjZyV9GaNPnTWQXXCOcgZ50AgIxAb6xnCjESnyCDQ86EjZhfbKuFubxMSqiSWVS0y3waA5UEysW9Uv2ISmQHKOMksoxFQw7Kb0g=="
+      "url": "https://cdn.karwan.tv/bnar-family/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "znm9ot9dnbbgtyn": {
       "backdrop": "",
@@ -1144,7 +1300,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "eMsfDeugHqtm8KJoSLeEoiotbHwD+98wEc4JbA7wmJ6mYToaNs9ogllKfjUUw5Jt9WHYYuO25Nk5IFh0XA4WPVv+5x/5NItRBRExwdY/0tDGxlycPuyB0Bq25zM9JE9QYltoP6zPs/kZDmuIYO/t94TLrgcMCGvvfIxCJTUD6BiDuw3dEQ=="
+      "url": "https://cdn.karwan.tv/bnar-action/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "dz5lh00gey95mrw": {
       "backdrop": "",
@@ -1172,7 +1332,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "Tj6ieoN6rR7yL5Z0ycRtyEgW/4OxTDhiEngvbJim06YdzWcvrArC6x7s2zU3VKwhbWWJ8kSdQdfAaD0KqP70v3+oe8iJBZZYdaBocXCO7HriRfi5ZstdhkPuOeUsqjLKlqxmS6fr4Jp1mItyUUCHXNz3CWXdvamGaUbJAP0I0uJCboylAQ=="
+      "url": "https://cdn.karwan.tv/bnar-movies/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "tpafcz5wsfq6fcu": {
       "backdrop": "",
@@ -1200,7 +1364,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "OyrxR1Z1VbU4r4tPoEH0HdwqCvR90wtTASt+/O54zCePzTTNvXiWEbL1/bYF4F5pyi684FGi+KBg9FXKlfRGGSUd4o+iGZNe1eYgQroWMX5uXrxjwtbK2bOixBzC62I5wwPJImE+DQRjNQnsk+lgbju/G+eNrggILNnR6tjky790prHxrpvg0jZ7Bdn0GlM="
+      "url": "http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "fohasm0zbvfb20h": {
       "backdrop": "",
@@ -1228,7 +1396,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "bqMuLct8Kcf0o5r7jGiJhj88t0gUELW6IifmX9G43AZZh2j3sWGHh0gaFDao4Rcsd9YfViKkrs0Z9P/pATM/iOxIUW3Vqq9bKlLLIMiEvoCqd+pbVtmF3lsBsiKPJyg+gbGfrRmvzpfYAl/Lybg8eSfvrQk+pmrBZHJwxhVEhMmEwqSZwSos67DXS4vintDCmM3WYH2/LydlhCe9"
+      "url": "http://tanbieh.com:80/live/110366811170D/162411098190gH/355016.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "y9qdi4ah5cv01kq": {
       "backdrop": "",
@@ -1256,7 +1428,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "qUJn7rblo91GYLWDY5iq3KQVqgJ6OS3FP26AkBGjpMMpu7EQ0rPJMBI0WYpTIkqM+X7UZLnbqTOVI12fZnheEdm9aVD1a8GMm9f5TRwO1Ebe3rWWcOf88DoyTchBa1HXgk63MT87/o8dn9VlGoKD+oGR6L04D5cccum/k4MF/Z7lfEoEtjPnOfBeig=="
+      "url": "http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "e6zdecyt2q2xvom": {
       "backdrop": "",
@@ -1284,7 +1460,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "RQoFayuuL9f09OojYHF5deiEECMoovYd0oXL1WBvgpa7Rd6c1f5Tmw3sQ0IrNclaYYFQcHIWfnUZ4BKT3iqu/dS59B3XszJT0Qkw3EFJk0F7omk+t6KdWoXEtNF0gk3Xha8htUerWly4W9tzAfroSkhXbDsyANvsxCYl9B1ZwdbO"
+      "url": "https://iptv-link.short.gy/Niroj_HD.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "sis3sxxze6wrvkv": {
       "backdrop": "",
@@ -1312,7 +1492,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "uTtsere+6vsE7mhkMIbJOrH2NBemvptRVrSv3uY2FK1UeTFubINNaq0qhiFNFRoWWDX0v8WJFQmTVqa/OYnMjKp309bYQBqoh0FCCdorYrNpk9rCTCfrwx8yGAb+ajP5HN99L9U93sogqOOy5DXWAGzapN5+u4IlynkikTByqxZB4qukesJzLE08xfQ="
+      "url": "http://avrstream.com:1935/live/AvarTv/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ia6814glot1rjsm": {
       "backdrop": "",
@@ -1340,7 +1524,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "8BjEMjdWvBPiLGD0Q3B4o/XyUWw2rEN7TlPb3M4R/0AZJb+TVWebANIF6mL0R9JdGwH40wLKDke/5pUcYwnKT1No/J4QXUc+//Pdg7CHk72uPNBzTZPlAK7uaII+nQf6+ChfYEkg02fucB8+P5kXkmK+mL8ltgFE7+YKqZlHVVMmCl246Ph8AQQRCMZkUXZDm9aFkdS/iaSg5XfAqEx1o0t6SEip5rsZFgY="
+      "url": "https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "s6kppbragf4co0q": {
       "backdrop": "",
@@ -1368,7 +1556,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "NcMMpjLheG+AWlRvy7MKd1rVCgdd3/i2ofGhk9bDW8ehCkbfPBL9Z72yTPEwzvHMv6rDEuG/xOxLkTLXY/2wZ99UKp1Grch6bYhBpEVDgMNW/dqG6/Vjl33VhHrrHavSMVaiUDJSC0i5qVHdxPAn399Sy6aI7ZMRPTOyNI+g/awxanDOipE/SoUM+1w="
+      "url": "http://avrstream.com:1935/live/ala-hd/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "sllws3q8vl52u3o": {
       "backdrop": "",
@@ -1396,7 +1588,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "SrnCCICTTVCHj4fJFnqyZBXIwdL/CA+jZzWaLL+J5yGleQF5lTnpw1KA929TF4KFTElraRwoZ/BNkB/VvoOZc1EaeXlgGMqHk0IQfyw+RKYl/Zeo9y5H3pM4NSV7ut0k4c73FjGAvnPuTUHB74kpYPrf+DNkQc/a483pGVkp+O70+2//WSkvA2N2J03DJN8="
+      "url": "http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "excrivqq0ykzvas": {
       "backdrop": "",
@@ -1424,7 +1620,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "71lXOyczji6406Vu0ZFbUGJH95Vp+5uSzXWmyp38o0kYju5fThLHMH8SjA3ro1+yhk2pPexAKVFm7l0eM5IO2vyClFe9xEAlwwB6K74nLh9O6wFGJz1xoek2ExjVU9Pb6UiByNe+2GY2RxCQmqHyPLXgyupFviEw6urFSA/pOgaUQ0NL8YXZm5Tu3A=="
+      "url": "http://avrstream.com:1935/live/REDTV/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "by82j28b24qz2er": {
       "backdrop": "",
@@ -1452,7 +1652,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "lTvmeasQrX7ROPR+PWU1RL0VuSDY53Zn+soSCvG3Alj42uKz7AK0LW/jlMa+1JvXKjGh4IfTOfcfhKi8sr+whl7QG00gEpRB/ASMm7fuJadPZ/EG57WY1tONCoMtjIoKviqeAuU7CVNAE0aKchGTIdQKzaJgtY8AjaNtEjuRcY1S+sHHNqojfKbXnQ=="
+      "url": "https://live.kirkuklive.live/hls/stream/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ykcdptgtfmzoet2": {
       "backdrop": "",
@@ -1480,7 +1684,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "0LGuW1nY1ZcK0bveRwhruo9k4MsBRL6IvL200aeuyzwzQ3BnRHiiLdepLxEWE9Lvs9H7q5Rhdr6k26VzzKyCaa47UQwcBzPRaJmTyk06darftDEJ3qWhezU1qhUQ4eNcrwkuP7jHxQglOhMWrlpxUQYtsemIVqWz01ZuWAlk9NWvBgYaOgfV/i37oS0N8uap"
+      "url": "http://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "fn4vonkotbqw38i": {
       "backdrop": "",
@@ -1508,7 +1716,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "78DtigoqyOJ14CB08SfmjMxokfqj8LJvnOelgs2OQ0sTooDiHzfJSdBDif/6qRPZc3bHTv/Log5fW9ZXR4sbaHHWCwixpj1jcywpoLCiCJqXSvn4YUewIqy9EqZANmDimxox6iEVmk3vpwyPuC49cCby5WjPjBvQ9CineiedsufF0gqddNeGpqqYIGcTmhFpcySetNFUCWc="
+      "url": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "os5iu7xacju86gw": {
       "backdrop": "",
@@ -1536,7 +1748,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "KY506iO0RIa06TJKSwaOt3hgc+k4aGd6M6sbtSQPnCSsJVuS5DAB5bwARqkKFX8BdCQLtaK6wKMKZj/czsKTLFtsi32e+/W2OlleraF5M2CNqpEPbrSJdwB2X0NP5KlGffLE2mIps2uxsKVxsoBu2ra8MVKNbNuhVhPp4z1Q6w1SKUsTvtwj5og1TJ9WQQ3Q8u8oOXSrl/o2NOjoooAs+7k="
+      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "tbh6m84at0e9gw6": {
       "backdrop": "",
@@ -1564,7 +1780,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "7eUJLO6c/onuD4ZQkPdKBjSxn9PADywShB5IaykOvxKJHzVjnzOMrf255KntvxDLAXuiDcw3MSqyItpsWCXY3TGF+Oq03MMo+oxggodEnqAJwmz/5cCoEQrH1pX5T37X5Jov+BQLqnGEIuZo1EHmGSyCsQwyPg7BssxHAliwzWmUCs1D5lGlZ4MzrXfdGqSCAHoMHO1+FA=="
+      "url": "https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ehr8ytyp07afdwz": {
       "backdrop": "",
@@ -1592,7 +1812,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "75j3CKX+k4ZgZ3y0WY9NVbNVkMfAKan9NiAP8EjzwQmop6WyeoeQpu5hsT4aYIAFuEWp8lVc1XhZWjRejhB2uy77qT+/yeSttz1m4gTlq40R/TdUk9gmDaMb86HhGF9sOggL/2JuZOyKFKZI9ygUQ0QX0Mc0Qugp0yiI/rcVfvvuuzgdH9Slr+fW89RJOB/D"
+      "url": "http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zp8kpo3knu021k2": {
       "backdrop": "",
@@ -1620,7 +1844,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "yoRPfGePw2XNHKeVEkjWvMwm54r1O59TB3ozzq/JxZoeqYUODzZHHQ3rpaLo7Eq+UpI93zd5LfqfKCBYEFeNWH19l2vDbY0qGeCias+nh4gsVrZIK+f3PnVRNNSspFHYtYq28ott6cxoGSO6rXai5O5DUL4BUOpU0rWOcjjUTgRhpCp89Lp85StVk4Dj7ZBtHkHJyjybA1jn0oI="
+      "url": "http://213.32.255.86:1935/live/Qellat_tv/chunklist_w349314109.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ttyn8ojkbmwueo1": {
       "backdrop": "",
@@ -1648,7 +1876,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "5M1hsBLGwaPNGj5dnslP7dX0ibC2T2sdwS25+9nhMvH4P9GPgXcK8qaiHbuhzFZUkaLM8KCTNEKG69u2tjQJpTuqa5+ImtVhrGsZsGu7qRcg251ioL27ea8dYKfqBdrUwgCo+jf+rWOzvGM3tG1oG3/tsUBPRspbw+BkLc0pOpk2rDcnJ7euLPgvt/nFhL2vGVOB"
+      "url": "http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "m948lor5bdv72sm": {
       "backdrop": "",
@@ -1676,7 +1908,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "jSz98+XWsVhSfX2Jzdi+a2kBFsiu2yxq5+d8m/LuJrJknSW5h4VoC3HRxrZaxze6NDs5GbipfrgTJDHu7PIkjeIUlwuGJD5Mmzizs8Pk/OpwSwqkfoCFnUq07CYI0Bdsb08bNfW4dwU8Yplqdb1fMziiw2ZYxOhgm3KWpZ+lZWahK20G+B3UQg85oDIO"
+      "url": "http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "icr6quohqnn2va7": {
       "backdrop": "",
@@ -1704,7 +1940,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "cziSF5WpE8wz8FmBc3NSeiPKRKiaBIWQYMHeZNG4GN0j8oNllctbE9YOJ+MCVAXzJdxRfV2HAG45UsRaAe0kq0BSwg/Fk7MH3cLJu7mfZFN1KZ6R+v4E9usr51Ih9vEAydBd2zQL+xS5ddcOTlA1V/cYB8jZ/Mbss/vjpmcFM0X1b/U="
+      "url": "https://cdn.karwan.tv/gewher-tv/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ah82lqze9vjmi05": {
       "backdrop": "",
@@ -1732,7 +1972,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "pfMgHrwqmPeYHSykBa4QEMuHCvyHgDo4F/Bise9HHTJd705CyTNuyHeietj6B7uN4D5Gt9pSgsh6D/dLQGMHrTTHl31cRlWAoeUrosjJL9TDSiU7VULgrwS2eDGaici79TYlDI5dP6crG//ZscJ9YSTHnQSBYC7pVCHG1WPX62v3ZYhx3bquu2m49I8CmAij2gHs5A=="
+      "url": "http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "kjwx3zvftlsf6ls": {
       "backdrop": "",
@@ -1760,7 +2004,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "B2ZgWY86Lr1Cbtolk21AeJ7zAd763o3GsUCzOtmjHObg4Q3ou0Aol6gBToKf9LoI/5RZBF9MSRHuWPLrJGPVx4NbjXGaJ3PZIPAQamHT5NV+qVaGBL8PSZLLrXd5X5Ura8kTj5Y9JF14eR7HozFMN4ihZvo1aNTqEJ/ITEylqbtc0nWLXCHeVdiIhVWJmg=="
+      "url": "http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "k6syc2rjhmlzuwp": {
       "backdrop": "",
@@ -1788,7 +2036,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "J1fjudcjz3zOqG7Lp9auevB7sjpf/ctK3AwxbZU6mXVtwVaAx5lbt2HGwLTXj4JOi1BhU/fyK/oSg4+a8bP703iv1ZVh5n9KwORfEK6Qz6j0M44nirEVaGsc0uQsDV61gRQdTtuUh0/dOnM0Wl0OdWGU/upq4u7XtJjjcWiPBfLltIZ4f4s="
+      "url": "https://app-live.org/live/a267c1b3/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "tkefll5uk95zg7n": {
       "backdrop": "",
@@ -1816,7 +2068,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "4XbO5PMZ5MzTyKQFAlsPnkFcGkd5RDFI1LhssRmaQOMCjLuFzz5QaItquAdlLTXOv4SKKKsFas+HD6m1pSn08tUa699gIc+AmN5msiWGRTKDJMRNDNN0GjDuaNQSR3DlY4mVAursiZPcSDqtbTIwycJ4xGIs0UqK92jduHtSh+NpSQF1OYpWy4KUx40/v23gJmI/Rrm7AwBj1Nr6pAZw7Prxg8w="
+      "url": "https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "b0josgbdqofyyu1": {
       "backdrop": "",
@@ -1844,7 +2100,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "7BAPsdXi7u2EVXcFA6YYejB2tsO5ujDGApsz9vgJcHWvMyH1JoD9/sT4+LhUbXXtavDrbx1jRB+Nst5MeKeoygjTjhGy9LKpdGJaslZsAeG2pNpfrOBFkP8LRRSxfgXqlHvwfLRK5ksNbvmU8/ppZg/SNKtAW0XuACAXU4zAjyo2pmqhgVY="
+      "url": "https://app-live.org/live/3268334b/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "y1y0b9q11c02baq": {
       "backdrop": "",
@@ -1876,7 +2136,11 @@
       "free": false,
       "hdr2": false,
       "hdr3": false,
-      "enc": "7XfgB6aUF5JhOgtiUE9EjaGS1mMGYhlDEvJDrY7/+vaWkWKTcU2RS/PbosRrMfDB3LwQzQqoQ/jE0fqmDmj2Rg586xNuYLHm4zzFItQ2Y/QlHBVGo9IpEKKd239zv1kcyT0RKLSGEk7L2wQD51Qk5P97x7Zb0LX1mn0KoR8+Z6I0NKSzSawNBGkWOlBj9yeNdTAplibjYBXXnsWQOSgsGrrcTg1FyGPl+M6iZc5Zxnt2AxNEBRljONAwQ63K1J+/KOOCBGnY8UfZ/ZnxHaN9myDS9eAaxtg4V4R3/ksafG0="
+      "url": "http://rahmmax.org:2052/live/88577072662804/15518509928643/601450.ts",
+      "url2": "http://one4klive.com:8080/live/Ghgffjklllkjhgf/Hafid1997/98204.m3u8",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "agki8pehii2xo2u": {
       "backdrop": "",
@@ -1908,7 +2172,11 @@
       "free": false,
       "hdr2": false,
       "hdr3": false,
-      "enc": "XC4+S9eq5k3nauWg7Qxt+ZtGveL02pUbm0+FEQDeZeEmQbZsF7bAhyKjJENb0EG61HmM1ohSRf1dstE1ARYHnTZY7SS1s0LkNUvjGNjUx5YW82w0pNkvQibZhIG4xFQb7kN3mikK0ivQmCHv1gPdGtHzYENjkLhkCLOHz+51IpEjd0Y80aj3OGnsZtuNxhX8DK7IZ4E4fKLhdrf6MRljz2qhAvzSK4vE/HjLlbcC6E357yjx/WW/naWvX922jdageDgTYZaJCR/KH1AGNbDkfGKmSYqgenNWKKxJ4hIYp7o2lDMHF25nvfecw2xzAiTsexY8GN/JgSEsAH6AuouauYigDdPjtalc0UlPwSQil5SPak+unSHemxmAi2fgADg="
+      "url": "http://rahmmax.org:2052/live/29938654291415/49071921116498/601449.ts",
+      "url2": "http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/429782.m3u8",
+      "url3": "http://s21tv.co:80/live/809933047584/316247341655/807691.ts",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "78xoj225nxpgb0t": {
       "backdrop": "",
@@ -1936,7 +2204,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "enc": "9G/IBLR2Q0MvaG0msB8SJAeSavyvDDzN/a/rcshAAlNFo2nAFw/nDh2q0ffzYRINGTz9jiTQtDnYspVCiQdpX0L8+SXzfqum73zqtLBs5uAu4jTf2L+ob0rOa/9RLBRheEFQ3BcUsgJuux2l374dIGeBe83GWOQ1ZkAwfyMHK/wiWF5M2KvXXH+8wS61DVhQe6FC/l1fRY7oCSR/prSiAec5KBMNBzJublMVP7hw8g5JmSto13udgYlTBHTuTH2GWgy4Bq2oImhMFrM9Tn9qLt46xQdTQ0wtFySSclc1xYVhP0FhEGQix9FH0UdvVFj7ycMxSnQFmQ/JVU+R+FI11PhRukuayc8kU/vQs7GPD+7Vcwgo"
+      "url": "https://stream.kurdmax.tv/app/kurdmax-sorani1/ts:playlist.m3u8",
+      "url2": "https://stream.kurdmax.tv/app/kurdmax-kurmanji2/ts:playlist.m3u8",
+      "url3": "http://tvr.iptvboss.net/live/tree141es/sdfsdvvcxvxcvx/2467.ts",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "u3fywecioujjtkn": {
       "backdrop": "",
@@ -1965,7 +2237,11 @@
       "url3UserAgent": "",
       "userAgent": ".",
       "bannerType": "video",
-      "enc": "J2bfyG/cq+Y3YzQFYZIY4v/cJvPcx9R43hD7HyXjnu2Ebs/TLb5+kQldbw1LB9j5wIabdylmay3Q+pxhJDNOJOIUqbRN+ppi13M8vdVZ7c80pFeZDS3DokjeX9VmaJ4z36wFenRIr40JV26E+hJJyz2XPAiOY5bfsVfVii7NjDTMfpQMV8ganRYadLo/g8FZyHIvjtpHwlSr0wvV6aRxL/X1GckPZTQlIgI9cekE/crx/9K0JhQGmsxq1lVVavmkD4p2YxKAHL6iVUd8QqlZ2YdvloJ3g4JrWnB0VJvrplHekXGpYWv+wUyBXEstcfMVWrJQnzzqlY5sZYMs+EmS06ri1eHnqoXexYlSgYNsePAVRG00NmNrmSptBhY="
+      "url": "http://rahmmax.org:2052/live/30635000266893/85606299443755/601568.ts",
+      "url2": "http://bepkxmqd.pardns.com/live/9C1C9S78/4NSSUNFQ/172974.ts",
+      "url3": "http://a36.cdnprime24.top:8080/live/7137884299/74238942394/978087.ts",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zx73pklo97qw6gv": {
       "backdrop": "",
@@ -1993,7 +2269,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "cJGQn46++ApLtiOSPH5yFF1/NM/hGweqCBk+Ds+blto0NJbQ1oscCrteWsgDWU+NHRZ8tfuMQD3cjgXptPk/wLiSekrlfZ9BiDwiKP755T9VPZxwiBT6T5t+CpZ6jgMixtMaW1hDdPTkfF6ccQfo5isktWXplYQGgQuG/BbpGgwAAFr202urEC8hmTyV/FUulsG3JZFnos4Hb8nFLeOA+lZp"
+      "url": "https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "6fx8c51e6zc0rwk": {
       "backdrop": "",
@@ -2021,7 +2301,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "3sAc5wuEnJ59nLO9k5SV8fvwySv14klLeTGpqLs1wNL0iR+jM1OxSteUZyx6cAZTDITZ/qP/RU5AsI3bCA2vmkqbcSFcEWvn6KNN4QXG1ioKQdfQVEP4O2C92scCHxhujh3X3YtzuPcNNLFZ0zaUB/4LwaQPd5fHJ5y7PagUiilKxwmrnl0CTei9zEpquPJ6fqsd5Ztw4Q=="
+      "url": "https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "70pj0vaubc2sm24": {
       "backdrop": "",
@@ -2049,7 +2333,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "fF0u56sDPnYJComJ5dzt0u9qYtzt4VNaTwTS3ZyMq8195sU275WdtrrblSCtwf13liAADthSRq/puUhW/rpX3aNBsnu86UELdQTQqa6/H/Tb5xzCgiHEbOcEgaRDiD9CemJbOTdTDZIeYBSRgqrFv3wr2gMDcJnoPFOyAXewCDaDG43bwF1wbkRwtfNvGl4jGa4tUPtNxcq08p0="
+      "url": "https://183.bozztv.com/giatv/giatv-zhinfilm/zhinfilm/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zrmjx1hllrplwfd": {
       "backdrop": "",
@@ -2077,7 +2365,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "ecw9Xq/K9MmOzcPt6ZbtzcnALXKxS1GMXpMcVs6Q+gSiaHmeCkToIMlBNGJKiG7M+PGn4brZOi6K4Jdq0f3Ga2BcsOvX9tB+dU6KVjJv5DbH+Afaq5bzxGE+uLq2TYVS27nOJ4FjfMrn3pKLD8zcceoCpF+MGhR1nXwFSDz4CaeNOZgPF1VN4LgTUrU="
+      "url": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "3fszbxhygle3bu6": {
       "backdrop": "",
@@ -2105,7 +2397,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "xC2KQx9IaaBI9CBcSGk3ahRP91NxnshTXXu1C6qPstFLdwe1lWy+hKiTaye9FpD8F1lkJR3zfaVhaZcQV08fqaMMjme0EkwC1ytJfFHE8Epu2sD0MWgQjyAoay4Yyp78NKc5VMW22lAoJEkvpfDkaAcc+W4ZpxTIxazm9qyI+OsqIx8imre2CNxxM/IU0N5Z69rMr9xpO6lMAiyGxE198c3dvqTJCwmzX5CMfd4T+PVqRwnydZCOO2GDEAuvQZu1iQ+slh7e95taD23W5cSBdCYak0U9sORfUPrFoYA+nS0DNXgbtYKtukiUokFTjEUIL7dDJm64Ocqf2kkByn1IsfHYydVYe5atKozhoTYpUujVzqUfugDQ84/5dLk="
+      "url": "http://rahmmax.org:2052/live/22400103024712/84529037687385/607499.ts",
+      "url2": "https://lbgo.bozztv.com/ssh101/live/Duhok_Moves/chunks.m3u8",
+      "url3": "http://my99599.site:2095/live/Monzer685729139/196856302922/807626.ts",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "w2bpczigiguegnl": {
       "backdrop": "",
@@ -2137,7 +2433,11 @@
       "hdr2": false,
       "hdr3": false,
       "bannerType": "video",
-      "enc": "saUXmjpZ5HkCbhk7MhW54Y78zX+VMUuxGAnGWVPVRjtXshytII55ZuS/Xw+YujDVhJ/Zop+iXJplPCHqT8oTUiwleXJjo9FMLK12gsS6INf4Z3dbBEV/RM0Q5QaaBfaz1dR5hVIX8Q4bqzs5xJUby4wjNAMo1aAwP/o7bMpq2l7/Ae9NT1bRp1FrxmHyLYx2MsgCFqZjAAsenoFOrjsCfYxt8/H18HsZS5H5+z9v8R+YqqUBcfNnYGx99bmaqwK3RP5Bj/5998hmVf0saaKcPbkWozki+W3GowC8OwfCfcdDEEPrKukj6ZwIrC0aCSKh+BaVFiPXjzw25IdI/TdZKPyfLv0PZ3dxpS47S5zuL0d6TMlzzrslMzg/"
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601422.ts",
+      "url2": "http://31.43.191.125:8080/live/restream/restream/25195.ts",
+      "url3": "https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8?token=onetv202",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "xfyyrvevrzfs8qi": {
       "backdrop": "",
@@ -2165,7 +2465,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "",
-      "enc": "0uKs6BN4+rh6STyVTLpQUZrw8oZSsm9uHvpWuSfQ4OJ+BwwY9OtiN4PbFW+xxoYdPr+IuttrH6bv57YScxyM0i5k5n3iluRtFhJwAhoDN+eIXK4o4jZEIyi6EqaA30BYPExlhOevwSd2yEu0HmH5PsI667M+DXLWc2+LDDTdTkJ0ZKrv4tRZTeXLzNwzrvh/q+vpRauPEWQS0tM0CQ=="
+      "url": "https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "6ngw5686v59qukb": {
       "backdrop": "",
@@ -2193,7 +2497,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "n1dYXOuz9KzNCrpXeYVnuua6TQXRd29hsy52UhaSxOVTMsWsfO2dUzNy7boWxnt/24NFhkpGCI2JL/u3yq3MZM5/CZn6ICm0bihMXwlVSHOLPdGzCclI62f9OIUjuhgY92En2EqIqCKcDmlW0kpNIWiXMdxsQ9oAHOssu9SsQCWY81nOVLgxcUetYs2MpKXFZVw="
+      "url": "https://lbgo.bozztv.com/ssh101/live/stvone./playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "y9kjgxn8n1nx2dd": {
       "backdrop": "",
@@ -2225,7 +2533,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "9ALVZVAnPq2TwIHCwVBViiyIL/ISS5B8laEyg5XNKyfg+fFdW5iBk2pnmQX4Iujzj54GDgxUcei5GVFlEl0HnSvgJvBRLJA+osl/2o7qyS0pnxKUqTT3AD8x2/a85IHXtjB3gyVKDFCULzsmQI5cRFQG2BYGUSVtowSbfqhGjhPVG92Pp8L4IMY="
+      "url": "https://live.host247.net/gk/gkplus/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "abaerbju14ilfyq": {
       "backdrop": "",
@@ -2253,7 +2565,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "DC/A5hU3XYjGmWZ+g8jtF+udbGddMrc/uAmnS3hTMDzEOp+uoYT25krXaK9Thm1WdGaVaLNXdMCYtukItqP3cF2GZmSCMEuGAJyYX0gTv+zXdzrSn2J9hYXF3sNoVkDtHqkdln3gXRJQFpJcSi7+cYvSQPCEO/oFENsAROAlCh6QUseuWGn07zjMUTkJxPIID8ZpBxaLl+DCpQTc4ej+"
+      "url": "https://hlspackager.akamaized.net/live/DB/ZAGROS_24/HLS/ZAGROS_24.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "qa60ojwo4ier3xp": {
       "backdrop": "",
@@ -2281,7 +2597,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Uoes2JCmdP3xWUpuV6vrn6+7svcrNEU8Xs/0hRefLcgAM2Er+QeRV0QYskvff3UH4/T5bhqfevK1hWtUF45vQLJ1j23fTu8TAVSYDknYNOOe/RNgjXv4CX7+RA63IP1iYSONHG9OXveGjIMgUQRRuqCzFkx/5xlPo6iTGbMWNegI1u2nP4eQbGlRo0JpScVEKw8jPgOvi6RaTJk="
+      "url": "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "69t8yv95f5mcefr": {
       "backdrop": "",
@@ -2309,7 +2629,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "NDt+TWpUrWJ5mbmclXkvNZFbj+hxJbz5dxOf9kqKLbd2XNT54vY4l8imMJXM5iHpjU9Nw3oTgXGbze95i2IRkSZ7baApkRU2s3U7RHx+7ktQgzElTPjWU1gMh8c251RKOOpGzYAuEMRo6mV5CDmyPLNADL+pyO29G19FNJPMfYMgBWcLJiP12o6OxeXJmrrH"
+      "url": "https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "4159k1f20h4krhs": {
       "backdrop": "",
@@ -2337,7 +2661,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "CeR7MVO/2f6VLvIy+nF4aWL2aVeKHGUFe0O9RKYr1H+XzaAqMc+LfNH6t2a+JCMU2L53abXqaetibhfB8chsSKhzhwdaYE6QSVoA73w2M5gnPUEWdX0wqZb+G2c9cqeZWcMHnbRmW4+jxDHt2ZqElOPNmxgNarIhotdCbAc/eLMvBfsDzwOZcqmjnUei00XIjOKxaf6yPek="
+      "url": "https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "sekn2sud8l3qt6v": {
       "backdrop": "",
@@ -2365,7 +2693,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "fk038T010SkdL7dwyWTqMkOHoQG91XoYiDV2o7sG5/jt3s/a+x/TZYX8ikfwjtwmH+4Sl5F8CF1R0DS1EOIIFlCOSJuauevnCBfng4y7FERZRzNp9JPJ3ZY8t/LgMWDk6XVZnaSLJCb37Y8pE0VN39gPbwvbB5zlLJj7TmYyv5RzDoqRvl5420tB3GksDdwTjOZLpj+M8IPqTVXzUcDWo2dfFJhJHD9Dk0j4bAImoCU="
+      "url": "https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "8fzacc7rok8hif2": {
       "backdrop": "",
@@ -2429,7 +2761,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "7DFxIOGtViSq/h2EMWM8XUGdJRhOj5R74bnzJ7yjxP+iLDrIGqdAQc4A6amES+qLGbh9ORey1vnoNTJe+PsoZLNFCztwRIsXIfpDcz1kMv6NciJGvFujBL64pq9RvYYuWo1cP6Uj9vPRZeDNG3p5quF2D1X0XEogLQ3Im598O1A0GaFJwmw9D5uhELMw6wGCv5FQcd8="
+      "url": "http://arabitv5.com:8000/live/res-ms543/aatnR3HQJA7A/5597.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "sd1buzjyhcktlex": {
       "backdrop": "",
@@ -2457,7 +2793,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "TJeFSEND6+wEZMEIGZVsnnA0p67gqqF28kS5SHBi7fMRWelmi251EMysBW36SXp2cOlJM59xk3Oo79syuanC4AC1PSN1b0AFCDkDXdNKLhhuv04cKSf6o8ULhUdiw3YcO21eGYeG6fXmPRm0kCErckTwc1H0SGPzlnz1FlnixNkS7c/UrNw9HbIT6HaQOdlwdkf72ArJ51swjQ7Cxs1EA67699s0cA=="
+      "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "x3bnytdcs9svdtc": {
       "backdrop": "",
@@ -2485,7 +2825,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "ABTB6AVISiI+OvMoAMLQABQUiKyZ21ZL1XgNz6bp7M+3kKX1hwqJp9+kt08WKfwgNGjoZS24srwAIf6QKc7hxozxXv7p6sPWla99BGT7acJHH6JcEJD92X+RsdZqXb2IxdBy+6mEmx2vyIQ28KCM7W26irRRvzFQqCdmiv5jNPiLBAHqZacFH2ELj7fgs5oesV9XC0jnJXSzhaOevO5FIFxEarVeZ7LFIOJgyykmf3b+pQ=="
+      "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "alx7esflk18px6o": {
       "backdrop": "",
@@ -2513,7 +2857,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Hkv101UEqOh+B2PlD8IiFjhrc0dF2Q1hy+xn464RwkjU/t69IUn88a43YbTP8vzyivICeO1WCqDSE5JnI4f04izjPUwCZ34ibp8mOEqMxpEcEjLPd2gGvnTmgaI6UUBOMHTiFh52XdEOl6gfYQj3q+sIvMlXX+TRwf1ILBkmzo71DMIVwTDC6l/ZurHPC5Pn5A9q2ZX8BVvg6tDPs/BXJ2zXfGjRCbNYM0Bu2ZbQfEiD"
+      "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8?st=",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ll005rzc8jeuwkn": {
       "backdrop": "",
@@ -2541,7 +2889,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "XfTKgaFNGoR7jcg1Eofb0rkA0gaGhYxx9AjQj9yLvJFkkzW7z4T8lHxJBqzGxCxXO6zCKPIZrZPCThSThGYnm4v9oceZWBm9Tktj9zAGh8DdsZmCgwWOLzvEVcmHxZhWunWIm6phTy25Hz+dJD++nwqVSs5khJt6JCcpagQoiAtk090mCMnpqJqwnQozaGI="
+      "url": "https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "aqfsecibad96juk": {
       "backdrop": "",
@@ -2569,7 +2921,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "u+PU9IzL0598OxrxjxlvXRmZDbMDNXccJ0Zkg6AegDPv2Qtkhyz8FwKVwRkR0TCpCBLHorgfm83BJymw6KV+tKXRpU8npRNz7R4xS/uRfACW238Jjv9vpuKcEt87WAE1260HVKhDmtdWrkUAKt4jm2LCsGaVBOwA7ClMT0jXIVheYH9YrFRgmlw8PWj9MIirSUXn0dwIRGWtyUTQPZnY/02umaCh3sqAul8e+PRp18IMVqzWnSgVr1fpFMavalMaN9TFOwwhQtUZ38dfRa6pNDeOFk4SgYyOok2cPFmAJGPDyiEs/FWrvvJJ"
+      "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+      "url2": "http://5.57.74.130:8000/play/a0bl/index.m3u8",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "n0cax6gztkmw3j1": {
       "backdrop": "",
@@ -2597,7 +2953,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "wVi+uXAuZAC2jRxoDJI0r27uan5+N3eBcUcbmbFxhudtKOIl5Wx7zm6rQqskqQejAb0ripr0RHVAa6z26mWvIcCS6fz2hHxotkQaGjha5J71vwm3LC6sTXvVcRCz7E8IRqh+VidNQIssqkmLwoFC528SX+ZYuiaCzwGotZKx/tYnMcYykM4jeA=="
+      "url": "http://151.80.18.177:86/Discovery_HD/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "163sxscy9oskv3s": {
       "backdrop": "",
@@ -2626,7 +2986,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "Cb+ihaRmxciic6Mi57n1z6T6KcrPqWqqgjzaIxKyTW6270/Q69ydo53S5x8iBtMy1jnfyvNgehMrIZRchVCbGKnSSJe9jq80gWpt/LNnbkIdTqa756vT5KI7fMQ1Oib3JuRxd9g0bbsT1eFrJiEn5tVinalEntmQX8JTcinLNBYDQVw8fvfhGnffTBemG9iRkXAn7DeKN9vpl8qlLNCR4Q9g5ucsJLj4ftw2oskDascUdhwYUJk9Gt3mY4YPWNrLdRWB/nTUaLFzCfqSghDsEbDkyKgXDHREGZITccb/bw=="
+      "url": "http://rahmmax.org:2052/live/88577072662804/15518509928643/601445.ts",
+      "url2": "http://tvvianet.streamtv.to:8080/live/Amritroom/yMZdjkgKxm/2466.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zmz0bhs72zceto9": {
       "backdrop": "",
@@ -2658,7 +3022,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "ic3KRBNIUeWgX1xBXrNQjuGrrapGYFfIvZsOJXuwk7kKBNkf7p2QhwU+GXYLD5yQ5tPnSFg0pn6gRHq7EW2vgHDiyOgSfHtPeUe6v7VtjuMJSMQypppRofFrW6EHFJ5HiIOn93H79Bj4CP4UGtqFHthJFjXRTIOgPp9HP7Rxm9WkEacXJaK9u9b3Vzk1zCGnTkiA7QBAOEysLClQ7I9ylItOSKhUc9MjWb90XY14nP6oj8cFKV6Jm9UdMS7Aht6f+Vrkd/O2/TwcKcyEkFJmHCrJrslRkOB+KN0gejzh0rlexvwZfWCbIOZG6YrImfr38FCi1SoBcm3gd1+ti7sGnvtR+1i66cciKqyT2XjFmCal3ZBNGeRvAgWrTLtw72Q="
+      "url": "http://rahmmax.org:2052/live/36750623403240/14750722182138/602828.ts",
+      "url2": "http://s21tv.co:80/live/809933047584/316247341655/807625.ts",
+      "url3": "http://kenvixpro.online:8080/live/893747082774/403275543172/442853.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "s69xfmqisyr4gx8": {
       "backdrop": "",
@@ -2686,7 +3054,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "KFerBGFgxttYD18Mt/Bt16SN6BDoKTWgEojB5kfkusKulbNp9mZKRLdd3hidVSgmEgD+t4tAU8lAfSEd3k8S1p837ZdzIAsGYeN1H+RRYUaqsh2BXi2RHmLvans5x78onTp2CqXhhpdxiFqRYDayCnRNA7jv0kaOxMENXu6DNQ6wZFhgtwfRDjCLUpCtpbI6IhzksfDS"
+      "url": "http://162.212.179.32/akamaissh101/ssh101/kanal30/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "8v4mocyldel6fhx": {
       "backdrop": "",
@@ -2714,7 +3086,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "iP3LegOg3iQkwtuKus3nZ9WGvz6+aYhy6oRxlXAISoTSVUDQbmFJRXwNcKEOL4jBx151PHmJ5N2d7fHWJZTD/86QZeCwuUe1j2pHNdp9jr6gJzlex/Y0mm25kHhq4Ttub/R+rL6gtN5TP+E+fuem0+DqCkcXL1wTrKJpqI9/JM28Z4GmA9pC3kUuZkvc8OsPXqqL"
+      "url": "https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "w7s7jn68vtkaikj": {
       "backdrop": "",
@@ -2742,7 +3118,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "pUZIPmUEOWn7OkCqP/r7g+ww9QQ4SModX2doxl9dYbGtcnD7aUR3GVjY4QN1s9qjZOpxrGjJctbIw2WsieKmG/Wqyi/uzglKT64RSnS0s5T1PkkXpkQEPN+m7QH/XlZgd4/h6WeaSVTGT/vGZsJROEwGSdJGpBevgH341IPLXGdBNDsm01LiHBUN2A=="
+      "url": "http://dunyahd.ddns.net:80/live/DunyaHd/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "1woho51b9lv6slf": {
       "backdrop": "",
@@ -2770,7 +3150,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "LaC6rxilB/C6uVGm60rrrf/MP85WqrBYNnxRhiGxo/upBCy9RNZNcezKHAV8inPpnkY49KMtkH8RROFGD5LzqPl+l0rYIO4gv688NOVjgi6y1NrQ1y0/8aCOUtZUIz2GmS7LlrZr/wO/+AJHAcHZrGbaOxzPKWSTggmBFrWyO4ZYcUI6cwoRVCOz5hI="
+      "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "550yxwnnchgmubz": {
       "backdrop": "",
@@ -2798,7 +3182,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "aBRnru5Cybaevjld/cgHOdx41x1oR/Ngjo2FGd0//oOA/Nq8Dm+IfhyIs0A9B75b4g9cmxbz6WekUKXz8SfAcu9/REWU/HecgMGoUaMRtmJO4n9EskBZ6agx1UXNKlVPfgy2lhRBfX1QxSqWB/DRbrDHUZG0ITmz8evpb+Wg2hxp4Kxd7VV3/Td1LHApVxM9evtryhxYGO059KDyyjAxb+8XpHBaBwTcmuI5gVpg7tuTIciKJyaazVZG9JAT/0L3Adacq0Q1jGoRO0vpIVHiBeqoTbJhSY5Il49e+8QxpyXVI+GGDFUUcQ=="
+      "url": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807752.m3u8",
+      "url2": "http://vt.protoniumtv.net:1997/live/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/75075.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "6yd5ay8hlqk4b33": {
       "backdrop": "",
@@ -2826,7 +3214,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "Ih9ITIHrc9+2fqoWQDDw3th8SiQDrhUZicfS5LpoP9kU3andEayKCvJzfkqvv29u0nwBau7tdARMlc4xpkNzfTadQ5SqpcM3B83jv19eFYKQAWJbeuV97u0j7iw11zTvQ03AD1zi9ofrQ6+s6hJsLm60jeaOudPDDHeKKi+xiF0A3AnLRM1yV/eCx9Z9fLKLW4hcv7o2tAX1U9Y5LcGIKeyuQNt66Pdd8rJ0m2/fbJ36cUO62g0yaCd17TwTk773lXKZw/7zOIJRyPCv0QuMraVj/8mrLR8l/1aAE6mpDEEhAoCO/oWlp7wINm+05hri0o1vgmPTL6ZxhyHUxoFcGOgIKkNKENksNRzbQTmh4ZffEca+NxHCLrxkm3N/czBgzfjkzB9M6NlL9ek+ce99o7f5Tucfjup22u0U3z3fPoWgYlvhHr5braw5qDlb8uDKUsk1ibchJUm0/hAvcgwBjwdb/+Yy6OZwpsvfZC8QSW5wMSXAZHfWBthw8AJ+uw1bm+msMswUrjBapfD6gE0enq7YCSnkDkRU+P3Y8cRkcGEAj4EeGGIym98yGU/iLHLkQgdxSFEewfTLaeIzeNjhqav0CBcsGD8nfaydevvaAwWJwIa6cFWHJaGVbrIsMx2Gzaes8knXS4A="
+      "url": "https://stream-171.zeno.fm/9w1hu5g6g2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5dzFodTVnNmcyenV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkU2Wm5jQ00tVEVDUkJLbk1lNUlxbFEiLCJpYXQiOjE3NTU5MzA1NzIsImV4cCI6MTc1NTkzMDYzMn0.6sumGf7qAzXhe-iSmqdvl7VKVsNOMuWtlJB2qx3-7BA&ttd-uid=679f3823-76be-4f45-86c3-cbb2594b3407&an-uid=7057475348654988358&aw_0_req_lsid=3a747ccab484ae7e8fd2c20f87696cff",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "8b3ggs9x6k47459": {
       "backdrop": "",
@@ -2854,7 +3246,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "33+79PmRqrVpYhxfkky2NTK1Si7RRePxToOzqhG6TiUn8IZtsO/H4/CqBqvAfjqYBwlBrTpD/BPytBsmxyYFh7ClNlMQmKGOQnVNrJoubm/fNjNN3Sd4skPjsBwvF0lh/6po6+JKGq91e8Faz4RGs5Wqun1ylHTPJVGR7YiGuD7wVZ+cWSyu"
+      "url": "https://dengezelalradyo.ozelip.com/8546/stream",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "hxmth0k8ljzmof2": {
       "backdrop": "",
@@ -2882,7 +3278,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "hx0p/Pza6Nlh4C53sivgfyCR/MEkHVM+kzkyochYxWA2/zmKaTwPCKfJ30vhOZ2fcLG+yWZhBSPLq5aw1Vk2M3yw6bZuLyk0dKHy8ukSOn9SjERV4hHkvOyyCPibDEliwhnJi9AYzHT5t9O4ru7D00bKMR5aZ2Oob6tkjAbQBG8rc05QbAb0jaHHtvzefrb08pVIfpiEImr/VC4gqMzYQQJk6uvmSmZ2V73ZAJjv7VENF7s3cxdy4YFzUlShCUtQQhV8GwlLM7Vin9EschPgPoHhDu8IFFUESaNm43qLufopdw0f0xJUSoVziY8QX+B6cQcU0MTNZDlp/O5C+tsaV+1Di7QMDFfZDW7tLmQDDqcgqAiS7LibWg5IkoOZYj1RkbgckseqjemN1u65uSAFEZyG2whBrqaQBzghBToKkp8+j1t53Iy2CS6VW/pvWWg2DrA2cqAyLYw4hU1F3w28QlSmnssyXsVulrp281zGRpsJCLJ4YReG5OIIBkQJGxPyaNUR3/kutiFY0tNXxTqktQhY1yoorJnHFWoAFzUrQjEWrRTVVQjHycuqDNhM5n/mPL4rG109BKHZobFdeOc4mA=="
+      "url": "https://stream.zeno.fm/0dfaudb6g2zuv?acu-uid=1463576651972&an-uid=1095505484914502105&dot-uid=0d5f240200e4293f88809fca&amb-uid=2526214647687421941&dbm-uid=CAESEHbFYI-whtbbOzcQULZlbuQ&cto-uid=84461114-487a-453e-b076-fb1469feb9ee-6a09a46d-4951&bsw-uid=c0ad4a29-0b19-4522-aebf-cfe1abf64917&dyn-uid=6067445444588744372&ttd-uid=7f2d4eb4-a864-465e-9831-668cc17d2c09",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "c21fjybfxeo96jn": {
       "backdrop": "",
@@ -2910,7 +3310,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "2lbs8A8rhHjts9g2KtnyLXWI24hmrnNkH6o80X2iNDKDzlVZD4hlmUoYu88S3nc+MPij3zP9PcKlA0/cbtrUg+l7T6oftj2uLb9p51/pTYNloIDwjzi9d3ug+r/t1qLZTGd5Qw/Wk8Lis7CvdE4Lo/jvP9O52Yy/Gf9coHC8kyVYUxlqWjTP+embEfTvj/Li1lCMrsv5ULE="
+      "url": "https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "dhgash3a0cfl009": {
       "backdrop": "",
@@ -2938,7 +3342,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "1ll/uJHyDgYNkG7zK2bJuo4SRrvPHhqXHiKEGPpWuRmz8489sG149yTd1Q9co6hLsmUHwSI4rCmXNXx/Y6ilxHCAI9lFrTUsLP4Qfa1UAQRgy5b7BURF3jYowr4rxCvxrQzON2ERUylJwL0znW6fzbiDG5xO2Cirktkjp1wOiC5xQoNg4uJ9K/r/3PA54Rxny08="
+      "url": "http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "b2em0a6i58ydkkj": {
       "backdrop": "",
@@ -2970,7 +3378,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "GMwR8Wz/UbHdYUOAtgcx7h+0meRVsmWJTakrxrOCFdgE+8yZG4oOGzuSgE4/Id46/TNbEFJXKnA9i0NVqMtRT6mU3eRxybwfgZZFto7oVq6An9xbtkwleXZg3mxiIjRBRWQnozkRpykSfb9ENS6G1iaHdYuMMOE3sBGCkJVXY1SesG/oLEmMqE3YZr3cDId0QINa+eyj1ssP/zKEX4FCqpe2nKhzhw9XKCI9mfC9HywKvqDu8HRxrJzacx9I4eLnQjDUnei5PMfEOTYMt/7AGVhxvxDvKyPP4aA+Tua9aQoRg3MGU7Hn1aWJUsmYB4NsbyuDe3oRETSHLV8RLMbrjjR90T1n4ENSGWGBJpnFILi4yS/yroR6WA9tRQ=="
+      "url": "http://rahmmax.org:2052/live/24717171183220/27528941619411/601452.ts",
+      "url2": "http://str1.v3v3v.xyz/live/hicham_977382/phoNabqU/129915.ts",
+      "url3": "http://m12m5678.xyz:2082/live/323821544531/787367257785/807722.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "b73zomsy77hcwh0": {
       "backdrop": "",
@@ -2998,7 +3410,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "LzIu3KpZQ0CELsfTpL6KLt8Ly8sASoELu+PC1s9QQc7oyNKCj7rDs2O6f51cdFGKGYjwvyNjUmCaMKVVnE4cvzxnAWfpqIlJxOe3jLkvLN2x1rRPaR+6HfV2imFWKF1lVmMYYbU2KdoIG8GedZ5xyTQ2UgGQCOEvOMpXG4bbR68pB8xxi+q/UVfur7CRzQ=="
+      "url": "http://1.fatv.vip/live/566692393/6608132120/409689.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "89djzp6619dzv87": {
       "backdrop": "",
@@ -3026,7 +3442,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "YXuGUhDlABM3NFxvXC8vQrEhXGKeybPBXiGH0lN81jpsHFIqlPMrSt/xSRzwfOPKEx4Cam2dtijyUDVPkwH8CECasREAovqiOJGKIJaVJkf12mQ/OaZfDUBASVdEYR9rt+HDD4oAhA+67rffWMpmu/YDjmx8kp1XZPQ9JTYEQGkEonUETGcrMdf24O6OSg7i5/GASxTWgGaTLc7drGY4bahBwIA897iTdkBQ+LMiv95DZltq9m4RUrzBPl2EhxleWX7LzI+26ZP8ZATkBnQ7A22bS+iqHggkib9TteTZ5ila24fvixnvqfhFNTp8PR6SRuX1aHFe3I1t97eeogS/Nj3HgKLi8HVUPfBbu+twBk+yGvJAaGY="
+      "url": "http://udvwmxiv.qvpng.com:80/live/XXHL6MRP/8AF95M75/98897.ts",
+      "url2": "http://dana4kpro.com:8080/live/Kabeera00/f520ec5gf/392764.m3u8",
+      "url3": "http://new-pro.tv:8080/live/10270976094483/14244145301680/987538.ts",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "omw9nayz2kkeu7k": {
       "backdrop": "",
@@ -3058,7 +3478,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "QIqrnL48IO011HzVWglGSgcpfF3H1oyqoNPtImgikwenKQmSLF1fZbAKALUpfXXyfMDRWp05gLHzV6uJUMQmJHhpyah6wbBE9ZmWxAyQ7UPT6i8eL+RCTyP2tfj2P1ITCzUfZZvIi40X+T6KJkIzapnAorPSOQ41XxD9hFdTipXMTmgygiqVTfvKvCPSrbBblSbCMztigM1aXNPjWq5tST33DnIJj/zdp02bOBMGDteKyC33YX6Q6/ecoy0pXv6aYi/FNcgttdPQKsOqQZF5ZYBbc9hL5VpOrq0TCNfAg7pi2+JNMagWx1I2HIFUOwBQfPXgpvdBsZZcmV1WrqsYhmNAoW6sVqeC/OzVoLhn0TOXlzlBFV+RcA=="
+      "url": "http://myhand.org:8080/live/13221828222185/24373639894075/756981.ts",
+      "url2": "http://mhav1.com:2095/live/mohamedka66/77114433/212843.ts",
+      "url3": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/392749.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "jm08jdma55cw3xb": {
       "backdrop": "",
@@ -3086,7 +3510,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "xaAgTqnZG94+s8MzQ2oGkw9Q8NbQcBmzlKH6zw8+Xe3M0MdfELQtZNu/Jx/hPkdbACFOFuAmAhbp92jPfJy1dK/zoZjfjbRr0Tf0POqEPgpluD8O3wtALkemxoKanT7AsUeFXdTuUJJfd1m16C3PYtbh3wngvgdE6/YBBZ4WiTKcuxzEn1UECe6rrVBzIbBO6Yu5G0IvL6bls2Ok+GYRrm9BBY4ArzoS0+lg8AUf3JDottyTX6NLAHjOc+1RchvTVO4gzkPgKqqdXhVhta7lEm6OG+/PxeHIbkfT/vNiVpmQjOid2g11bQM4R8BWAeg3Z9HPMAvkQgeXQfM9/D5IEl9/aEF6wIXryg6/VfdVV02w2T8qeDlmM0N+OtdGK/XXgkut+a8eBpZtwNddqwHH4wOajS/Vw/Ow7eylI9NHj9JwPLEru1UGkT4sGatMYUCq51gCe3O/DRO/PFmpyU3soqMAI0KhCLYWJgk4XgFRxwvLq5twWqrSC+/AbjnTLrN+AKEsjek536cEbiuo1di6UuiVwDA+mDDoViV2x8+bZRIgHbQROmG4nuZm68ibJjagxMJq1FrqUllKkeq1t+VZdqlX6pYE/p8Z14nwHRx0QFUG0s2af0ZATbjA4lExB1V8u9AcAicG52kholSjrimhXxOGP6YDhHx7kIAh/tcATv2/p2m1+JUcXaimXRhaj6iyu4bc8ooJf7djsgi4T0VHYLfH8APo4WkEQQst2ifavvneFB1zKxp4MNglncOJI9nZ98TuxGnrubzFf5qOeMH+RMHScdER39fw0bpPf27hdzS2ORATZuShfISq3Sg4pd2Y/Wi90ubaoLjvdqjWHs9L6W2aBTbk9q14zDTaExHdxPn7JrkSYquojb4FV4S8"
+      "url": "https://stream-175.zeno.fm/6t5znwxgr2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2dDV6bnd4Z3IyenV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IldJTUUxWlJkU2VTQVpDZVl0VWk0TEEiLCJpYXQiOjE3NTU5MzIxODMsImV4cCI6MTc1NTkzMjI0M30.AcuSbF7fUuku-bf-Q2oaTfxLlk4F-LH2jFXCJeUhiV4&an-uid=7057475348654988358&dot-uid=0c542402009841ff1242052f&amb-uid=3679101723674315116&dbm-uid=CAESEIQzJn5AhEqdeGVRWN45SV4&cto-uid=d36e90cf-e764-49fd-b2e5-ebac19fafdb3-68a95fca-4951&bsw-uid=67e31976-e019-4af2-91d6-fa7d0d8192bb&dyn-uid=232192224908715391&ttd-uid=679f3823-76be-4f45-86c3-cbb2594b3407",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "q2l0958qvmctq4y": {
       "backdrop": "",
@@ -3114,7 +3542,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "yaguASBOiqWx9Yu8jVgLtJ8Jpsw7EQLyyqhUBSTapHGIgnLlOTWkjlru5Mae2janxpWh0nKzxcm7yEHn4oDHVPgkbVkzJPWJwYrKQ71VT6Qj+LuFmf1z1s20vf5TXctX7sfgX4kIfx6bYBCbkWDimOi/dAXL3RkfNbhhfLYci6Wf/QVWrT5u+G4V0u6MtgFVaZBXBI2koWtiH+8az9TRpzQyu4k7A1fdBN2XYYnQsi7TTIgfYFw7rT1CyfYexKfPX+plhx9ft1zwaJiKG1bgOpO90eT/m8wKyTojpZ0b8HacOrLRztwz7jdElf2uwLCXXr9DA88Xe0q5+SC/ZFmfTy/Czleo/2OZS/TdsTjVK8iCvwLAY8/hvg9ln3xifRKCcU08D/NflJO8mkv2AEO9pqV7Q1VWO+OnHskB/6blf/8eIb/keEPVD2N9RqKq3n5JQEGHgVG5nuAR1u+BUwSwo9BB8QMFsaLtXwGhEA/koUo+lGXlKXB3ZiocagJXvr6UqHM6d2MA3qoQYuugQwWRzK60nV9zPWoEel6cuoE7g3g/WSwmeCrBLNbDkzs8B0POpsZY6t7TzixjPED6kfTBk5p7RgZ14Wr4RgX48uLb2yeS+wRoyXPkAO7wBRTygGkLMqRKmQDijzIg2Wp/W5WsKr27LbyugII6OIC8qhZfkp2hE1JHvIlKqwS7PbkyET8hgDY56hjsTKTMTHaSYhXlOAP5g5K+8j1miL6a3OFcG4Y2BLWGeIRngHoDJbbDz/tE1JQsjiWLRYD7oS2mtlpAL3bD0koNz1VQUbiBlFH8ZUyy/KzHlchjd1RhAlo6JQP9rkD3OAQnjGinNw8men0rKght0bds6b3kv4vX48MK3WsSN2yzO/Y4nYhdVHsX3SvMxWw36HYRcIUKOo//QagnyRr0MsVumdeAS9aLeNiawlr6CnsC4iMbAffCSFQ="
+      "url": "https://stream-154.zeno.fm/x0xhw6c6g2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4MHhodzZjNmcyenV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImRsNUpnUHhiUjBTWHltZzZfN2JPZXciLCJpYXQiOjE3NTU5MzEzMzYsImV4cCI6MTc1NTkzMTM5Nn0.VF05NcIUQy2k-wV8mZUP6BEn_ol9hMpcxSmb4gcbX-o&an-uid=7057475348654988358&dot-uid=0c542402009841ff1242052f&amb-uid=3679101723674315116&dbm-uid=CAESEIQzJn5AhEqdeGVRWN45SV4&cto-uid=d36e90cf-e764-49fd-b2e5-ebac19fafdb3-68a95fca-4951&bsw-uid=67e31976-e019-4af2-91d6-fa7d0d8192bb&dyn-uid=232192224908715391&ttd-uid=679f3823-76be-4f45-86c3-cbb2594b3407&aw_0_req_lsid=3a747ccab484ae7e8fd2c20f87696cff",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "qo5641l7y66ll6q": {
       "backdrop": "",
@@ -3142,7 +3574,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "bKFElXaQuvzvbDFPP9w5CdG1IW5xnfzZd2U7uXfK1WRtVoPZ6/4iM72MiclHUifgdq9j6gwG9VtMt6deofCEnau5WVI36xDoylpbo+sN2BgIqcNUH+9Iw25DYcNq/Dyxn3IA7CCL7YLADc6l/OCgxwf2YeDh1tifqhxxKxTJpoqHZIfe+slPclCUx93pVQF+67PAQHLhoIybv8v5Dzoa2Jm/gZLCYaYinzshGWTe0LWtsR2KDLSgIhPzVccRq40q0ZbHmUCtQsaU7UCbpz0UMFbf0V0D0lgeHZnvmwbbi4r9737ShgPbfKL8fWdlI1DRwyn7YjWoWlBWgrk/wZSNZZtxmuMbMA1DJIKAPPOy73scRsM/Kxylo1zrCX8d5dAzBRCZ2M4oGPPAoK/hQK07E6ZM59aqMCVEh7siRdQnUFWDTu1+fGaqT0tb3OhUKfGE9Rsjg8NHJSfj5DtJl26OtLNMCwZvJVOrQKjNSaAqLfEC"
+      "url": "https://stream-280.zeno.fm/4amzxva6g2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0YW16eHZhNmcyenV2IiwiaG9zdCI6InN0cmVhbS0yODAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkptX3d5WlJ1VGJhelVaTl9UU1c1U3ciLCJpYXQiOjE3NzkwMTY4MjEsImV4cCI6MTc3OTAxNjg4MX0.gJd7_Yj8qC4dTozmlopHM1Talv-6W2A07GONIDN4OQg",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "aup0qif0x2lp5fy": {
       "backdrop": "",
@@ -3170,7 +3606,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "PVmQ2kgOmrWYqUGObX5R8qWs5hsh+7IbnI4/kkIvnUQInv0VgPHjp5X3rs1qVY/O/IZhx4US5YZSD3u5D24Qa5En/14aofJIww9xBF0V7v5rW9BrjjCDeJMyXS+h3f4CyB3U2LmqmKDLVY8YMRhbodcRetnXSMfFFPxYsJD+qtWqD8jIy635tPW7BcLQnahPQNgv6FsJnxOBBla62G3VXjv66vpRKFlDX2HKmJGxsCc8A8+7GAnt11tUawXBzzAn9bM0Y+accMAEZmN0+k9RRj9aTbmzX4LIXMYHR/e0YNq1H1Uhcgu0zrGUpr5UcrnymdxVOIL02BxfGz0JPtjyX+Nb4kgVYiSBEAMZsdPLAxerWBqQqIyFm+mMjaAckmer4ki0QrLS7IazhyDZojt4df0wgqzb4CBGE7+J4DvwjHMJ6YZ8+DSwkyaYXo+nHYF2MGc/aqr4IfKqEnoJugqKNcMGMrolmYQ4Ze27CSnZvQ=="
+      "url": "https://stream.zeno.fm/6ubes5a6g2zuv?bsw-uid=c0ad4a29-0b19-4522-aebf-cfe1abf64917&an-uid=1095505484914502105&dot-uid=0d5f240200e4293f88809fca&amb-uid=2526214647687421941&dbm-uid=CAESEHbFYI-whtbbOzcQULZlbuQ&dyn-uid=6067445444588744372&ttd-uid=7f2d4eb4-a864-465e-9831-668cc17d2c09",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "n5tbkjdnpbj8hif": {
       "backdrop": "",
@@ -3198,7 +3638,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "sKSXN1KKEmi/7ldVXYqUqW7xrNdSBj2zjDVjwGR4rAUGWe+5kOAmFXe1HJmpaj17kwBnksq/z+Ec23wv5kz3QXCDnADwMv4KAQvRxxvSd0eyLt5EcN0B3x30zrRfoTfnK5qVjzTLzqBOQF/0Dnf3qCyJKlv8eQhWuWLN/NHMf8D9jhc+hFTUgOv7+bMJnkf4XWDsgmuIDx9b7Z39YVDWUVJRWAQKVFHP7d6hCjGwkzwAo61sFmVfNA7M14gG4cgwAIkxcUgSr+D/6I/N/+pgec6tmAn3sYqK5ywecUD7MrdvJy+AC6ymDtDP9getn4fSuKudbDV1SlpRDeevW2oa4DAwIfNX5cvHto2GchGQ3kpGHc9pAXHKZxmrwDLklJ4MJojMOGt9Q49WOrPlcpL5TzHN4BqLcaDAteWG32JDFGN15VHHyx4k9Ljkwy8m7OWjLC4lftQFP5u7WO1+8V8MoErxa0NPxno1c0zt2Msgl8QPhOmPVmDTdQxX4wy3HDaRgN5f+RVQluO/1VxLajtM/HBXOmUsJ4NziFqwqY+UvVjFCeaUPjj730L+ibe+Lu1hthpD2eI5EOloZCmDQQqdMg=="
+      "url": "https://stream.zeno.fm/c9n9smxgr2zuv?acu-uid=1463576651972&an-uid=1095505484914502105&dot-uid=0d5f240200e4293f88809fca&amb-uid=2526214647687421941&dbm-uid=CAESEHbFYI-whtbbOzcQULZlbuQ&cto-uid=84461114-487a-453e-b076-fb1469feb9ee-6a09a46d-4951&bsw-uid=c0ad4a29-0b19-4522-aebf-cfe1abf64917&dyn-uid=6067445444588744372&ttd-uid=7f2d4eb4-a864-465e-9831-668cc17d2c09",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "e39qjd38b91qos1": {
       "backdrop": "",
@@ -3226,7 +3670,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "ybOwfAFlrvSyNuDYYk0OPRtJyeOw2g3W+BFKEGnHhgX8CvKGeeYrvVqymiW19XkQVw1srQSeMTUHvNWT48ydMapJ4EkyGTZ0c3mqRRtj/YtodDhJws++2J477RidWATOg1NSf4N6nS0yQ81Nz+cDx7/qYQoGZ9cL1VAb02jqdalT"
+      "url": "https://yayin.firatfm.com/firatfm/stream",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "sgll9aw18x0rldk": {
       "backdrop": "",
@@ -3254,7 +3702,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "ZtwNFzn/fCd9xF0MWNSbItY2VV7q+o4wvo3lO4KuS+Y+uCJrwmMtudCZrn1ZTS2CUpL2Ebj1HuIsCZiJvOLPJf8RRd2JH//G3jXlgguroIFfuFFDTjkm5OKl99ACfgmV6pr43YNPt1dADACO5+lVyvVTEaLH5Q1kCzxPwObN8umYVSPZQp7ZS379GwSBdd4dyURzGOGeQ2t0ObQyD5BmR8HuuiLxKNFSx5atYwHXahWS8mvNvgodrOgENc28f4cZkHCqkrm3tvNlocc7aM1Im+vJcs/YNKywnQD1Bs4Ee+qd5mWG0jojwa8tVuZsBQLEEy7VpN1z1pt/lzq9JlkT9TfbV6wfDLKvH/aZyoYQ0DnNQtLyhZg="
+      "url": "https://stream.zeno.fm/yr5dpxrr7mzuv?dot-uid=0ca5240200b2ee4d37c85ea9&dyn-uid=2218997130600861110&bsw-uid=f9c6f661-f809-478a-8b0b-b066922eeb36&aw_0_req_lsid=5d4731570ac25c5b85db2c90aef99764",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "hfyik0gs5z7qvby": {
       "backdrop": "",
@@ -3282,7 +3734,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "KN2lTRevLZ29/s1dNqTZ2GTudWN9WiZO8Bs54K9zvDOOgS/oeovNrldO0wS0x3nmJy48BEL8plFOGQDp0OqgwZTaFXSUaZCKapKhFFId0KiybTUAWs4pJL9e1XBxb7atTWIF//zlUs4xwqvtCh7b7NTm93kGLDQh16wzV39ACmyFvWGQL4Srq2o2EVA9b04Tst+ExlECL07PdSZDYqtqXM6lbO68AfdiWTblcumDDoTB9KoYxy4Y7DHUU+43oJ4="
+      "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
+      "url2": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "vs4oibare8t8uun": {
       "backdrop": "",
@@ -3310,7 +3766,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "plY15XfWfaLHt+IUMwLFEsdRBhSlj/qkPZjGpa/9OzDHRU23sil0qSZEGDQjohmjMcUpPXtpKbJuBGEHBerSg4EB8U+p4Q8c02Gca6qzQbNyNdJoUUp9PZ5FTpsK58VleKU7JDq9wro4E+Qarwp7LNB0NuhPvrXHkNBlA3/fBTBF9YKzeE/bojyIOaS765u1SVEPbKivysStm3DGZT4B"
+      "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "khte5kj3jqf96jr": {
       "backdrop": "",
@@ -3338,7 +3798,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "vQ7pF6KHTivvqu2AgGSze3B2c3vzivLLYg8VdHu+tT8lr1iXDnduGiKsZsNnWPZsNG1Q2XhM88lqz9ZQcJ9f+B7vO2ZPwhZzntfaWRk415U8h2BNp0CCXROt3SnB+GC6d5VMxx17Cr5RXCibeQ3s7p2Aa8jPwF9sXFLcr3cDiOeURZNTsXYcoCkL+n9ulPwlV9ZAlcWa3fO2F7cAQou+"
+      "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "4ofewphycrz32s9": {
       "backdrop": "",
@@ -3366,7 +3830,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "x41erZZyU3Afti5THQDiS3I3CPzBpmi2JGC+qX+jot5mt/yoJF7AwgGKbafWTX5EaW6vMc6NEvdaWFKUpD4ksbagntawJPvsV6CRp48wQ2Eb23Yuv9TM+Pimh3m0pD04ub4otq5n1gBfKFC2sWBAoCfVWu5YnbNDFnVoFxS3+ajjbi82EjJTT9KraiYwsUk="
+      "url": "http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "e5tcwjm439pqdn2": {
       "backdrop": "",
@@ -3394,7 +3862,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "0g2HRVLYnBawcYxM4F1mNIbW498tlGL1n2Kc3UOxbqe/jvVi8j8Tr+aU9Wlpx+f+zijxjUfTjhhkivrMHZ4X3ndZb0Aqb2O8qcbg2XW7OIOIptsYb8whFFZWOtK9HZH56iVOO2UBdSDiJQNaf/3sERZnVTJNp37EqR2cVALVRF2raKDJUjwZnzimjXSO1lAZ7FQ="
+      "url": "http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "i7r1rv0qdss4gcb": {
       "backdrop": "",
@@ -3423,7 +3895,11 @@
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "7HCWRtielFKJpa3Xut5V3WcJ8OyoG/W22b0d6jerDXkvQPi39rI2DJLXtCFb1rfM15oblQ0hTTXwRKcbBpeifsARoZdkFyDIzmT/pk4RoEbXZgrtaJH4CWsOtApdFZb3Cd1qyIt4PQwI7u8jYnfFfwVBDEIaZYQf99QMXrbKn9gSsMyq0ddrMEJc7vtUdxESc/PbRhiHGnZokspExV5S+4jfGQeKGUCH32oz8WUVjTVrTVg0mqc4fEVhlGrnQlEfeboFzNTQof+Cn1Qmo1RGPt+zyc2m8OkiZ2HPGg=="
+      "url": "http://rahmmax.org:2052/live/88577072662804/15518509928643/601514.ts",
+      "url2": "http://8kott.live:8080/live/H6BkyeFhRjSz/ywzkg6hecjxs/155461.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "1h9agnlf6eyroj2": {
       "backdrop": "",
@@ -3452,7 +3928,11 @@
       "url3UserAgent": "SmartIPTV",
       "userAgent": "",
       "bannerType": "video",
-      "enc": "SlYZmEVt8qx47ilUnHrlFYcylXUL2Ea1CPueGf/UPI0/L/kiL6CNsEvJ9ldh6OFoNBgFXvM/EKzrVt8te4fPuW/RFVkueOwZHPK4U3aGizd3837wapri5PYYouqsa02cmsoA2H+s3Mmn8CWVzdkJ3A8hZ0bO1XemZ87OyWkRiHGsRjK8e92IRZGAA1ri9w3jHUCFt9SLw7fKYRjsFDt7o8TmU0stpTPzKm2s3wbi23ZW3WnhXdwxN47vchzWR/9abTO/67H9pVDvOyMAQP7i7d7MkNOSeXTF2Mo="
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601448.ts",
+      "url2": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/240593.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "fjpn1dq8tieye56": {
       "backdrop": "",
@@ -3480,7 +3960,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "cUAywXBmhPN5hhFF6KOuIqjsdJCUp1GofOU2/e2WmpiActgiY7WiT7Tt8XOYrm2CcoOcbKO6/TF/aGq75wqbAV7CS5L/UcRgIkzrlav1a7KrzrG0aeLFVGo48IbhDGeFVE/xUAtr9DmMnZHuNlnQWjT/C2oxOjRl99OjZa4oIbXFZ3ax5MxuRnmgoBw="
+      "url": "https://ranyatv.avrstream.com/RanyaTV/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "rp7rx98eq4q7lnf": {
       "backdrop": "",
@@ -3508,7 +3992,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "Dalvik/2.1.0 (Linux; U; Android 11; RMX3261 Build/RP1A.201005.001)",
-      "enc": "863040EpEVzDGkAvrN51wgtFUY3PhY5nHKt5zn1BFYrihMWOUTu2H89TEzrjEJvIHck7U5y6vB9K3S1i/W++bujthNHXLSAa4W6Z1e/Zh3TLfLB1/aZNyIHQq0fBnEyssnhUn5Hjh8BRfvKYghm37KMPzTGqshQxrON+kF261DuTO23zvyTPPk8Tjfh9TJfzyX8UWL8="
+      "url": "http://snaptv.show/live/David2026/yUQgS4rE0AJB89/355014.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "47x0nvqidmw1fqd": {
       "backdrop": "",
@@ -3536,7 +4024,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "dD4t3p8jc8zqkr67K2hUDGdPKYyVUdizleAfQeI2VyLJZXHCP4uKVBcp2LBhc330t+AewEyX+Tspcbrv8GWaVhylwq4w/oR/qQd78Fm6ZfCxuidERSU9S/tb0QNf1KtJNXXhfh/v6tB0/zFcma6Cn3l1bHGkflFEKvShNkOcO2JQr7B7h4heTXqEP1HGGTl+fNS1sYh73iolc/VuS9g="
+      "url": "https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "07rv8949bqnolr4": {
       "backdrop": "",
@@ -3564,7 +4056,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "enc": "uwmOVfrwANRKuSFxCVzJDIdx6BwSB2vaEj5dwzm4JYbfKFX1r80dcrBCdrT8YJKMPqKmSEkRQfeFut7TD1XcE210493P7aDWxuqF8oQnVOYxLQVMY2t31yyrvEdnC5hzP233UoMJ+js5PCPZg9F3KBNXF5Zre2A184+rQSfAUTIibQpqdSabBGD21Sk="
+      "url": "http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zn1tkkfkh8isren": {
       "backdrop": "",
@@ -3592,7 +4088,11 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": ".",
-      "enc": "d5bLHWO1Ev4ETQ9IvIQiskzDFuGwm4iadjG530WI+EmmNkHsm3DjOL8slodV0ATqjG7Qh0OPQozf6bBjVgN4ydhDXWOB10UVi/5L9TEKQsJeVu3q6VHNNwf+dt3h+8i/TozeyVSIuyCFpL6qFa39fg1eRKLpc6Uo9M5U21BgmW51G3BF4xOygpnNlcB5EfIc2jAgvSyX1iQN8BDOnw2W7TgHZp7TPdEqkgW/7HmVEtvp/KSQTyeldjOFHtZKRzzDZ7NSJh1rH1WkJpqtuBW3XCExvbRIbRhfal8RzZrUXhQrypigYQPDsBgVXHR0J1UBUeaQNVyalkKvntRKNonCGl9ljr/44HXVZ5fkrZQazuYfToXKsHbCcqEk05fYaSYijRG7BIqGetPUfQnQTBfFVHtRxcU5cPfGWTW3rCr99g=="
+      "url": "http://2b2.xyz:8080/live/596616351517/206713207541/577556.m3u8",
+      "url2": "http://cf-dana.com:8080/live/khaled81/487650495167/392639.m3u8",
+      "url3": "https://ameditv.ai.studio/api/proxy?url=https://183.bozztv.com/giatv/giatv-avasoport/avasoport/chunks.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "afwzw985ziqy16j": {
       "backdrop": "",
@@ -3620,7 +4120,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "FcMaR8ynvjtMlqwYDQ0A5r59cbEi1z1KTd+aUswMkVWgRbkiWOW1sd594ONDODf2sIIA0cBxzXlMaF2TUO9OEx3hdDqSLesAi/oHiGFBMi67qWNHr3vbxy89ekRc8lrMTRNpiNXyRV6SdQrFVWwvmppZUkbixcJ1bR/kBx2dQvkT4dUDZjMjTCzLrmhmpl4Xf2RjTWbzCtumcBUUAlH49c15/ihHbHcGHtMEj/XBdxNdYY0cIbBSQVRwcqARRSGzdekV4ciyuV2+URcItaCbAI7W/4Dqg6ktXtdH+0EE9+JsBL66J9pr9Fmxl4lB9vbEh6KlfWjEaDuFxDbVNoeG+/OEXphebVHLFnzMGvKzfWLMOh0dL4alRIWdOShv"
+      "url": "http://familyyadgar.com:8080/live/BABXSBSHSHSH/xVFTNPE8xA/207165.ts",
+      "url2": "http://myhand.org:8080/live/17925628357934/35243799209847/207165.ts",
+      "url3": "http://fastopen.live:8080/live/T3cZfU4qSy/fiMxVTYUbQ/124459.ts",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "e3ivlkxgbijsp6c": {
       "backdrop": "",
@@ -3648,7 +4152,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Han+B/EdeHUXG7ZxE7iXEC5q6Bzp7e1V161QbTjth0aFL66SDG28GUGl5J+6/Gv1/w7Ei3spuqFnh/j5uPWKkVSouFEd4PTszSw+GxVsacmkJzwETpmsHA5CS79s26lbSFNfDSSPvRq8dsbVgyawRax7snPrP/zS7aTvGd4Wf4vmdyR1i83MRqT+lX5ewQ5rJ7R/nyCeWSv/udhvZjupcx0EiEMbTJdIel1jKaDja7J8LOqUODsttKFfpvfWuv1RRoWKR4c5Z5s+P/TGGf9hnZ4="
+      "url": "http://star44.xyz:80/live/HADJI23106/V5BGE7T/54062.ts",
+      "url2": "http://forevertv.me:2095/live/EnCqEXGz2U5OhJ/lV8PFo8RGraoWL/1006.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "kk9vz46jmzecdap": {
       "backdrop": "",
@@ -3680,7 +4188,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "xhTcM2tvyP6HdHJWH5Q2PMONHe9BbeOT4bAraX8PWh4+3JZsAVLleGiuDrIEUpMCp1xY+7efI8A8O50rB/pyzwg4pTNpHEUx837lY0Ij2ThgG6Cyy8U2JFjq+daOQoyaZZMAAXYNqmATZJPC9GDyuJ2Cd4YFiIG13+XDCNA47ie/RHWOthvQE9nCs7S8OEAUxAddMmOR0DfPfj2bJ67Ne6+s6uVNMiYrF/ZdGrkok/pPsS+hseqaOgVdTqqf90R+v+p3u1KVaJLhaQigIK1WtlP+G6cGrul1WyVnzHtobBwtSm5IOzPsQ4QKWmCBLHzHFMbYhOZeSSDOOwWeGyUZ20U1ew=="
+      "url": "http://s21tv.co:80/live/809933047584/316247341655/807671.m3u8",
+      "url2": "http://1.fatv.vip/live/mostafa8198/9571960111/409572.ts",
+      "url3": "http://888444.info:80/live/f0002708/48521756/212795.ts",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "hw2vhkjhavw7k3l": {
       "backdrop": "",
@@ -3708,7 +4220,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "mQlzhfibw47j6Gvoo7+paDsHsdTJ9F6VlW8HGGrpFF08K5Lvazm5fe+U48oFpbzzXF7sfk1XP1oRiKPHh+o0Eg1U3hvrzzrCFDyyxsQd0rhfsz1gPePs2WHOo6DVp/yDe3nYno06cNhI2JiVwTZnNRGe5mdYbKy7Ctf49h8G+b1P9EjE/w=="
+      "url": "http://41.205.93.154/ANIMALPLANET/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "tyh8jzye9dlu6ra": {
       "backdrop": "",
@@ -3736,7 +4252,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "xJ4C/vir5XVCHxPEkqd4bo2xdazg8YkDQ5KfGqMyd+M/qn2t+1Onu5iV2x3rgOhJfDVeItIEpSh0SReJzg9osUrkW/0lpNQrElweOnrDdZP74RC7vkehZjCmX+SkK70NeDj+kTLcg6vdOFZmLAP6XjM3uQOrgDPhtOnS8JngTgiVMYI5XFipH9VWl8rnHEKiFw=="
+      "url": "https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ojvh9psasuih74h": {
       "backdrop": "",
@@ -3764,7 +4284,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "XkF/SZI1HcB21w3HjubVKg8tHfEEfeHbruaF/clCjRE5JAj+hLiOUE83XIAVVsgONofg9MzzYj3WI6uAKGlEXbR7Mz4i8r8zr3T/SKdaZ9GYpXFfiSAcg9BE0rUN98Mqfb7r1THq7WFcOFCbMa+Msa6uth8wr8iznRQP+58JNqwgGlR/zUH0ANXGsUUYZ0fkxrU5MPxPNJ9zbfAMMcwvTOI2T9Z0InwqidY6EFZHFreLWpviGk5+cssHRoOL0Q0DENZ2asLkW5Hs4++LRb9r"
+      "url": "http://iptv.prosto.tv:7000/ch93/tracks-v2a1/mono.m3u8?live=1&ip=130.193.240.152&e=1755690567&st=YALYuC_zkZouhlDMF-yr_Q",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "e1glad2zcunrf4e": {
       "backdrop": "",
@@ -3792,7 +4316,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "MWybKaLEXPqgm4hpOC4nkwHxR/RukvW8BqgmZj1VlGD4/785xMj1Ap26U4cGwbptAott/h2mO4k3I2BZ9XTsoYWJXz6FmpbwgGqfEkzyvHhvnrEJHHuCvMfXZpQ3zZoMbzaSfFYe0Mn2UO5RPQueCFtHLCPrG0cjbfuCVM1OqgJH3e8pVksySUB7"
+      "url": "https://wildearth-plex.amagi.tv/masterR1080p.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "b3ef9yp3a42v638": {
       "backdrop": "",
@@ -3820,7 +4348,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "3aQsCdDR8m+eVY6CKoyOjrSEc7uLASlObAkR4w50SUaH4KdVHUOvSF1NcWuW0qAeYFLXyNHEio8/lE5gCyAikYQhu4MB4KQBKyVdVajHB+c3sSOiBW1/uX4MCPBT6k13Izte8ueFfMoKRpypUsGMKNHIva0ZAWSjATx5sYn6HdbUdSMOG34Up0iDyXWfwTyYz1FbX5Ctj1sViSQjuyYfTB/j388/z0b9brYa5sBV"
+      "url": "https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "lmy6qe67f3awwve": {
       "backdrop": "",
@@ -3848,7 +4380,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "HFk8y/PZ6qYD10nLzN9FuVU4Z0FtLVIRdu2Lt1VKaOJBbVcSAcGy2eclZxh5TD4Ew2goRhjacBfyfll91fRfChKKUYwckM8WWcLBvi3V33yhA/Vk341lGeXloT/gKcgPyRuF2GMgFgD4vfLNs3Kubk7KphEPyaIhEKBQv4Bgy0WK/aQyirEvYI2rmONxoc/fJ6q7/Db3ca90272y84YF"
+      "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "22xo00rt7wlcf41": {
       "backdrop": "",
@@ -3876,7 +4412,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "s4eZj72OjyhGqm6JOhgYvM+97VLmCviGRPhcSErItQ6Pc/i07iSJIL7vv9rDOY7HxgBw9dlu84t9lCxr+c52stl5/77QC8qDM7EHrOVDE06FfwNOMEdTaM4AshZ9AtwNW/NBZbACmgI9yqDiKBT/hu19+w2Kjsux5sT7UoTNZuGyPs4zMJbUwA=="
+      "url": "https://streamer103.neterra.tv/travel/live.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "sjy1edkwzyomlc5": {
       "backdrop": "",
@@ -3904,7 +4444,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "JZXaIZviFxetW3ZyK2kEWAYGHyZcHPDtUcQhq5zoAersmaUnSSYq/0DwNEBxI+RwZ85it89N1JeKTqmjzLz0Z2o9J8b/gMG3xx4DVozeXeu8SaI1NVP1CZBv6HuWuxInCQjX63BKB/yNnn9nwR7jL+OW1PPjhuV08C2ED5Uli8ht9xK6RfpgJjeQ5NYBFOIa+vhGiUBoOKc+i+FCYfaRsz0FHFRRqAtU814I39YqZX/yYYTh2iObiwB255q4930toUIX/huyTvkp5O5QuajwN3wiydw="
+      "url": "http://streamcdn.us:8080/live/1BYb803BR6/LPpADeInmT/119553.m3u8",
+      "url2": "http://kanwat1.xyz:8080/live/Lion79876/69937745326/429758.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "4e6dzkshjv6kb0i": {
       "backdrop": "",
@@ -3932,7 +4476,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "otBF1V86SYWawY6jTh8CY0a3QJzwx34tvl7r3tSlBKVae/yFcJlep/yPJCwOIf1X4TD5MLCw2o638gyN9HvP3sDfHJm3xH3Wa6Vv4ub2GnyZYL1+1oUyTMx5vJg02r4EV9aQPNkXY+XUBXIqoGhSpHEDC+k+WdRmYreS/WexYQzz62WyNQg3AtUesfM/uXihL32gYU+3fw=="
+      "url": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807623.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "2he6ilr1vcicgmw": {
       "backdrop": "",
@@ -3960,7 +4508,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "CE+0+gtpq83uYk04czd/Yf/CfOBog9HdjlUoLv+J0bvEyIQdT50SeTWgZqFOUbwdp324IWT88+JbKntYvt3BdiH7gX4Svza0ykvrgtCGl9GRWWywj16n0H3OWXd1RznysKg7wAsxe1uOfLggvdkavT/2k7sY3tbrThf4avyI8aztdtFOE4PGy++hRK4tp7rsxs8nAr/YY6Qm6DkUzX9IrqpepdnjPWmVE5/KrYSImIUQoVA+IayaQ56quM6OmA8Uje1iELiu2BR2rnS8"
+      "url": "https://www.speda2.site/upload/images/spedadrama.m3u8",
+      "url2": "http://forevertv.me:8080/live/154704979820/TwGcBxh4Fo/28801.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "uvdoj9ywwxqzko5": {
       "backdrop": "",
@@ -3992,7 +4544,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "E77IKwvo60CBX/6yIoHCesO9WEc1mTi8TegBLYuRJ+EHXU0RkNLCCIAhElPmgQxpvN4d6BPP/R9zaBlzoQl2QJWkfamfrY6B8kd/0HT7rB7an2q2v/biCVBGFsxAP/TIH/V+7iyKsSzoTqJodRSHKoDK4ZVRmPuNAtlUPpscnQfHsNICdCxvRfIWDauvWLg/zb272x2r7XI="
+      "url": "http://max4kcdn.com:8080/live/5161699711/3840575058/115341.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "8tl6wbr6he3dc8m": {
       "backdrop": "",
@@ -4024,7 +4580,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "gcaUlAJGCYZvOBhvMiaNt8dzaqkxUUOZt14UgxwTDvuP/WkFpX/GDsXL89bP5sEsmSXVCZHqMfrLQxJs6JDjA/ypejerOua3IBk5pqxmgnqJs+Ds3M0tQDkFD79EsYIu1/P4u4uRa3MaAzS3vhzZX0pQyEOyG1vB3SgZcfCT9hsdMJOMfRDpQ3VAMr+XTHbcHRD4rLB9BPjTKAU+D7f2Ke9a/bHmvBMfZbHQZfm9jqrkZspQsO14RoYC3J3V8f1hB/317oCe+0E+LFVAnk3p2sRtPPquwFv91qfvV5UimDUo"
+      "url": "http://clicktv1.live:2082/live/mohammeddibfattal/313785715368/180133.m3u8",
+      "url2": "http://mhiptv.com:8080/live/malakcode491/5549149122/212773.m3u8",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "savquhxca2jbin2": {
       "backdrop": "",
@@ -4052,7 +4612,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": ".",
-      "enc": "caGKJE7UbDdZ3j5deYD5hg9FM2n3j8W9BvyVfz567LuvgPcKXt5GXGwKXdQoJLrBhVmtXjooyTl/vh9HfSy6FjzCDz9Enz4Nzq70UtuwCqL9IMcylvmZFGM91+ytKtgJW9MmasgEPQIjqzI9eaIYOQunPXdM1hQlOrDb1HW67ObzlIJ7JvHtHKTKpW+RDh/LAbODcd2MzPxoSV9j/bn+c3VwE/o="
+      "url": "https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Cihan.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "gcms8pznxa7zbu2": {
       "backdrop": "",
@@ -4081,7 +4645,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "ErVBB3NWVfcwlaL63Ob8Xc+F9OtK9qu7JyAXC1DGdZYahfgGvY1wa1aNP0NJEXxJV+BnJxa20s9CUBi6BkMKXGijRgPx9q1fN6bVFurJ1bfrljzQ5Soq4wgbcY/zFDJluDxhTjMoL3b6X18oN5YZ45O3HogTMaFr1eURFTzuHKSZLLcDvUe5Dp4Mk9PByPMilAiUzp/kjDfdra7/ZQ=="
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601447.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "p1rdqusv4uvzuwj": {
       "backdrop": "",
@@ -4109,7 +4677,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "zbGc9cSPqMv2kxF8E7QrLTuuvm2ZD9qQyUQdS1qT3SOhbYSVfWKegAaWX5m5OvJjafqkTFwwcWMCbQuwzpkBolJwH74WndWRTXFmgLWEwDneih5Ubd71chZmKnqvvjDZnO5xcmXtjbnKPzrt/GcqIxtSfLD9FJdQX30WyX1BRL6mWFVvLMA7CDL4EIsDFODSWLVYc5eo8w=="
+      "url": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807715.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "2x9lt7qsp76xdva": {
       "backdrop": "",
@@ -4137,7 +4709,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "JeNaR4WP+7hJIzsWG8SI8jM0Qbg5Ffge8tEbeWcG7Aycgy/ESFQHUdTA9U0frZizjHG9UWSRoyWrILX6VNlaBxxd51vYem4N9iTPYVDa3P/JDIqk3hWZN7rFqxfRlVL0gFC0MxyHP2EcIETKgI8nZqhQzJL3Am7mzRO2LlelTbKd7S36q6swr81h4akMJPrlkNLLqokCVcUE+QHL+xA7KrnZQ42MGiissbL2a4xs7iQhppolPwINzI68oSgx8eF1/cZUjmrbHQH0ms+bZ1YPKV5haBA0stwzjrnERUMNTwd9rTIfyb4Dh8kl7QBc+lsOvgIwcgmoDvw="
+      "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "o47wny61m5a5wv7": {
       "backdrop": "https://content.avito.ma/classifieds/images/10149779269?t=images",
@@ -4497,7 +5073,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "btevCizi8oQDfQQj+SBKkuLR5wzpE9vaHzS4jwDxbPqzrzKU/5VbHTE12GAi0Stfkb2SQaLFkWkXcZRBFPoiEayTPG+m1i4x7jyT7x8JsXDCeFMBGDq01OFpM+luHIXLRk6BOfZdjL0W/j+a9DnI5Jb9zT/B2GK7ChDT622nOV6DIvIb2lfRKPnwbOSseddzq9Y365o7lG+A/0UeDivF6l9u70I5WMvrs6Dp3g=="
+      "url": "http://cp11.adabmedia.com/hls2/persiana.m3u8",
+      "url2": "https://pepsi3.abntv.live/hls/psp1.m3u8",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "hoa3d3nky663oo4": {
       "backdrop": "",
@@ -4525,7 +5105,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "h2Pjv4nNcT3Vddrks9iABwXtv3qNUVkgcTEmPfZYospglSQIGkjKRXjT0JOarKH8AJuGsevFSj57JxBISDPveJoZY9mBXPEwFzLl+sAUDm+U8TO/MC9PU+8kpMaZpw11Djl1Jl2/FFNaFsfL2xVTnrIYiXNT3DibUmAumjM/K5vfwu0v"
+      "url": "https://pepsi.abntv.live/hls/4spstream.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "6t7psyq8z59tzie": {
       "backdrop": "",
@@ -4553,7 +5137,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "60CCBwLKu5NRUQAjxsNPtrB52Ejvd/5RbhImDNfiYZ7aM8gMhtYXbXKYv7euAEQY8WPNaXdt8lFsWzhrjgNPqAiSOmsG2QH3WIBePSjb1hZ5iA/gAnhVYTV3jd0XUsomGPAqespLPsb/rqb+vju/TcFne+/QvgXGjCzWESHfOLjhcbO2cKf3C4lG7gXOUSy6A6I9tUfnaydN/8TM"
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "fwcjbxsmtbjeqxq": {
       "backdrop": "",
@@ -4581,7 +5169,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "pmhHUMUB8JOVooh8HfdBS4qWl3DBeF1HJNQdQI8gzSl8Ldw/Jnn0gPFI3MXh//AogD1LQGXbxLv8QmSB1MRUKt29skYSdiBgdEt//S4fuwgzo03bCVOu84ZHPGWwfChOb0J16tOtEtfs/yTNfjwKThAcIzM4pj+sN7Bw2V1aLpv/VJg93nCABxgavddmilAvb0xT5uUxIXmVZnYz9/VDIfjhsPDHwo2DO65GvNTU"
+      "url": "http://ott.watch/stream/83K27DP6PU/142.m3u8",
+      "url2": "http://195.201.243.254/stream10/index.m3u8",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "5vh2bp3pivurg9c": {
       "backdrop": "",
@@ -4613,7 +5205,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "d3n8pXtJNfOJceBlvWmqWTpXSr1/p/XL1j4BwO55bPEhkMEZd1Dpk2wBZUUbjj5egUjEabFworIAXBMzvvonCu1wPXCfHV0rajLEuy/jpzpNYAT3/2jK7NBvtF3Wz0c6nfx2J5AktwFw0jBatJNQMvv265rJxlGsmmTnotRGiuBQJDsdz+eg8ZMN7WQOClpQAnVvvkJI4rzQHqmC7o9q5Ap+EqizTQlXL0KF3/tG0FUoFf7Me2tOAa3PBaos2cHMuxz9LNzxvomf2qZBRJpIKgQ="
+      "url": "http://dana8kone.com:8080/live/dilarsx1/cd679c264/392844.ts",
+      "url2": "http://max4kcdn.com:8080/live/3544352126/5152401717/141597.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "57lakfrtxvesbd7": {
       "backdrop": "",
@@ -4673,7 +5269,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "sFf5wUJwGwbUOqg8a/pC/xTqdjsh4AC2ULzocQahYklQ5xg6BaIyz6UsxmTJ+FZDh6UnxQsxGm8HqmzgfJehOt439Ib6LARdbVgIQUurcMXjbGVa764FjjYYywZ1trB2hOCXvv2yaWrQxZtdvMYCdMBln+IpMUXt1HPVtzgqJhEqPjalM2qu/FSdpLMAbuI="
+      "url": "http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "6kxaszywcwxq3y8": {
       "backdrop": "",
@@ -4701,7 +5301,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "v4GK5rkybBbrAtGCKGQ/9steA9eiTsqYjDfDLZ+foVwDOwFbMlDCAxAeHyuNaMEaVSoFX48Wuuyft92ZtXncsm7Z84vEWJqTxZk9ktIjPjtgReTg7g45mX/RELRkktU/eMNj2Rtu9vN/oQdnrNd/eXVN77gAIofnc7gwWq5Bn5lxQ+dGcWkk1getPM8X"
+      "url": "http://avrstream.com:1935/live/kidcohd/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "lno62n0xgr89y24": {
       "backdrop": "",
@@ -4729,7 +5333,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "8Apo/mxjoXfyH4cpIxCFA+W6I3FipU7dgk1oH0wn1f2hJcXtOceaSleIRrOjnc0GAWdvLS6sY8axjTOpDBa/+dhyPKC2Xr21sdBlxP4NSDtYUDc5NstVMs1YdEuvHuKt/qeY9kwby7LIivHZulnUjKiHwFGkaRPhHP/MaO28LIAg2KQXCXYOuojwOKBV1VUCbqa9tA=="
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "69xwpu8fnykqqjg": {
       "backdrop": "",
@@ -4757,7 +5365,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "V40JBJp3qCb55XEPFZtqmj7Ra+NJkX4bZXXagSbN4rkxdyCGARME75qyYQg0JCdHo7A90MdMiRpeQ9cGB5L9eY4RQ2+bxnk/M9biTJV4YlnKKiKkbBTdER/SPiJeEhOTTEyJ3l0irYZWcxJyyLV92sdVTdTELyzg7RNbyBXhUb7jwEWIWJoVkr2uvbToC1eRpVsCQGYy0+TU1EJ0"
+      "url": "https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "j0bprpsciv9mres": {
       "backdrop": "",
@@ -4785,7 +5397,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "FTQgvs5b0PiAB9fQjF98CE29fs8W3smQ/J0CUxnWaGW02WUDVRJr6moqR6GdMzHM9uRWLupM2JsUqqUs0jV8PqccTvlZ4Im+FxPZz4+QJ+gt5CXOmRx31vBP0LA23qq9maAf8MWDu816l4GUWaZXkGKekDm2a0rcP5iMLsS//hoI5+l8ISsofCpZP9nProMC3NghvazqhUFKOsK1IWzRnJUo6GFYItne98fT83p883cU61wj8TQ="
+      "url": "https://streaming.televizor-24-tochka.ru/live/554-req_offset_28000000-req_window_0-2k_v5.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "bd6tyr6ywixg29t": {
       "backdrop": "",
@@ -4813,7 +5429,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "9M0Z3KlCdBMEbUST2cx68Pga2Lcz7QKZhi1s67qwytB9RGiGgQGTqifUlxYcIgm+QYDhKeOpt5Ic3r11rEABTvQ7j7ENkHzFZeQ7PoPcdVo8czYBHLiFQkFpWGP7/4qIWNjG+j7aC9z5rwuF8wirRi2bQ4qrrsz0z2FYmlO+X9Mu8V47pQb2lEHBaHipSbJ+WtAEKNK0xT5e+7NQI4xMUz9aGCnXZIx1btM="
+      "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master720p.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "3qftdgaggc0k3e0": {
       "backdrop": "",
@@ -4841,7 +5461,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "9RqQbmOqJytcyUWFSCNsBdcoQ5TzlLphYhMK31CCIZFwCs3UiivVZ59fFPbOr34K79VOXRxiQ6ZCspC9+OHuTSH1FGycFS4410o0vo5yVrquRbIKFGLYaqtwrtRpvcrQgKA47mfAOWYtp2bWdNdCjygNQsbMaOevj6ziAZTSep/yspSXyyDkR6rBRa+zpCBOHPQGtZFI6X3AXQrRsjnJ26OkLkQQZVHUAImgcRE6E82s4YHkutaxcRn5PYb1uwKbBZqFDR8sADIaCrzdsExOG1qy1go8+N1mnd8q+W/B6cACddnUdL82KAHgQHTZhfulS+LpXf2VkTZSP3oGHFzovMIGKneyelxXeKk8bEul5X7eQAglWFLxW5LQmsfxER28KmRfvnz0ktmHmrBucpc6DD+5SXrcJclUNR2mAtQsy0tExjbnpXmi6UCSQPmplrC3+6gNJDOns/wgiZ8YxPaIoJnms6qohAnXovNoJIyp2hcTQJvyGQerHfZAwJQKtkfCZyI4n5aCX0B0eYhLIK2jh7b4F7O7Vu0Dw47EAmNw2aGprMM0nNvAYgQpV3VMfXcQr4Iq3pOhaD1tneSwj04zy1wKTI+xwlj81+zaIPAcy34NVXZ0WiuJcXKxTzzR2BqZSsGxnYCnK3hP8/iEMJzwrY7VwsncmxCbqvENcuMndEULG8T/ybGe54PBVOubOzketQu543RuxB6i+KZiHgT0p9XKwJk7DoWWl/URQ55r+AWm0KQ0VNWCZayrcKO/9OcqIKrGdJkr18Ebxj17iyMjGRiUUIZpAPj8vNdZA4U0CqMd1IwQ+iSbXgu7MfFUXenan+8c/r45qsTFUnC5zIbqojzIAywP4vCDppGrMP7lITVsZ+vWWNdf432HgUjodxr+CYK/Cxrr0ofmoTBuCr86ri9Nlagi3lPxGiqcf7jd1eWzIvtc21xEVu0YXmMXCwAfE1eRzag+PuP5yy09dIFDWZxnbzV56chjRA7eDV6+iYrAIe/Wke0L2R4/AC+ckZKAbhcMl3uqjf4tMFySOsXSIvZKo5iYpPfcuZfAkRp8SFDKFyRvyZNk7ZbbMgxt2FrD/qROz4ujySLatLznLZGVzZ2QPxIlXzeN82WosOc4qGvY2MoMJb883YlR1LKr1ay4/etcRsD1680fiEEkNg/a1VQw3gfWi+6XiWxnUoPBEmiZgyrF/ggEmzr+UHQi5OFW7uYyBMSLOJYPwL5VzQK6Jd3t/FAjy3XkmfeCrQ4C+3Yg+8QzSY5fRisz3OJHFbjJvHqGrTseifF6sPdznIIfb3HCh6sQ93fv/QpriZs3GJcNHWkbSf5W4gb8YtZGct7CA8k0HCLNEGz8bNV7+et2UPFcIissesXCdQPr7QaAumhaYiBAE1YXFG9bPb7RA0q7v0Uasho5mUisJOKq7NHc/a8voNqcvBSw7KFo/3uYB30oxU8I2cWFsAlTMur9y5vGVMynBqz6AOQsj9YW5aQZXWea2SaQJus6CUoYYtkt65GZy7AUG1jtoaQXDjq2Xw4FV/kaqtSXY0HADjicXxhhSE2m0sVuhVec2y1ASC8kkXZE6/eU4W3aXFliKua76uwwNMiHHnmUsBAmSZr6fDDxawWZm8cs6iwzOerA0aF6FrqYQ9NjhodMDCvAeQFcYj1rAEXBtOZrVqachYNr7MP8PQna7tFfQpJPoVTUJZMZh3WrYganVzVs/MHoI9UD2UBkIDPunA3NKrgbug5pvbM/jx6QudJvKCNH86HbqUrgDPe6SJvyHvGl29eZ3iUXPrDxC0k8YEvBesqVUBvy"
+      "url": "https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/ts-eu-w1-n2/playlist/amg00426-littledotstudio-realwildnz-samsungnz/cb543d167e6c678a9ad43e61cef041a0f99653fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505c6cdb7ba31402c5d87bb82371254b2085fad27aa8871009b3d80f2f34b37a1f5aee4953c9352262c9e51f3f803f9e70115cbd5a391861dbfd41d60e36b8fc169b2370d0f8cd166c2e0100864d3bb0e21dfaa0bf4241c66cb1c2440aca7210f88341c1ca1ca587d65b9a5d8773f604e0cda2d28f4592e5c035f815eb7b5c0b7533cad63bd7cd08b2dbc23e3bc93c7e45470dabf2c2f81e71df43170eb5ac9deb64ac10cbd1708537618909f221ecf56d0dd06b8ed00cc484a9de533356cea67a52576b613de8815112ae6ffad884b595e3fc84735a46ce65dc232f7ae1952f8be1b177b49159e296681a30c49041d1fde0c187d1fcc6d3fe8da83fb81d3befabc02ca60e84ba27b708ce71a98131205b4540ac9e6f66e7b39e514f409c8952d81254ec95dbc3972232c4750301a841d75f1763c5302c2db476b9a81154da745cd4751fee5139840dce887dd4e989b5576be58b8912af3eb4f51dc4bf42887d2c550784f72e744c583285bd3143632f830dcffbfecc5b4540e0fec6fb80743d0432181b4cbde7f5639281ce66495891130568661f1a934b873a874e194e799b4e87e25821d2460c22e4ae33581a5f97ceb0938e999f17e23180998f54455c786db9210a2f6aa1d4dc0887560912575282066846fd37524de490c386c8d1382efdc826fbc67283c316f010c7586f9106353ab66047b0/116/1920x1080_6046040/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "gciizceg6w7ewp2": {
       "backdrop": "",
@@ -4869,7 +5493,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "w610pw/elZnV10sOEviIjsD0Ch+6iCJeXPQxaWYWzZdS7Jq2va+WpK5a7Dw/e8Q2/JDVQk4M9qq+672vlS3tIgiM1sfg7rDp2LcQBxc6nuiqlR0G594qI+LN+IM0ePmTWDjmhDPVFQjT6QeQMQeNODS92JwIAsoarBAWY3wh6frRNLOKRS007mv3LrzyihBOv2987o0xwA9r/MbOUGS/TdfwbWSG3MBU15sfTFtNxwq4rX18ecIE6oIZQ9NDc9tTOomxH/P68aQyLIjacURXu9uZWmcFz1wk2dKNEfyUP0DFdKE1sBVoP7hKCNnAzwGQnKJ/JS7179fMV97KyXP28w=="
+      "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ndl6fm0b444dbpd": {
       "backdrop": "",
@@ -4897,7 +5525,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "bCRMSgk9NayzVPq7y57YQOe6vs40YfebWXGFNXJrFYXMGlA6vxUvLbpgcULzCeGjBJIsjHWD+xFMr0+KwBs2AW2TPMmC37fWfwYlVpUvaJRNQEQHf5Sr/9x5pshAEPcSP9W4odRGhjl/QVjBM7KRoJfyefRGjuuyfwnfao8CceOvmRb8FdFolckmEI3gLP2Q3UoW30yXueyJV9P8LzBu03pKmIA3u8ZYEkVyHFPPwrUldWPFG77GJQGMCObnRljvU5uMrQ2XVjZX2H2AkvKsdLk="
+      "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "eyzf5gm8a7yeqmp": {
       "backdrop": "",
@@ -4925,7 +5557,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "gjj6uxrRzf7Q/UWe/VNLbEt3pAw5D+XAfvUlRcQKZebW9BA9U3ZXxpolR+wADO8fdMT08eeRt7HzFX4wYHd+CUkesXejMDZ0aiIDH1ZgXCpt+GveTCB2rEqJDZyhEVaID2jsCfuwNnhva4hydzqYTb8k/ZaamBsRhLGc2sn2h8Fu"
+      "url": "https://cdn.karwan.tv/wallatv/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "6elbw5u3q3e3o7u": {
       "backdrop": "",
@@ -4953,7 +5589,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "exBAE8KXKV4WhZ5xYhLxi251SCAwv0xS1UI90JG4rEPFVVjDBVTGRjgR63so30yKNCbqgJNGQ6fJGeEfsCKPE79ZGc4jFFP9poA+oMkkxA097TXLiwy7ZoQcf8d2XoTXvQJJN7HXnbtylVpU6gSc/UU0M6TbkyyYdwCXGccHk1RAu1VE"
+      "url": "https://iptv-link.short.gy/Gewher_Kids.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ffwtv487b9z60yu": {
       "backdrop": "",
@@ -4981,7 +5621,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "H70495kzAmVgoaFV8kNCx6sHWSwOC1I8dVVjQ9sr9c18EjHJP6G8UyPHpyaTDFGFIaSZ1Vg77//UIcN+Fg686iQkO2jMVn4nWcwXYjX0NMsVOgdddNqjWB4rwJJDSA+lMeZuXO4sCqFTcpZ6B/3OmcteNgq2fv6eM/yyUfcLYsDR0Tq6nw=="
+      "url": "https://iptv-link.short.gy/Gewher_Sport.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zzzmj4bod26zl42": {
       "backdrop": "",
@@ -5013,7 +5657,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "JLNJdcb8rHSe5vjx1DAHFIKyqLkJrREhOgP/QBaBXLqqaW/lok4iiTC3Ae+PY7ar2VkxMoZqVMNIeQdk0nDwMpfju9lOsl8RtyNMPuoxt+FQNqUe9OwflzqocbczYTNodIpCNR+pIHN7kIBgWinusblrbAQnI4xtVecdRe/7vrSATNAOibGLa5A71OOX+V29iSSzIbNdmyl1eifrFXqlFn50CCH6SXslsdyTt5913k2ARvSqIjYCaNjRHZSaRjEYsvzxsn/NvSfjNFdHJAyzLpM8gsZ7fElE/i3N7bDV6JZzgI87RNVT654LhCwY6CtTkb+DC7IWMnQnIb4R4vW2ez6UUo/3GLMQpw9M/GHR2c6uS//KWPpnHc91tBng"
+      "url": "http://rahmmax.org:2052/live/24717171183220/27528941619411/601508.ts",
+      "url2": "http://vodkom.net:88/live/5kNEkkd53QU2HU2/qMNpkvpZeuJNwgT/189964.ts",
+      "url3": "http://falcontv.net:80/live/0143561382/4637213576/409640.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "2c1k5t0vlznyfxa": {
       "backdrop": "",
@@ -5042,7 +5690,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "CK99YGSSWqzewICrRKJy4zlF0ap73AFoyc2IsgAYFR5UsKq2Dk6SDPgfBZl+hoxlShqTsoAmbYl2Uons9H+c5Jl9VDjTdLHZ+c5sKoJaL8/ZsgA3oGYDDN3/onoT5gs+crclxnldJCgOGZ+XE7HgD3KR2nxEL8LxnE1bJ1im+tVBBMDJrmyO4MsghT1b1ejfi+Pm9BBkSRXfxuWqw16CAHVb/1nbeOtosD8Nz7LQSMM7r6QUk66BdqlxUsgC5PoQd+PC+K8Vnni4e3BEEu4q09TUlz3wOhDKhTM="
+      "url": "http://rahmmax.org:2052/live/30635000266893/85606299443755/601567.ts",
+      "url2": "http://streamcdn.us:8080/live/sKSSMO4WRm/y8sG8HhGgn/147422.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "xf8ivavh2k05d07": {
       "backdrop": "",
@@ -5070,7 +5722,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "O9gNnGsiXY0I2Ttmt2DNH0r8kDaVWkijbPz0jAY69DqaZ6xUIzrI4ijQJq7gyxmTyrMridwEXEeaHoRg02uqqTzky4n/IE2HvzbxRwOpUNTS3VKbQ+uhSt7YDbjA/VUyRPdxNn8Ox8HcPxL0yL+M/SJYnFj2CLOpVnVxyuZxGqdU53WZ9Y0iElcGmFjVTyG3L52pPdvhVjEEsDhexIcDYaD/6Q5RdfPAKTwGVD4sxX1ysnQbOzqH+AEhee+QVaQRhf4IAmFlQ11F930J5gG+fLMxDRhNaf86MchnDaTbaDzGM2s4LNj3ve7KB9PN/hzDt8VyJ4E3LrAbWUbhe+zzfBqYf0lYOedrbH8N/tstTwKJA3wdWQ=="
+      "url": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807672.ts",
+      "url2": "http://snap-tr.org/live/00491727832218/as2020as/357559.m3u8",
+      "url3": "http://tanbieh.com:80/live/110366811170D/162411098190gH/357559.m3u8",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "1gzeimb2tx9i84p": {
       "backdrop": "",
@@ -5099,7 +5755,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "FuuBzIbYTo0NZBkvsllSRnvAtqQ/33xgHcJ5nCncCTg9n+OcQksZDuLm0LihrOnbz9ZVMdafWlTYHrgK9UvvcZG5FS0Gf3BBny7hOmSYb/zWWsymZ0aXaQ2sFnbSGZPZGQecpqi42Hilmz7vEtN3bH2JEEeKKvu0IdaTXV+iSFIv+Ck+X0o4gjj6M4OuNkSvtx7PqtVookRz3fEEiQ=="
+      "url": "http://rahmmax.org:2052/live/29938654291415/49071921116498/649695.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "iwfv2zuap4ebeq5": {
       "backdrop": "",
@@ -5127,7 +5787,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "RzBWGXKEOuRKUwuBMcYNKAskM9JhopZatbPtq2VjzYCcdimmytnriQ9tiPa6nyOxJOVcZZe/pmzJCHLSWXySd4jpqIVW6uHolAw3v63zFC124AZjjCPpnNEnXiR6Ngmc6Pbwq6b7Z/vnHL+eG0XMwuy9cYrs8E8ma83kBnEBhRZC33tAzD7+dS9F4qMb1C/SzT4psA=="
+      "url": "http://snaptv.show/live/00491727832218/as2020as/355020.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ls17f6fx68fx4iz": {
       "backdrop": "",
@@ -5156,7 +5820,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "XI52wj24ZvH073U20hBTkJhtkmwgKvtIlZATcu/C0rrXVRV8pcj9lNB27G4IVAwPfW22VieeHRE/z5O3tpsd+U5iIXNjdXKIvNdWG6r58QqAko7o6HojZGKfMlnJkLjurC/C7rhMA/KL3xR4EG4zEaPwMNYruTdKrQLXlsRqACWBzqWiSC8SFkJiy/4Fle988BmZO+9vPnncmDa4Nw=="
+      "url": "http://rahmmax.org:2052/live/21116253178258/14909458224355/649696.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "4465sboejjar36m": {
       "backdrop": "",
@@ -5184,7 +5852,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "qvG1HzcH5E07v2SgmNyh++nqWnrahUbcLvhmTc3lNNNbUTTSfdtkrS47Gv09m3/2fVkok4+QMMUhDFRiU7Ah356ILOiEktIfcF5T9gqAC0gXzQ/8DBKSb8Q5dElpnhQwP+1LLHutDkiKLcMQzkUYRPrPjsg+E9Mrkc0PqmN4/s0Z5IbXvc2ZiS7yingAoFVfomA4GHyhNw=="
+      "url": "http://cloudott.org:80/live/Xip77776666/02042021Mc/482007.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "8sgt96l1m7zhzub": {
       "backdrop": "",
@@ -5216,7 +5888,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "GLHq2gCfJlBdFcg+CPLv3UGEZhfgP4gD2OqBRH4GuWvse3U0FQa1LSippg4K/cWNvEJb8BhODxtrAgbrU3xAJ/1tx26MOz2XWW4BGhLFuAU98ETdnGOjiq0e6JS7kVt3o3fnkkB1ja5xc0ZIAqS6Qkh5JrKXUU5ReVdp2SRBwzQOtGfXzdqQa7PcoQwldvKOZasw4svLcIwmwqfa9Q=="
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/649698.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "sbatpxyz3uvb5nm": {
       "backdrop": "",
@@ -5244,7 +5920,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Dqb4LB6mFjwtOcf14rhBCQZa4pQLmisN7CP0dDs6atOFbpYP1Sr2GaHaoXK0P52/+0wgyNJEMsHMQ5euxBzzTtLOfEQcom1SfQDkmCKd6KmldXK8OzRU2KeUSPkHdYnLG2dH2AjffmcXlrabq8zTZMLzyazgPFILBtuO+t0svnHJMgrL9qkxePsXoxwLB1+FTML3cJY5Op9kyHVASOIvCPKlDD3r0BZX+LWn9s4afLI2ZL8DD15EMKuXdTzdNmRPKnQXk3nQzBM="
+      "url": "http://lionstv.tv:8080/live/abdulaziz1176/27911176/765611.ts",
+      "url2": "http://max-4k.xyz/live/Z42C27D9/90595095/1250186.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "np09vamg664wxfe": {
       "backdrop": "",
@@ -5272,7 +5952,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "lZHkoyE82B6bIvF48Ea+/6M/DXJ0qEbqxWec/fkOKVqwfdI8VBfo7922CtqamKj6SYr8qeul/JW/pYF+0MZReD3W3yov1xg/5XRxFzFh8p8YO5KhYbTEoL2aePWiTvyFFrHE7YVxXpwL9TEBmT+8JB4KsyMmcj5AkY6DGgAAqK0cgsolJQaiAJCN4TUZfirnXCI="
+      "url": "http://sa.xurvani.cfd/live/564500400/3839746022/738884.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "2ia18x0g97mdscr": {
       "backdrop": "",
@@ -5300,7 +5984,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "/U5Bo8zJZ+eg7vBWm8S9Z8IO/d53Gehzv7OI6LYLJHp5iaIiEqI2SSRkVi7yePLRux1NNy83FNeQ+UuneIJUMnzWSp92jNVWd9pbESD77JYFsj0mqwNXoRAbsRSHIlTusXsM51vbq2odY2xi+IwFoN61kBACTtvc3n9Wi/AECSO5Hzlii5BrUf/AHxJjccS2RnKsir6RaGkaVmxjNPcSrxr7ww=="
+      "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "5d6xq0ptyci4vcu": {
       "backdrop": "",
@@ -5328,7 +6016,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "iz0hiUGnAvpBEUJDKM+Zm3QncLzBaHmYO718I4q2SrAUDt/IPuzIBUqhsaqW83nVkQk13WlhVWJsQJ7c53QpqTGKEnIDHZinvDAdhr1021hGTDOi6IRvg/UYLkrBovbUEE3wPZ1WmDGa7chdwYuwW5IzDmpBZrmVk57K4SgxfyVk02mwu8KVaTYTDqbRQF54orYoN9/aIdk="
+      "url": "https://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "kym8p5g97ro3moh": {
       "backdrop": "",
@@ -5360,7 +6052,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "T/1T4unbY3VAGytbxAnbTXLcex/tlAE6HhmxrhLYmnskSCI/B94I6s0ZVsKUkOmc7oVroKF2m123f4A5SYbbPwDcPrqctHIAazmYbmJiJ0ZlQgnAUEwzcZ3VdqJaUc3NyglApwFHcbLzSi9BY8c/5UAunz4A/nLm2L7Nkbid3KTqPOtt4ZAXTNprjPMaOhjk"
+      "url": "http://212.102.38.45/live/test_arenasport/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "hvpffc1v6psx6yz": {
       "backdrop": "",
@@ -5388,7 +6084,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Ht5laW6EXz+v7B/9X/ZbqwJHcPL92rgvltYMyUtnnJCGhqBkEeHK25ynO5G7k4poqJ7qP+K9BJLtzfw10PvTxjfIwbe2m+BauqIp693WCJ5OBfoXJPn++baOH4Vm4UjY6bhMdA7ZYpJS8/Rg8LGn0EewEIb+oqdZPKjipTSU33Dx8umIzml/pMPTJr1rF5R9C1BZDQ=="
+      "url": "http://212.102.38.45/live/test_arenasport_dva/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "9h5izqbp09h3lak": {
       "backdrop": "",
@@ -5416,7 +6116,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "taIf++FVgL329ptZVU7C+uvt8O7zUuUS4l4KT390KejfQ+VKKcY1mMODYCZptLJgMZw+bDHh3EPlnEOclHev1ei3MRO3bsA88vBj/4kSe6ih2uRsufQTpHzP5J/+Ip7DmUBFYY+ka7QNXUyeyLdX8QPXCnqjwWtl0dYB5n+kEHHOBR+609D4DTR1AKVF39iJAp6ZjdJjVqR4nbYy1n8h6OeJBHTD0yjHFSHrpKiGKFo6lZxMXbxhTM4UJ0fJ7U4dAkPcuBb3uSWmvVtWZsl/m3nuKMIq3xsdNZJHuVyJ6OBpgT8LT0WGfDGuDhPxbGCnSpaOi2YEIK5dAsal6TTsopX4Ze97IDs4hyULJEJ0SOdJdcCn6ZPzXhKQ/Ak="
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "clearkey",
+      "drmLicense": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
     },
     "bsqq0dw2p033ia7": {
       "backdrop": "",
@@ -5444,7 +6148,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "+SzTHaeplwwy/pgka8+F7EtoTgM22NjzvjQN79o3y3fJqPNmZHJ3PSKeNL2LEZBh/C+RQYf7a/5OrCLd3L4cjpoYWkeWxajTTI1H5WkK0zV+iBZsbBF80QCl5BKN4oAKwUhQjaEcObOti96tNJs0dR34EX/K6su5zgj3xSfp4CQG+WxQoJ9PBPorV2BTDuHwwwUcLkFR6zmREq50JsSuTaPllIkviLlccdQ70ho9LHJA0WdMw1pKrX9jKiS9ym3fN+b8GO0qXi4vBvUd81ZVgEubS+uQ7CIeuE1VGvVyiw7+lzGOPdJtp0v3qOl6rl7xD1lv57FCbdv9CymP9Q/cCK1SYXr+/mozsPy9MzXCQBsV3el9Z3KQ2WpfKDyQxe1c93l7/XDQ+yZ6PAM945maLWzDc4MU0hKzMOA="
+      "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "c9xn1daiuqydxm8": {
       "backdrop": "",
@@ -5472,7 +6180,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Mm9HeIvsAdLWaQPa6NjOmc+eg9/+ORbkYO5svG2qGNGZF7lFKVIU/58B8vuEODfMoygUyjJkhqMW1dJJaCm1kjmXLNlZ/v7P6NG4rZYvnZrBrXX+U1GGxrgQv6WiOV6zC4lsnA3XNM7f09dMXuy/kBRLEp5FydaQO2E4Nto6wdzSYNOeQaXZmJ/ilQJVv63ianO1Lh0O7tISPhaQExrjpbHg02pBKU3sXUYjhB9Newl682VDnO3UPA9L3Y5iHWBd3CKIyLbUxoRFalPANjF62BXyTmC4cxFu8OkgyKRlyNwmvqMrMIjsyvAkeiL+Fkqv0fjpV6hd8MOE35GOFGT+unOwmjmVuu9V0rvWTvYfhEb7IE2eUyMwRg60ODHSWrLXqpIosy9rzOfMAnZxNa8jG3iNd7U="
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd?|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "i1nu6ijgvd2pmac": {
       "backdrop": "",
@@ -5500,7 +6212,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Q0A5te1kTQIfoYoHpT5M95MNhPXzNsaD31XroSeh4i+fwVpgxYSrW2OMqOo6tPGT+0NCkFxFTMAac0/3Ya99NedRuZLd3XUAI97v4dJ74PwLQUJVEM3b+O7akAv/llhfRozFFb9x8gJe6pLZ5oFC/w+8rb24P8gCnlqdl2wg8GX11z2+bN2fswRMgM9dAYEOGC3tK4mh75vWx5vx6eKwhIbp+4i8yYFpTeSnTK3rGJqEpqz8YV5An6y9weiOrFABOwD5tH1kVgQEruQrwnw5tfGMJQ0RQW4Ud5LYBmfVdRAHhroO5gzEexHn3neYVSm7vSMiZIEw/eKdN7Fhv5W154LBdxsMuGKKNAvSwG3rNdQdroAuuXNRjFaHJX29hsAp9Cu9gRLF7WT3fBRV"
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "eyav1idc9vaettj": {
       "backdrop": "",
@@ -5528,7 +6244,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "rR/GxFbSIzt2jD5lnbtWfLPYv525po/aRok0znJaxyg3anYI3a/SGpCh5yMbKpoCyZ9j3I3mBDxhF12Yf2cG+WERpLhEsevzt/6dq7xkOvFuqXieL351PUCZZhGKk30R5dhrD7FJ7Ja2jC/wvbywo4i0swBaSy7AGmMXkdPgdS8Hhoke7oetDko7kQJN"
+      "url": "https://tinyurl.com/aleks-u-romki-47/7304/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "wplivjvj7yhqnh1": {
       "backdrop": "",
@@ -5556,7 +6276,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "6hUF7DPwiR4XB1+CBlpbqh5kVPnvAUrbfBfZ/sQbnK5/HP+oVudHqW/OqJzxOs329otdrVOS6eqz8iDMf2xqG9VQDM5qI7MeRerH8Ory/sAEcYFeYDdCFpR6dKz48zIRJqS4jDY8cjecb+q1WINmJ5I91IRVrUYjOKxKGP6q0nnpfo7eaWIh0cyluy+YP+JariDz6QBVrUEv3IOwMPk7V1u7WEG/aViB3bd7ANYsfkeMpE30Bwt9eQob3iezXGAFJpgnvqYyeTi/zlT/61BsvAIrRF9p3QME14OIMsQcNfQaYOlfbluKTuW1m1hv5ySV1TN6HDWpxpL0DHjIfC070Tx3SfpjLJUzevsVsZwHFHNaj3pRNlJUzNFpQYsP7MVdKYSp0txGm8eevA2QoqHbHw8="
+      "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd?|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "6be9ii8kdtpoqr7": {
       "backdrop": "",
@@ -5584,7 +6308,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "vJRu+bTmyqDdcU/i9HXFUTqerg2oLlRbnj1AyOZ/EJjDwmJb+8had7KNYaSJZ+0k/Hy2iUFBQxT9MOuhsq4ooawa95Z77XVGWCmGumSS7oa3Ohyp1i9wXvQFgCpkQuKMpo3PXd3rsoHc9ukUfkBQJ2wDzBqNLp1uhilA+rm2h1O9Plp4wVgDJljLyhNDTWNx5F89RTjeNi0pFLkXHOYwhIKtx+jzNfDRxO+afjLqpkpkmtluDQcxvrHDgHCHB0mzXL/e98oc13n7Bqdo+t6KdqCewwWusvMiRK/Jvj7GZYE5ydQQIjRMqZuyvm1hg61JamjKdi5ocBCcZ4WcOMGM4GHXICLRBI5YJH+8pu4EVx2lcmXVgesuKst7Ih45hZP68+e5KvGWuYlOjMIZJ+W0BUomyX2C2qVPoT4="
+      "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "6w4e04ftnf4dxl3": {
       "backdrop": "",
@@ -5612,7 +6340,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "zjGRDTb3hVfu9FWOTwPmU1Mx1vyF9HHMaKfJsXzPSzpB3bpQYhAeFbE8tW0jvXBiNWCL8/0hRz/vwMbXZnrSIYpNb9+MZOGjSDG60D+c1TQXzodMMVQqTNklGRzhDlO3gYolaThgJUqNAF+3Vty8C02OEjDRY+Qsmy/EmbrCW+48OErtksnQatSmvJDeNq9unfajaTnwin62YtS9rNwMGWDfx2bD8s7bDmtMm/GoSHBLP2vEsqINwkYScQeRwU+PVYhZ8BXY0b/mEwotKcVBX9dLD9hp8bvkGhzR+7diHSuZPYSH0PLLzNaDa7T+rrn7NPnegcp4PPCfBFFsYxTmUonZeAjDSw22sHzs9lkKPkrlgQSaTahIUpIz3E99cvksIMU+kty8ABT6vyEGAB4DoHTB2+gwMfYCg7U="
+      "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "1wduz137exicnch": {
       "backdrop": "",
@@ -5640,7 +6372,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "kYvwyXozyH2dXds1/lDH6spJk0fJKeHYqVJYjU+pmMYln4knoEhfxsoz2adhybR5glw+HhOFxGEOeof/cZHKOroN8GdwahK6V3uWr9T4W8BYAicVmlLUlPQA2Oqmn/xxWmHNNhQ73qoo0q8SH/1VScb0kaGMmroxI8TNG8V+hc3xu921r9AkPehMJplHMYoJDqxOqmAfSrVTFtFrFDjNpQ+0aJ5DcYOJb6cSkJuYWqcovsIt1hwYPRdJmbS42GHcopvwT1WrpTu+FJZJzYW+IjrLGIABDKrqOegyHzFa+F5WRFfC4uQJJmQlqZg3MGiiFiBtHaoAilF7Y7v20W7nxbXQT6xW/p1DqN58hsz8Bb+JLuqT3ikjz6bf4lGPjj7MWMui/aSYO9BOM/qFWsuzOfFROkWCMNZNwU8="
+      "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "g2oreglz441aswg": {
       "backdrop": "",
@@ -5668,7 +6404,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "/QVz0mOavkfPBKTS1OVnH/IZSkQWmnTgazJUsisW33s7x9QCsuy6UC9X0XfIYuYRyVvtY6DTaVCuwEBmU3aBY0iNEiLliAG0DcM/km4qweSqCNXwDhZIBkrxoFEX3xxuTS4ja3uGv/rH3+4m/49INryhXNaid5BUcaCCMYBilKyfp7dtOQHkIK4ydkWsUH7L7s860vgX3cTo"
+      "url": "http://drsturko.xyz:8080/live/Oscambirdy07/mXgaJxSNeKaH/20543.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "w4qpgpmcjf0oqpf": {
       "backdrop": "",
@@ -5696,7 +6436,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "GahGvHcjA/lpNLY/Pi96i4YqlKV9uJC1zznJTOX0EajI39MZnRyp4hadbtAVw4hJnb44EKI0qRIgvniHQZ8HSPERjf3z/wPVVSRpkf11GSMK+rGoB/os9PYXnhZKLG27EF8QjPjmnYG7GprjNRoJj+CfFGlu/EJukL3FTx1gnHg0jh4n104f8eh632tBkcBKsSbO5Qe1mWRViiJkrGdVtgI="
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "yv5c0p8qgwvjlqt": {
       "backdrop": "",
@@ -5757,7 +6501,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "4Thxf8ZS1kWVjUAU4I3KTxFpLXcmPo0nYaEVAvjNx6PYabwomVZ0OrPEMIl1N9vyu4bUSNJi0dr8bspMIXu2HgQyWkDw9TaQSzf/w1a7tcyxP1B3bnyElVQmE2EYCZklAEBLlrLNMWCCgMD4DSuLs3w4lbedfrEg2qjO/KvYMCV9zDekVOqXwxakQKXbbQZ3vB3/EKepnxIZR6Hlpg=="
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601481.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ugvkisz47m3tuvg": {
       "backdrop": "",
@@ -5785,7 +6533,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "1N3gR6X3JpRUeY61ebIgXe7SSrRUxx92VjbXoMJDpJadw5o2njnvbhvmZw0YpLDNlSw1rjVjWwVF22YgZtU+eyLQs9oPWWXrvD78vzh1e6gHYjEnkwiAoXMaxweT/XjEYICZN8z+AwNFdKy8h/HwsbG7wmUFRaJ50PRHfjdsGn6ibiY9YG2nV/wbPCvRtEZaht7YFA=="
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/onekids4k/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "5gu74evansfryka": {
       "backdrop": "",
@@ -5849,7 +6601,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "Z2DOjevLEk0skOj8K0FDwY81U9NgUTRfjqjJ8o2Hi6KOXv6DGJ6U3YI7VotRVoRgEbMuXiDiuCMvUFbAE1+DBmcpH16bRBf54AaLb5riBB6YrDgw85vbBEjVV1v5khYODykxwsJNWcVHCUO6faXM1JYxhy9C5AB29UBqhoS5+57YjbChpPDVewqZaA7oxQV9vJR+vgPtg871nnf4/9ETCpeeQY70MTqu8odiCEuubmHu7mLBXOhjyi/i3c56iBqmcRD0gNngjiNj0653tGx9f1ywZNBVCRJCvjMFRryiKPBwXg=="
+      "url": "http://clicktv1.live:2082/live/abdulhakimabduljbar/278614140521/180121.m3u8",
+      "url2": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807735.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "5ux4tw2tpr09y1a": {
       "backdrop": "",
@@ -5877,7 +6633,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Tag1tsMA4GP6RM2H8VVXXDclqYI0RC5adMJ4vbX8QQHD5B0cMMu2FDDmCTVCu4zmvfpb2hpbc6K0bh3N7LBves+ZlGUQHcHsOrHRf6a3vIiaqdeIRJV3ylgwwahV8dUPnx/BhIzUnEiA8Q3I/yNU2TOQRrb82pG1VF+gkt8DOlR9Fj8He7dTv7IHpjNqXat7NdhPMIK1eg=="
+      "url": "http://ott.dobratv.net:25461/live/kadrinet/7j8vrRILG9/15825.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "b6g6d1rp1gtjcqk": {
       "backdrop": "",
@@ -5905,7 +6665,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "wIV/nJaC49RzDkMfex0UHw6cE91vpawAh98YpDyzjY/VU5WPCiOQO4AZwkHxcoitRMCTx7vJiO64f79Qbm+BwMvFXlOhFyRmYBWJcjmTOinNJma8N/rn0M9J7WYcd6Y8gGvtFUvhUgMULNdKzVMlONMkLokb+SbPPln5+P2v1vKKD6jjwiJSo6oAuOy1CwfhI7gRb8aHw5zYRGW87Ho8"
+      "url": "http://roi-tv.net:9000/live/easytvbe/skype-30-07-2017-JUZr43Vay/226.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "o8sl2ethcnnukfz": {
       "backdrop": "",
@@ -5970,7 +6734,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "js4nH5OupDqgAI7G3wMsTCXGrNrCFRai0NZYqQ2ZWpmuhVcKTHN8NBGlB96AUFouY5M+irn91piLppwjxAvbPJgt5xUnGF+ByivNiMx5wTXTbTxy8bGGx2SA7x7SMlAsgHTl1AK9Kn/vqvjhjyKpBDEEXsC50Rrqsf+nfR8sT4nggE1u02gxO+yuIHVaiAPWfz0tRUJCb8EBHVYvWePrzCIYNtWjBv1KxcV+m3drOuu3d07RpbkafDDWHO6K0x+3aVxi1O78wvKHgxNwpV9vEs2nI0QzouI="
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601453.ts",
+      "url2": "http://star10.co/live/ashrafebrahemsho/01223654117/9155.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "twvh1jrtgzch3l7": {
       "backdrop": "",
@@ -5998,7 +6766,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "ZTe+Dg2ZdaJIGN11dPNIslu1eEEEJkyG9N4eQ34IFCg1X12CCXEgiA2m8v+HvtLtRgp62LW/8Z0K/Q73P0QV4s1q5F7XOtl2DYydQ2BNN6F/plzndnZAbR3oYyt5yWgcQ7r6cW4S+h9KnFxHlp7XX8YZHZoNJuru4FzI6F/ofg6B8zf5lmNa8CuNwZjcqIzfsSUpYUW8Jxv/"
+      "url": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807738.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "2z35e0o0mx9lq3z": {
       "backdrop": "",
@@ -6027,7 +6799,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "Oqrjnev5/4e+762yjgO1Bp12/0/Ba7xgwN2/0N/tOVaoCy68NKVVhZoV7UHJlqlZfjEyn1kX2+87f8g7YieLXgMrgpWMR1KsKFSRFJsZOPeMBP9c+0dOS1yjOBIUuklNG/LX7wZf8mfNOvFp0Yn6bgHFyIk+x4P9B0PkBVcMTinW42wSphPIYjPJsZP54RxviQ0PqEC9Cb9pAcVVNg=="
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601515.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "4mnfm7bxv0dcdkp": {
       "backdrop": "",
@@ -6055,7 +6831,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "o0Gl5aW5WcBRwsWXdTdnkOYCEm9BKcbwYp+9Zk0khYEEqEAmL8rj2O5sRxvdTgrqnfFOzuaetaIQo6VuUJNWMu9f5STvxKK2IcjTr8ja/XkGQzdE5uCaq8BtuIGZAjXvscOcwg/bGX+JpYNFZIxneiTBVWoMJkZl1nUy0ugfFoqfU03SlA1gesI5myw2IWzP2IZEV1ArsMzi/HfYfMrI/wG2JnT/WgSSPAH9nRerwmWFG2MqlIIrKulM1e8JiRAuvHUWl9oGIpN1rEbV"
+      "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8#b4f278e0d89b9a0ce271617451b3c80c1d25b4a52ed300de0b45119eb55685a1",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "0vrsli7weiryebd": {
       "backdrop": "",
@@ -6083,7 +6863,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "tbCskDgiJ05CyAdh8WmDqy1LrggLVBBTjgx7NRQRKF0/YbpUDEvuxCumaoR3Yxtn/Jql00HJf5X7EDRPObP3Ma+90B0PUpo6Wjid42UkIyAoCTkZHUz1iF5bQXqtJV0R4KdVUBEoShwgEml6GPMG6yAzETKVmOSWAvZUURXg7jb2XcWBMwapCLJ9UEtdEc89iiBc+rZxl6NdQKJFKmsS2Uq/tk5g8rDr39bfRaWd43Tst7Xc6vc+4LPOemFNAWIlN24oTuWvFc3PRNNkqB15CLj6rB20nGl0wQ=="
+      "url": "http://m.live.net.sa:1935/live/sunnah/chunklist_w364295954.m3u8#af9b285f85cfcd83c6caf8d2d74ff9d950602f10c325709b406eb09a8b2f9018",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "cmjl34pgz51k9hj": {
       "backdrop": "",
@@ -6112,7 +6896,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "qthxc/iyC3xFA2lxelqJZ5IkS+pmhyPrFpZSdlDn0+z+rslWlJFI9z0OmhjBUr6o185vCx3zIflzGIC9gyDLZw2t/xUcjaFm59RscFsG/iTTW8jokHOGLUBZk5+l05DZEXli6CfkoO8KvYVD2ccM4NexuFGsKxK+nl7XmFavkvT8fRMnQv71rPWjh3nKtnxDBT/1gQZ1628Dt2OAXQ=="
+      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601480.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "p2xavsnd4zg40xr": {
       "backdrop": "",
@@ -6144,7 +6932,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "355sKvUniDdglwZp/XeXKMtumkAaKF2aKsfqwMFfBDuGPrXYPAE0ZUwcW4dpSCMGOgYJ4sqXjMawkaLlI2iQ0iy0KcPyisNuzdVoj8X0mwLU2qJJC7Kg/u0VHRNkZpeK2pnF9pjg/+9gPG+/WoF+6LgV5zawSuL4I5uSpMcHCBkVj/cjE6L1tWM3niwCf+qA44Y="
+      "url": "http://s21tv.co:80/live/f6WNbQGVtd/M3GNH0dkzl/807622.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "yrw3080u598aqf2": {
       "backdrop": "",
@@ -6172,7 +6964,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "hDWTOu0ePVrZ9rbB2ZkY61xNmYbyMnNz8PEx8r3MRYeOjNQ1JgS1rJ0QwgypIb0yS70d8KHqIDUgzJ27SzGO7AYD1ksXAEx2HALBM/t39sIDpYIsQc//7d4zInp/NsHPCW5jY4KoWYJPbE7KIrla1iVRtsUA72eFMlFwxEc8Rf6XTyVbRj971cdqYjj8aOUSzbq99MLV9h1TTxpo"
+      "url": "http://forevertv.me:8080/live/64e7d8329a68/tvtyAzz4QBGjin/432066.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "tskhnkcn325y593": {
       "backdrop": "",
@@ -6240,7 +7036,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "Wj2wttudyxj/nI+PI5GV7zb8HvQGoFMbxl3+4ysGNvLbVUfCtXYWN6u5vp/AuUHxx8RJOIyr/s50uXJpmypSUb5KUsaJckeLwEcVTAGJdAMr3YIk7ZpT9CsW18+yY464Mcv3V86pACEWTmK7DHvMBBNRuN+UXxplsSKl5S7OYFGm7G6vM+1j0HMq59LLANa1ifnfXeadWCTDJjCf2M57rfqH"
+      "url": "http://clicktv1.live:2082/live/mohammeddibfattal/313785715368/180210.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "5io2x26t29zljj5": {
       "backdrop": "",
@@ -6268,7 +7068,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "H2vEaQ8zzArPgV8lLYPo6V8AH569YXQmKXLjpjHMmRP/KwsHX6KhfqAMmkbJB0xpk9ldvSsF2+EVUscx2ra3xSut1qx42I94fLrylOUTL8krWiZ3ysWn28qXN7Sx12l40R/RRrfx4gi1KkkVjauH/HJgWpaRf0fi85i6fxvAlRiIOn61PHeEmSMaQHo="
+      "url": "http://138.204.127.26:80/DISCOVERY-TURBO/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "k96vcck1penydky": {
       "backdrop": "",
@@ -6328,7 +7132,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "nQ0/SUwPJ0PZusSAH6LghEMYiTi+EGJtuRHydDmZvXUrW4Xq7IeYNQQu2DXv7a1l4vari0EBZKnHfI65VGvPfz6DWXoEvp6sHTHl0BAI6mMfDpBj02CxO0NE7kcwY2QsNhcaDUmgR5taXQNmPw2kUQsS9h/PAsIGqpN+CKk/Iq+zlsT646CpUWShNbC9GvYvLnZos0qwIU3NrfokenIp1Z+tRoEYPRgM2tsAEtM0cinJSWNOZtbNlJVpy8ByLozBYSk64Bfa9ogxTPyF96UDM+x/rG9gGnOgLbU="
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8",
+      "url2": "http://xxtv.me:8080/live/9554294194680480/1930515130157950/429744.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "q6nz0haqw6rosgu": {
       "backdrop": "",
@@ -6356,7 +7164,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "TJ9eDMuprBpyqwO94FxXJXx2rVA1nxxmqsWKYVJnwqEUBMQy0dfJEj/gcDKbyGhURD5He3udbgtnRkJQwhIK/+mbXuOMJ/hSy8zhxaz4SYDGLkmGjJZPKveKiBu9BC4SI7259FNjEm0bxBG0tpVXYnEkRUDRfthVietVjgAf75pB5SlNYVk4R0sEVqazY72y9YRPvJUy"
+      "url": "http://snap-arabi.vip/live/Sherifff2/68Tt4iNch2xc84/358178.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "zyc0ub5kygfk4vb": {
       "backdrop": "",
@@ -6388,7 +7200,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "oTt9FPBZyV9BdI5iu0wK5G4iovg2AtkEzppORuuqq+QmVHGyj5FZCluJKH2EmD9c25ydfXdgSSnYP2AtbxWy5/H9f1X8ve9NLtDwRmFeMb5U3lcxOWUpXJyPWkLx3tfoPq3hZK8jw0e5k5APMFR2OS2hZ2mxgxOtwX6S5nYrHYWRS8MEfXFeEkipszw="
+      "url": "http://161.97.123.126:8081/stream/mirna/master.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "b8mfgptbo2k02f1": {
       "backdrop": "",
@@ -6416,7 +7232,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "c4v1m2Rhj6igkXIgh7tE9Vn9chDYg0I6GSsEQy8pwrSX27s3O/MHSA9lEBnGz9XfRGEY/JqoYFLu0iGxTDOVMFklQhwuCRZhZ6geVl6RdyjF48T9M7ZEtif3lciMZ3j1cDdPRKaUDZeiO5OMMeD2xUQeLXYrs9u/YossowoN/RseuiScQk2XdTZ3RYyg3txTeZVibMrNmJbz2APg5P+osA7ZPAIirAW4kMI+nqWFgkC7Hd/fWMbZpQudm58kzJ0ZQ7SmPRHRRaYb+8qxBg=="
+      "url": "http://falcontv.online/live/Sa46760987435/YOs87435/409618.ts",
+      "url2": "http://xlion.net:8080/live/01117293266/1532552/429728.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "jp8hbdx9v5sgk04": {
       "backdrop": "",
@@ -6448,7 +7268,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "zHjdTjvCE7CHOTeq2JoHKgCKHKA0Bn6mHBoRI8M+cSCFqUwnUWldiW/q8KsqqMpLFCQUXEQIhQ+IhRNR3N61mpobzJTcGvmdhmiHNf3YxcmX73pYHy7/mcFjHX4hsOs42Bvr99a1y6p8LppGkvWv8NC1hrt9p5Iz+fB9cd15xwl8Jb8VzfIzIdTuqNy72Q=="
+      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ek9m5dfx4kxr4o5": {
       "backdrop": "",
@@ -6476,7 +7300,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "m7+QrVn/UMUWIdP00eev1cVGl22xY9owE6XLa83GqJpVU7AAaPZ0Cwpzpr6tQFB3CYASqDbcfyMQ1jrr9DhDT+syTUsnj4q/nhia1ONyqBq1L3fBB/u7xIpiQMekn7HBZUYbEgriTF1BNVIEyNjwcTxdUodBmFhyXOozumWr2Dy6vFqfDfTEPcQGVkDr99M2v0kC7lY="
+      "url": "https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "b1k6fv3b1bpxovl": {
       "backdrop": "",
@@ -6504,7 +7332,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "r9Ranc7ZVM1EI0Y9Uke4lglmadsw6bp4yKU9ZSZdTrdqdeSjV1pz8Yx0qmfaMOA7iF99U+65V/joiSeLYNPkzhj07TDeFacYhKX52S5UjULGK7PmFTgrKx5+yyoaF1+GGFsJbgRuqtYvGCcDQC6QL+zwh501BzNvIGy10aTUDjmcNBBoOj11wK5Zp1OEPyszs74/+ArsjIC2gn96vxYPWrH0jaI="
+      "url": "https://voa-ingest.akamaized.net/hls/live/2033781/tvmc02/playlist_1080.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "xfdy5aqkl7qyjvf": {
       "backdrop": "",
@@ -6532,7 +7364,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "NMgOj58XMBrC6KqhzJyw/c5STh6fHa7zwOSf/RNITTz/wHQnxoSb3M4H0tEs01mTb+z68KlrFZm9LpWwSWv6TyDS3YwL6ikD1d3HtXqxxp1llSLaBJFytjtFUv4hIzhvSZPQ0rYTODbX1YMDuVq7fuLspVtOTEPzajBZFWvjiReVd2u+HjkjmD/0jv9aIrFE9rWxnyMlpe0Q4QznNUbE3qNFNDwoiA=="
+      "url": "https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "3k0wf767qrhg2ho": {
       "backdrop": "",
@@ -6560,7 +7396,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "H98gadfD6lJgEpZLlFYlqyWyXDfMZNQo1K93VT9X6vKcat9Syshnvbf1WY4CtZWWfIOtXYtpwwkZMkDDzVaaaM5GTS4c5UH4Tp0JgQ0X359KBk3p58WAsQO2MdNhbc1S1SD9dAIL0UVyGLTxrWcrNNrbH/GKTssYrkTYMeA06DFjgiHwWiKLO54LlvgPlkr9FFosV9COAz63Pv4="
+      "url": "https://183.bozztv.com/giatv/giatv-spitv_HD/spitv_HD/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "g39dp9yc8xjhref": {
       "backdrop": "",
@@ -6588,7 +7428,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "gyoaoKOtOwVwH5vOHUkf4YDQDK1bwcCTIWuT6r7QG1uajvi4VFdrQvBWDsapI1c5Qe7uR/KvSsu6XIiQWP3+uTfsb0lWTP9Z5M6QyV+msXySyC7J6pfqgaGorpnH7LXLNHcQJ9ZN/gL0NubkUaFnuVKA7hzsWQm+OW/5mQKC5tqxOVXeGEs="
+      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "r9l4avvof7eitvc": {
       "backdrop": "",
@@ -6616,7 +7460,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Bues6xY5gZQWE/OnQ9PDTLnUz4KbC2rZvpsETSNH9iFURDRJH/sd+I7dG70wZFt74kXY3yQjsAWc/erHiRZ3l5irkHdkW4fcDKnMMUMJTrbAfSwA8ILpNR3gIYOejzEOZvHyPSLzBjl0TYXnyLbYD7gZWNvyVIH5s3yfIz4nxce8RtTLjYdiOZI0l661SIuERWY4IDc="
+      "url": "http://dana4kpro.com:8080/live/Kabeera00/f520ec5gf/392768.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "feix0mpxsbu97cx": {
       "backdrop": "",
@@ -6644,7 +7492,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "rL/F7RzkHq49O7lwvcus/KJHqXqwWwbuK+Yg185+RLj1eH8Jx53BFrSnWzY+226+VD5Td20ILzm8jKnPkpyhnBHEiEQe6pPulUe5bRhfHFeGSDyf5rItUVDyOav6JGnEmrI1Y4S+l84hpV/xhUebXoaH7cW6Dm1mRvn0HpDVU21Tu6T375NKxxU="
+      "url": "http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "vgjizv1exckga3k": {
       "backdrop": "",
@@ -6672,7 +7524,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "sBUclqBGu7phV4ENqKw207sQwjfF5ILQ0JK2uEzdI2TpJbbrizbGY8mGis0Y88hktarbwv8tOJG9HxPSCiw/LWu+y6AevXLSkhtG9rNDG0jW75t/C7U0YMDrolk5u53Um76LieQikQ2cPqTtT5UX/qjXbafNGjGYGPaA4ooJyE4scodLVJr5wG/YVI+dFITJOpGJ29rJcyQZYSqX6g28T7RdWfAAnbcFFYq8yTqNCV8nhCRD+LyBpjNNkUf41N2ijx7do242/S1t4lTSwzUwSVBZVgko29+CNM90k26KG+BF19I3zZyx/c0MacyGWsUCi/aVepryFyxWPCrOH0Ume961wU1pMIb3COO5WlsP9l6xy0wIB/yRuJ8MgxAbcfWiy8XsMN9wq/khSn5isNvZPIAOUjY="
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "8mexrbd67wmx9lc": {
       "backdrop": "",
@@ -6704,7 +7560,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "jr0EVruvSyy17/UuDPuWzxPIL2QR6yBgmiqBXXVJHrvghUcEspkQZkkm8JkDspISsNjHlokhLJkrVz8PdpJ4ayumVAiQCWp/0haXsMXVRoekusPPhMwwhG95YfSJ70BIOUT3zpalDBHMckganz+I4l9QSHeTegbtSu6o1rWd9NKQ7ZPQ8Hmc"
+      "url": "https://cdn.kurdlogs.com/live/wave/master.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "ufl8o7zjdu4gu8z": {
       "backdrop": "",
@@ -6732,7 +7592,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "7uIwCwq41iZ53yinEW0U0RQ+uSWm04hVWNJaZfEw8+YJFuy2jIZw+ceQzXcU2i3nlYHI2+jGFXdI7iQVFBp286qP6AMkZhxcKjwgB7iIy4lcQPbaHb17CbIJRgGIwp1zF0sTArnZakcTNb7NOyt9jQsH/NbmJktamrDJ9PmeiOg+WhfZwC+b3jMKS0eOEIxO"
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "dw5yjsmr4igen7y": {
       "backdrop": "",
@@ -6792,7 +7656,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "oe2g+t+KEh6007rxYzmO/6RyxA917XVedcMkRv3PUJxZvl1rxzMmUIt1H0Y0wpxhGkQxMItL+ctWWy4tmR5sLf6k/sxBOPufFQ37Hus9jRW/rBOtYjoCfMGK0r0/GpePEQtfBj9R5VKoMZ2sRtd8sdmjEi30gP9flbBOYul4nmiHQzPS8G2haqTU2ZBHxvk="
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "mvdym4f46gi9xsj": {
       "backdrop": "",
@@ -6820,7 +7688,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "QD6ogDgTx/NC2vbLuAF/pXcC3dXUoVBbdOrxK78DnCqYy7l2HNYQBpbTnThF/WRDtB/RLoLBsI+4LoCAKVDDUR2YV1kflZtaH3wHT3RalQLSWFteqi/+y6ZdbyNmWB67bp6DEfAfcMARhw/TvLQDii5NKrABgWeOEMo4/c13TgF0jWopZYaqFD4SqrXqgLx73nauGH+RRNVq"
+      "url": "http://v6.fny82k2.com/live/674532959367Vd/521230229273/321849.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "hhklp40cu6f6d5j": {
       "backdrop": "",
@@ -6848,7 +7720,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "enLSduDq4nxjbpwStlX/2ngcvIjkBZCmCtN58QZWMYF+pfSvL3CdzF7+I7ZRlNVGTJNGp2TZLThZBh0aDJw+CgcXB4g9n7KU0SRo3SJKRcS3MypxDFqXvFBL/ES0VdxR86VsD2i+Mr6X2oxUVf+PSe0wt7v+pwEJat6+x7B+h7s1tKHU6Sm3ANK3VEiAOMYiqPE8QEiGq9irYwPpkYOXVFk="
+      "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "7s18f432x1xd0ng": {
       "backdrop": "",
@@ -6876,7 +7752,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "KoghWsxcvicsiI3zc1fRRrib0LWOpEJ23CIWq1spardbCLiiDBKl5JkIsGZs0wicavcp8CphLn7Uu07KSh+TmzHplDR1zvxyXwc6hpSvw1zEuBmv2cTfeC9ucNICBDWGw9SXHPxOqDzdMN+A1EN8hW22/AaBP2RDOC2r8AfdZIA4QNpavViFNkQtELDgzw=="
+      "url": "https://cdn.karwan.tv/befrin-tv/tracks-v1a1/mono.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "h915qlyly8fc30r": {
       "backdrop": "",
@@ -6905,7 +7785,11 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "enc": "RY1hzLf2mvcnSN2CvUadRmGttb639ucUIgvlcIr0UN0R9elGWEPrETrpimC8mooNCtqZsvB9z/EQbBKhThh7xwnjJdVaOshFB+ZUeVtRCLQqPR+jhzZK4ESUHzzux8Lpf24wFcpGXve848wd3DtWKK5Wc51CpzWoVBiuygkP4ujg/TGHUxScw00uSsX9u/kV7RhNXFEh/pHrTiosdQ=="
+      "url": "http://rahmmax.org:2052/live/88577072662804/15518509928643/601461.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "50tr9u5uz5a0ycr": {
       "backdrop": "",
@@ -6969,7 +7853,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "GOt5BSQLlndPqeP6Vpue8uRZ/an/3ym7dSWHxFG98WYy8+P2LWw6LSCkEZYVMgziGweIquACgjQ6T3c2u8hGvHUiCEPNEq3XJZ3e1BLPjP8Az7ltD5IZ4UX/n9BlRMug4vR1uWpNnDdlWJLdkJQ7QmD9VcaMwUKtjG2xhuvsa3NjV3JslJvqaxq3"
+      "url": "http://sada-hd.ddns.net:40/live/sadatv/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "7mddll7w7418f7y": {
       "backdrop": "",
@@ -6997,7 +7885,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "KG2wDT3YpgxqfLMfGNm+kHFtdRqc07Skz+rlhEI+MQZljmnbw5z/7GZGVsPIar3ljwEqa7ovM8uxAhIdC47oyV+WU2MJ8K//f4r4FG4hVI2Wa0p4lbKNKVzpnwhp98vfMXqB332m/j2Yp5l+Orxp26GXoatw5cYQ8Gz3uiSKADvzeUO1pcutMNGXU0LtWFEYjjw2mXX7M9i3UNnqV7xdzZ84uevxGiIBllUwj41nV6O4BbbK1quPBx+84pKJXwe+7q7o7c9yoW4sCBs4pcQB7MRVZBKNUaHuZZrEGrJjBq58m9fn3w7i2hZCdjyqabnXRkSI4O3JA32aDbzP"
+      "url": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": "."
     },
     "ngshun5fhkvhlfm": {
       "backdrop": "",
@@ -7025,7 +7917,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "SR77kGRqqgCSlgnwe0xB5yfOiO2tTruvXpGUm9Bra0UW8RQRG++UW5ZWUOuU3IqUQq0AUMzkwg4eiUI1QVurMl1/mf703WIvhPpjdQ/TCIO3j7y8nRKQwZUBP8x2F9pyy8yKc5YrUflEW1h4cXbW7jCZDHURKI9zxQdlM+wxFa+JIpHcpbsBbrfIlxqggqFacNaozgFVUGPvERDIvEAXRqSdQxFjluopNsnipQyUeNwg7bRkbYR+VbKXPK8UAzj+qI2LpRK3AWcI3VJxwQj6tWBmcbH0p86Cq4KCudVZ2qzGN7KUtaM2bAM/LN8N+XH0/YhyD5L+qhZRouU="
+      "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "2mc6bz7ju5rtruo": {
       "backdrop": "",
@@ -7053,7 +7949,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "nXt1UlrceyEEdNlpB0BnxNp2VNNm8hJ8EQFbK2knNUb6OxA/G6EvKLv/D/Zl+wNrC717vaJuJCxbpHLsO+3OhyGjvKgSeMUY5XhWgIsgD7UNXwmMCdXPHhdyjqavsuAw9e6PYUprrDKiA1808EeOCAMnIqfKHlY="
+      "url": "https://super.krd/live/tv.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "mhi73cutjhmuxuw": {
       "backdrop": "",
@@ -7081,7 +7981,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "jSP34Hw3Tvq53YjSqN8IH+WvpuMbufuNSC4Va/8aV9WyTFY+eF/MgiV1ID0PPVJGWofrD+SElYB0cNG3fDqdLToCt9IMacBqgpnfJ2i5H6jAjU94W5iuwQVK8KBD0hoc7kbt8+FrRQJ7qksFCcRjiRcizdGkDZUu9xm4MluFlCKGDRrtfVlVwCdFWJE="
+      "url": "http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "wdntccw4ynezfxo": {
       "backdrop": "",
@@ -7141,7 +8045,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "kJmJslzN8euDT+e0kkpjAA1m86bXRQtq3/O5I6GpwMPIYy7lkf2sPfs53aBANoO4jR/ruc0exS3wLhK3HjZuab/VYcmPSxPXwAiRV+yfbyLkZ95+HnR5JncbQICBcQva1hMSd+IgT21NqAK/fFnaOQ0/FWyq8P+JGVJzQow6/BkJCBv6mWHlKrBRu5yFdFVE9cvWuBIKgn/nzJhzAnli6r3e7ZM/HqWQnBvs+xYTLQM/yoWxomz0IcAufwOJJc8eb7tXspRcF132N6npWULhc4AtntI7yHd1g58yl3MSA/sL5lQ4oOrI+YbAbNrvIWzc6vXtNQiYVqTUNON02KFHrCBNJDSfk70TkNXd/WIT8DfmW6+T3HyK3uKKNU6yNn2Ya88zOKtcnAsPCFtxLOS6owDANqID2IeP2bQsdB6uGsltAbF5RIEneCAmealcDyxk1MB/rZR56vDGkkn5KpFKt6vhsVkG46oNkiV0cLmJgdJIyqUs3zavjRgL2EtX6Qn6mkKpeULjsgfWoKfnOfYtqA=="
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "url2": "http://res1.gseiptv.com:8080/live/best-iptv/TdtjhvAhWCJ3NcA3FHXnaPaUx6An9xzW/331349.ts",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "5eq5flsij3j9a6s": {
       "backdrop": "",
@@ -7169,7 +8077,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "gDCUK7VgQywQayW+KyezWn/m4zZbZ4v4FYzPZRomItjOgkbMLERD6D0cQ0cXQa9VkSfHe3LRzJVDeSO+Ve6p6fV1+/IUtD2xMQDBd9h6BVqfZQR2qVHw4MNZUrik1IGxt+k02uhP6X5BUfNN31xLyPofeov9npOQ1EUuNsxdFGSQFjM="
+      "url": "http://151.80.18.177:86/Animaux/index.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "2tvoref1k9kbenv": {
       "backdrop": "",
@@ -7197,7 +8109,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "teQfxwVdEcYFgynsF7d8oSAZTUpYEheexIF2fbLEP7U2oKRqLoraJBJv/0qirU1MscqBdiHncFuZSnrj3jR49YFdB+ltw9F08nw8TGRQtNzvj9NvytFfZ4vJe8y0vXDJDJZJq/Zd+1K6qtx38gtMls4IJtnOMopfckblofm6wBy4z9kg61Z2ZhEjJOaFfh+Z/MuspgsR1pVA98wQ7A98MAgQs8FlUuwjiIWW+IBofQqkXMP0WdwxpvCejja0G5LkL2GvFrXnJAiu8z4VtxUqHhZ98ImJCaPS6X3GI7HIcgEkBZ9pD1LfepCNa/7av1MJDDww7zcaBCxP+TW9qfqWAs15SQKVcMR1R26YAhYtdrdure3n1zzLOEUVj4dgkXi67RC/HFIG4NbVBJ/qig5sG2dTO73LQn0lGls="
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd?|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "tsus57vdjvnhqe1": {
       "backdrop": "",
@@ -7225,7 +8141,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "Qe4H7Zu0TQmkw8mwxkqERddxeGXE1W03UTlj1Lx4W16skZKHXGu8N6nNRi6aw7p4YKq3CvyHR8k8bu1lODxLCB5RhxJTU3szLNe3naERAwEdqXyNFMxF6y6e8kNvqjTje+F6lwLvoa0129Rw4BYZkh6JCmOda3pM5TpRsaHs8q/ao1K8i+hcw3zEEb81pMUebsVWGPwQwblgfTwSU0U="
+      "url": "https://live20.bozztv.com/giatv/giatv-Shawkat/peshmerge/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "apnv4akt61edzpl": {
       "backdrop": "",
@@ -7253,7 +8173,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "pq16woCZTz+DY2lwdlemneyDn/HaM+yBjmNVSy0OtXaVSasZWKdcg2ILEoX9lXy6fGOnFqiG7eTwRkM3+ikshm/xNFOvsUbU96PRryHcajQD4iRYXOVFnIDl/d/aDEq62Dpok/Sgk4UtTdkxe6r3sabvEbSltJjQGOEogOcfxrZx4YxqpXXg/xtQdiaqioYYHYbk4HqZz9Bb/wmlOkHWIkj4BRkeZVVwFpH1iEdoCgwVgMMT9n2I8y5lHIu6sQwnSAVAbHN3rZV03hzlbRSPRgvNzMzo2fHVfo+x7g=="
+      "url": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "tb99gpc19ylqlet": {
       "backdrop": "",
@@ -7285,7 +8209,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "Uvhid8cnA7LWgARCog0uw9G7lMmHGNFbZn4SNdRUPx8SxTHa7UurlZMrq/J/Itb5kjAGuvrM4xaWbBZmlZXZCyhujU46oHdO/Os5yTElt+yewALsWHIXh89qLAT6LLRaJzoBxVZCG5z/T7BrmxDSKt6dZzBk8JzLji4en5d+OABdL/ioOx7nELfBBUrjoZdDOhZGq6/wrw=="
+      "url": "https://183.giatvcdn.com/giatv/giatv-stv/StvOREMAR/chunks.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "rhojgavdyeq2af9": {
       "backdrop": "",
@@ -7313,7 +8241,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "UG5xLEJse3wCXK13Ey1+XQaGgU4ewLaPVV04RnqtfDgqTlQ9HxcoQ4B1bu8V6YGKrMq6et+XXncdmw+A8Orsi9Q6Fw71IshC0GPJ3Nk5Lh49ZE0+ON7zSHaN2/1+RnLnwewNByKE/kbLe5BQg+aMBE9bPoSx7UOitOSbcEVxIhWS8AdhTZddAvt5aInbcgiltFsePMPMgift8TnPVbRBSzDx62ZgSlHU6yhgB2VOuX+GuKUJMPEVJBSvssg58vl6Ov8D7OSpy6zrr7edpjB0TI1UgyGMvg8XwjLZ7PgmiZW6ZDhGsj+6OkFNUcx49Vff+CC4rdj4gdt/NIxzUqiLMGk0G4zD/cU9mikI+BuZND8KVREygNc69pJ11dDKjB1PGJ/6sUBbXu30Jkdf7Zah29Pkw9f5occX4PNyOJ4CcnS+Dd5KRan1AoFSYexESF7OSUtQdtBjwsUvrBpFyYfq3h6fdqa9TVLTEWXcxCblDueO+WuqXj4hUZtVfWpgqE5EITJU8KrBN5qrehWKcGYsEqNQ2Aqs29hs5dDO6n8v5Ipln+ueDwh3V6Cmb/0Azwe6cENDW26Zou3z9MNmmEKw4XKoiFIje4YIvU3e45ie7gsBBpHdCpbGUzeAO7QkeTiwwCGhx5USFPRld0WCORr1sO6OY5CKKAvcvmuhIDv4g8KUfWPJ65bahmVwFQ=="
+      "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "z3g7bfi36locdsh": {
       "backdrop": "",
@@ -7341,7 +8273,11 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "enc": "VPdRlxG3ZadPGz+yp2qqgH50XXtpFuHtEixFIqQpd6lpoJY2c15Iwvj5NjmYha7yqy+rupIkd78447ogY4TZQBwyNZSU/lp/P83FAwxlVVSTJSAvwHx9o71EwIi95P/Q34RV/1+kRmrJEYSmd4dq1M/G5fF/fZ0YX6UMRzILT3sKyp/PKqBguLmaPnd9WKMvGux47gXaekEoumqU"
+      "url": "http://baskhd.ddns.net:40/live/Derin/index.m3u8?checkedby:Halabja88",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "oo1faz70v17c97k": {
       "backdrop": "",
@@ -7373,7 +8309,11 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "enc": "/CGWXcGvljTw3tyxe3d9CuOy3Cuz+cIlXMyvEC7DemWT8X//B0FPoHTpkuEntvQnBbUX92y1B5+Cx0KpgdrW2pPYglmI9AbgSdreTbjoJptpSQmMi474mPu8hRQAA/MkFK53Txs5jntkmqUFQuDF07Lo6eYKOaMRCqKOG33tJpgF29FblrACE2rBWejlydFkKEVF1IV3rHUr"
+      "url": "https://183.giatvcdn.com/giatv/giatv-stv/Zaxosport/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "8a9j33718hjrnmr": {
       "backdrop": "",
@@ -7405,7 +8345,11 @@
       "url3UserAgent": "",
       "userAgent": "",
       "bannerType": "video",
-      "enc": "WyLUy3W8cxKtubF7UuPjAAGo/73s5PM9ZjvLOAdFls59E0pZzFAHSILAx5bXzbMaABJm+G82UFZ4DxkHvLd+/tqKFA50Ds9TjfKn0ovH0mjmy0ZQqdOP1FWTV78C70yuL83Q1JtL7Fgul+2AhvUSNqOICcSfNfXM8o2jTs3SWIZn7W4cqa3U2pL+lZqIUMGTIypfGktlnjg4GTd6Ow=="
+      "url": "http://rahmmax.org:2052/live/24717171183220/27528941619411/677021.ts",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "kdwk8t2nzqngp9h": {
       "backdrop": "",
@@ -7437,7 +8381,11 @@
       "url3UserAgent": "",
       "userAgent": "",
       "bannerType": "video",
-      "enc": "sepL58TLz9GrzASLyoOL+rtLTm3KvyjJcW5SmSQGGdRVwrus7LU1NAKFu7Kq287AVEH3kaD4pAFVFHQBUSjtIrD6s8H+HvoaHuAWx7etJ5ZWI+njZGSR8SLRZqcD5NbRXmwS+/2rWRAieXaLNOfQfcjspOQHyxYFjJkWdfZG9J+1rc/+OPyFCWY3EeIMz0KBsn4CBhL5DZGidCbv"
+      "url": "http://183.giatvcdn.com/giatv/giatv-Duhok/Duhok_Moves/playlist.m3u8",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "",
+      "drmLicense": ""
     },
     "4m0acnmjkmg7b6x": {
       "backdrop": "",
@@ -7469,7 +8417,11 @@
       "url3UserAgent": "",
       "userAgent": "",
       "bannerType": "video",
-      "enc": "AhvEYNu4PxFazYtEpoRVgHAa33w1NfiEbIsGEowvTs8rQccpW7D3UwoiAsznVdirS7gJsDgDbI/3uOio22tDp21f/OUU8pTuaCw+vscqCqLgyZAOTQn9lKRZbR/YJMx4+zwPgzoFBFYrmeK6yucS/S7iP0OSMIoiWgM07z4rHszzE5dmJz28hs9FqdM6qvQCQoN6Xiaw4BoxBjHm71N79RLgv9B3DWtASi6rU+cZkxyyLT4QAV2J4m3oSU91F95mBk1UGJ+znBFaX5mdbxycb199GdvpNdbEc44qp8U0IHYe0+UtiBx8UFAAFjKZXhgUN86zQQw51EAnS5VwzIJJ2DgUGwgGbcBoCTPIhT8JVh0flTNQiMgqfTdX1V/Go9DshsM="
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+      "url2": "",
+      "url3": "",
+      "drmScheme": "clearkey",
+      "drmLicense": "335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281"
     }
   },
   "channelGroups": {
@@ -7622,7 +8574,7 @@
           "periodHours": 24
         }
       },
-      "encrypt": true,
+      "encrypt": false,
       "adk": "pBEc4pn39Z48FKjfPW694tDPtAu95t+X3pnx+XMkt4o6ip/zdnk6nXRFv7XPjc37UzilAyPUwOH0PQt4",
       "lockMovies": true
     }
