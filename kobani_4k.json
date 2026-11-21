@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T13:57:51.921578Z",
+  "exportedAt": "2026-11-21T13:58:21.283491Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8548,7 +8548,16 @@
         "DOCUMENTARY",
         "BEIN+"
       ],
-      "codes": [],
+      "codes": [
+        {
+          "label": "36905-24497",
+          "hash": "69cbe0668a13890fdeff9df1095eceb6e98fc51fc612ec3d0ddfa308c9256a9c",
+          "open": true,
+          "dev": true,
+          "days": 1,
+          "hard": 1795355900346
+        }
+      ],
       "freeTime": {
         "bein+": {
           "minutes": 180,
