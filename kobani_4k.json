@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T16:57:36.711147Z",
+  "exportedAt": "2026-11-21T16:57:45.107260Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8554,12 +8554,6 @@
         "BEIN+"
       ],
       "codes": [
-        {
-          "label": "77667-32952",
-          "hash": "23c3861b45a3d59b3b17ff71e6306128a65b238591581d9dc08370617e062473",
-          "open": true,
-          "dev": true
-        },
         {
           "label": "01169-51231",
           "hash": "475d464042bf6947f61e2854ec6a4cbf1c0cb18bab73886d329929045b1558d5",
