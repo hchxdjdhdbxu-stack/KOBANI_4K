@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T13:24:22.224058Z",
+  "exportedAt": "2026-11-21T13:30:11.296785Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8516,18 +8516,7 @@
     ],
     "access": {
       "enabled": true,
-      "codes": [
-        {
-          "label": "VIP",
-          "hash": "3f04db0d128e7cc727352e8c66dd92d9d1d6e9ffcd5e3b523c5b8f6e83b70e8f",
-          "open": true
-        },
-        {
-          "label": "",
-          "hash": "f9d6d888cac686658ba63099759f7eef1590cb6e40472c28371d676fb85dea35",
-          "open": true
-        }
-      ]
+      "codes": []
     },
     "update": {
       "apkUrl": "https://vida-private.s3.us-east-1.amazonaws.com/sessionFile/MIN9zDz415WC6Hbv74gVyf/sandbox/HlIKX2ZLO3p4IE2TGJGoVP_1794523353215_na1fn_L2hvbWUvdWJ1bnR1L2tvYmFuaV92NTdfZGVsaXZlcmFibGVzL0tPQkFOSS12NTctdmVyc2lvbi0xLWJ1aWxkMjE.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZV3A2ECZBEK37IZO%2F20261113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261113T101510Z&X-Amz-Expires=603800&X-Amz-Signature=4eac641a38a8b21a496fc58b088ee60636c3313382d0cd3cdda256ea07ce3f22&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27KOBANI-v57-version-1-build21.apk&response-content-type=application%2Fvnd.android.package-archive&x-amz-checksum-mode=ENABLED&x-id=GetObject",
