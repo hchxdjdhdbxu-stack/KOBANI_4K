@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T19:31:25.592906Z",
+  "exportedAt": "2026-11-21T19:35:42.350148Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -4088,11 +4088,15 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": ".",
-      "url": "http://2b2.xyz:8080/live/596616351517/206713207541/577556.m3u8",
+      "url": "http://rahmmax.org:2052/live/22329846500924/17827457219570/601396.ts",
       "url2": "http://cf-dana.com:8080/live/khaled81/487650495167/392639.m3u8",
       "url3": "https://ameditv.ai.studio/api/proxy?url=https://183.bozztv.com/giatv/giatv-avasoport/avasoport/chunks.m3u8",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "afwzw985ziqy16j": {
       "backdrop": "",
