@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T11:27:17.083262Z",
+  "exportedAt": "2026-11-21T12:59:30.167733Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -5722,11 +5722,15 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "url": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807672.ts",
+      "url": "http://tanbieh.com:80/live/110366811170D/162411098190gH/357559.m3u8",
       "url2": "http://snap-tr.org/live/00491727832218/as2020as/357559.m3u8",
-      "url3": "http://tanbieh.com:80/live/110366811170D/162411098190gH/357559.m3u8",
+      "url3": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807672.ts",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "1gzeimb2tx9i84p": {
       "backdrop": "",
