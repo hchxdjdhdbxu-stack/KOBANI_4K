@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T19:15:59.386189Z",
+  "exportedAt": "2026-11-21T19:31:25.592906Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -3022,7 +3022,7 @@
       "hdr2": true,
       "hdr3": true,
       "bannerType": "video",
-      "url": "http://rahmmax.org:2052/live/36750623403240/14750722182138/602828.ts",
+      "url": "http://rahmmax.org:2052/live/22329846500924/17827457219570/602828.ts",
       "url2": "http://s21tv.co:80/live/809933047584/316247341655/807625.ts",
       "url3": "http://kenvixpro.online:8080/live/893747082774/403275543172/442853.m3u8",
       "drmScheme": "",
