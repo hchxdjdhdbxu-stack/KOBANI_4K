@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T16:05:16.791285Z",
+  "exportedAt": "2026-11-21T16:08:35.595785Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8637,12 +8637,6 @@
           "dev": true,
           "days": 180,
           "hard": 1810828786593
-        },
-        {
-          "label": "im",
-          "hash": "ec52510a5313c52ca34ede07a6419964472fc95ac19ad8d70e046d40e7c9e711",
-          "open": true,
-          "dev": true
         }
       ],
       "freeTime": {
