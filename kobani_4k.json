@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T15:51:43.340706Z",
+  "exportedAt": "2026-11-21T15:56:19.303332Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8621,6 +8621,14 @@
           "dev": true,
           "days": 180,
           "hard": 1810828300388
+        },
+        {
+          "label": "SHVAN HAGI",
+          "hash": "6d39df3b57f70be0cd5d8a298323020b3123217b0407202b7326da61a273b744",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1810828563892
         }
       ],
       "freeTime": {
