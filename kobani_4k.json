@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-21T13:24:13.610870Z",
+  "exportedAt": "2026-11-21T13:24:22.224058Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8554,24 +8554,7 @@
         "DOCUMENTARY",
         "BEIN+"
       ],
-      "codes": [
-        {
-          "label": "KOBANI 1",
-          "hash": "a3fdd242e3a1c288c07fe782b3339dd8a2c4b540e6e09fe8ece3fe0a6fafc56a",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795336739755,
-          "wk": "bYwulaCskNorPT5m4a9C6xxWdhaEGke5G4hrVxD/Xz0Mt1YnYKJKP3sM46QZ6EEFpk6dbQG0iaBPlgHd"
-        },
-        {
-          "label": "58780-75184",
-          "hash": "27932ebc961e4e75d4ee51f6236071565eb6af39645a50001e6e3e7f500331fa",
-          "open": true,
-          "dev": true,
-          "wk": "BWRgEZcRVCJVeDl3iLjXEwpQscLqY+eYSkpBtmhUyCoT/2jHbqkiYLQUccONICslRpVvTlg26GhZabUC"
-        }
-      ],
+      "codes": [],
       "freeTime": {
         "bein+": {
           "minutes": 180,
