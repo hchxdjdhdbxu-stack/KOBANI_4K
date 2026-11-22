@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-22T12:35:36.114106Z",
+  "exportedAt": "2026-11-22T15:13:44.754238Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8593,6 +8593,13 @@
           "open": true,
           "dev": true,
           "di": "SLrIajbaTX+4j0z59BIt+dK7cOCqaKt1pfQ5WMCfsQ/IiumQPIvqrDE4"
+        },
+        {
+          "label": "SHVAN H",
+          "hash": "ec31c84cc17da4e4bae2c5d617b3603e23cb94274da1d62770395b390b503def",
+          "open": true,
+          "dev": true,
+          "di": "M97qrhabxwyZM6Cz9pPgAY8gE0a4ecQM8E4tfolz/erO/DVdxYhYgjOr"
         }
       ],
       "freeTime": {
