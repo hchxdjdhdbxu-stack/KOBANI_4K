@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-22T18:03:59.540222Z",
+  "exportedAt": "2026-11-22T18:44:36.041666Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -3310,11 +3310,15 @@
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
       "userAgent": "SmartIPTV",
-      "url": "https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8",
+      "url": "https://183.giatvcdn.com/giatv/giatv-sozetv/sozetv/playlist.m3u8",
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "dhgash3a0cfl009": {
       "backdrop": "",
