@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-23T16:27:14.716020Z",
+  "exportedAt": "2026-11-23T16:35:04.861734Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -5704,7 +5704,7 @@
       "userAgent": "SmartIPTV",
       "url": "http://tanbieh.com:80/live/110366811170D/162411098190gH/357559.m3u8",
       "url2": "http://snap-tr.org/live/00491727832218/as2020as/357559.m3u8",
-      "url3": "http://s21tv.co:2082/live/893963693051/bHksg68fWnri8/807672.ts",
+      "url3": "http://server.beastxser2.xyz:80/live/sTa6X3QFxetn/Cwmhv5wDcKrY/187730.ts",
       "drmScheme": "",
       "drmLicense": "",
       "free": false,
