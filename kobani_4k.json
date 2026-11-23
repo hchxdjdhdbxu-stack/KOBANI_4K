@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-23T18:54:24.595308Z",
+  "exportedAt": "2026-11-23T18:57:28.034451Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8997,6 +8997,15 @@
           "days": 180,
           "hard": 1811009557156,
           "di": "Bj2sjt848k0vC0jqIF9W7XCRUBPZLIpkbWsdFhnCxdEPaecKxbBR26nf"
+        },
+        {
+          "label": "VIP SAMIR",
+          "hash": "0b0b22b4ce17a44d243f7c771aaad6549e337a4492ba58c3b61df2455552721a",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811012247144,
+          "di": "836XRwZT25oGfD8pxniSYs5p3AIRpYikoyoDCKgtCDHiKeN+fBJZZqqU"
         }
       ],
       "freeTime": {
