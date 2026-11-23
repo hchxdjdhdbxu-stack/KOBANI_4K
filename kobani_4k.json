@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-23T14:02:52.124066Z",
+  "exportedAt": "2026-11-23T15:43:56.787569Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -4709,10 +4709,10 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-7LwV1rHhmIG8eIyApJJ4WhqLR_Rrg2kxr0wQGZhWQ",
       "name": "BEIN SPORTS 1",
       "order": 1,
-      "referer": "",
+      "referer": "https://scorezone.fun/",
       "subtitleUrl": "",
       "type": "live",
-      "url": "https://app.site2026.top/mobile/PAXHsPp6Y67_HPB_kHd-xQ/1788634802/1788634541/0/bein101.m3u8",
+      "url": "https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=23&si=0",
       "url2": "https://bein1.houdatv.workers.dev/live.m3u8?key=68452",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
@@ -4725,7 +4725,7 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": ".",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
       "bannerType": "image",
       "free": false,
       "hdr2": true,
