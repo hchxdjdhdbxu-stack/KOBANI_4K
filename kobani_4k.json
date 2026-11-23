@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-23T15:43:56.787569Z",
+  "exportedAt": "2026-11-23T15:44:21.659807Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8418,7 +8418,7 @@
       "featured_order": 0,
       "group": "ALWAN SPORTS",
       "id": "ak6kfq48wzq6qfp",
-      "logo": "",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyz92GKq5J30LBc7OVTrrh7aJ344Toyf_OC6zo8CNHQ",
       "name": "BEIN VIP 2",
       "order": 1,
       "referer": "",
