@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-23T13:41:25.779938Z",
+  "exportedAt": "2026-11-23T14:02:52.124066Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8844,6 +8844,15 @@
           "days": 180,
           "hard": 1810993283662,
           "di": "Xq96jILn3Z6MLZpsy368TZ7YzC+M603GO7spjA8Ms0VdZGVUrrS1t1K4"
+        },
+        {
+          "label": "TETS IPTV",
+          "hash": "03444ce72583c4552a8db0fd8095bcf2e3a07e540c1ca6e1ed85358d24671467",
+          "open": true,
+          "dev": true,
+          "days": 1,
+          "hard": 1795528969646,
+          "di": "Jv20ZeIDEpRCjwqJbmBnbgy5MGo5ccspMcWm2Sxs56hB9d5gZwlKSk5U"
         }
       ],
       "freeTime": {
