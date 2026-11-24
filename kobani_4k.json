@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-24T18:55:45.002656Z",
+  "exportedAt": "2026-11-24T20:17:22.564041Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8799,33 +8799,6 @@
           "days": 180,
           "hard": 1811012359910,
           "di": "6EdBjpzwILmgZUSLEYrQJI18oqNsX1lnEiRVt+/b8Gobv11F8FbpuAL9"
-        },
-        {
-          "label": "TEST @20",
-          "hash": "a0077f233834b315c5b0de984bced09a8bca7eab3462996cf3a53e2b3ad12d66",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795547313502,
-          "di": "SeVigA9Hk6gnEu94/8z3E4NFlGJRAM8ptyTBTR6NkkNrkyQO7z/qlKxJ"
-        },
-        {
-          "label": "TETS@19",
-          "hash": "f7ddc217564c22e7da7c21148ca8f4203decc6c7342c93c2f2be1c7d534f5232",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795547394124,
-          "di": "MwQeMKFzmUsbOsWqqFlVcfVZDRjVPFFGtUAFsJMFzVHCvXwqJMiCXa2W"
-        },
-        {
-          "label": "TESTT",
-          "hash": "0fdb1ce302587d17d7d1bfc9070c539e76cfb10d99864d00d3bb6d30bc2d3a77",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795548523060,
-          "di": "stDqOq8ZYKzq8tKolbJsD7mJfZSWMpqKnuc990ScYuIy1bWsH1bJ+0qC"
         },
         {
           "label": "VIP 9",
