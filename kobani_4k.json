@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-24T16:57:09.759021Z",
+  "exportedAt": "2026-11-24T17:15:56.955179Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -6433,11 +6433,14 @@
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
       "bannerType": "video",
-      "url": "http://rahmmax.org:2052/live/22735481183557/30051719864484/601481.ts",
+      "url": "http://platinumxmedia.xyz:80/live/@TribalChiefLFG/cnAXYgce17jGROvOI3Le87JOBv7HrR/13673.ts",
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true
     },
     "ugvkisz47m3tuvg": {
       "backdrop": "",
