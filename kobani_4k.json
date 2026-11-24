@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-24T03:55:35.284813Z",
+  "exportedAt": "2026-11-24T10:49:20.800351Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8763,69 +8763,6 @@
           "open": true,
           "dev": true,
           "di": "cn+6wYq2z7aN6lCivJAf824G0vVAty7kSzaR51Dpi3rTHOzcFuoV4EbL"
-        },
-        {
-          "label": "test#11",
-          "hash": "72047395a4da9d46930b62fd5cc0a0a7b86ebb0264dd02cd5bbbadec0e3addfc",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795492626336,
-          "di": "xskwrBY2jogDZHU1C+IA6VGRIPKydyv3i0ko/ZqEC7F2gZcx1QD/L2sX"
-        },
-        {
-          "label": "TEST @12",
-          "hash": "760349816e60236a3823e05290adcaa85d8cd35c7d621e945e347442256319d9",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795493194076,
-          "di": "dN+f4LpLHLgeOxlCjbDhD551a/QrG63fhrUcDN6ryljhwjDpW5xsERXP"
-        },
-        {
-          "label": "TEST @13",
-          "hash": "80a57d6b0d8125ac0a4cfdeafebb91a89a8a62ffd07422cc4f16e2750b2a36c8",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795512974287,
-          "di": "yCnGjSlMyKBFQFc1BdfFwD37xwuI0wXZw+hG9b/Q+aP/J4OSmSaZ05gX"
-        },
-        {
-          "label": "TETS@14",
-          "hash": "d85e01ed344cc89f92e11654be41c08007ff71accf157c531107d6576f93dd21",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795513047124,
-          "di": "nFX3QaOoq6DaqT8iEKTiYYRv5VoVNFjuZvUEKLi7/r2MgR+IdL3RnwJ6"
-        },
-        {
-          "label": "TETS @16",
-          "hash": "9810d32c35d33058d7356315f9d9df69e4cdca27dffdb942270b76b85014737d",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795513304949,
-          "di": "DyimEEdNTYJAYdm1ZCfqNCkYmjfsScG6aP68hJDWLWy8xPVd3f43uM34"
-        },
-        {
-          "label": "test @18",
-          "hash": "2ace8b858614093167ecac8878b7bbba2d1752b575f11ac0f77ceb0012075d0c",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795515223385,
-          "di": "Gz94So+7rnZz8z01058FW+qCQnj1NEoN8G/LdohCdZAJI/dHMfxbihRv"
-        },
-        {
-          "label": "TEST @19",
-          "hash": "09d8ac29913e6069afa5a0cc65b34481c8dcbaa2f9906714dff84c3257180fa4",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795516469601,
-          "di": "GrbNrR481RccmAfsA1uRzTxqinfpkf1TBN/vnssH7Gy1vNNbVTu0GzBE"
         },
         {
           "label": "646-557",
