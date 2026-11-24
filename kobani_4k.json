@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-23T19:44:03.945699Z",
+  "exportedAt": "2026-11-24T03:55:09.877262Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8763,60 +8763,6 @@
           "open": true,
           "dev": true,
           "di": "cn+6wYq2z7aN6lCivJAf824G0vVAty7kSzaR51Dpi3rTHOzcFuoV4EbL"
-        },
-        {
-          "label": "@TEST 5",
-          "hash": "febee1bcebb48118576dd2ffe096ff3f3eb5f2a84e1026e82c84d9c8fe1c8fd2",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795463067353,
-          "di": "QB7B38Zv+AT3CYU2t1TuRjnYDu3oeUDHSaEZiHAKubqTTd8yHRt1ECll"
-        },
-        {
-          "label": "TEST @7",
-          "hash": "592ce2c66fcf82840d9ac22abebcf32f59471466f9ff42c25625dc5e117ff31c",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795463256755,
-          "di": "QDDUQf3EBP6C3XQF0j6kb43BK9lvN5QLMZtt1NE2bGNXBwLiRLoYikeF"
-        },
-        {
-          "label": "TEST @8",
-          "hash": "5cb9dd7a72df5980d77e403ff784f48be531e615d99ed8b9919c94ac92d5b3a9",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795463919807,
-          "di": "FFmxQsBpdJilQ8rR8/Zpx062676WlNEUTQ4bCJWwOUU3BaDqf1O758mN"
-        },
-        {
-          "label": "TEST @9",
-          "hash": "2aa646424441a573d05c34cf9aecedbed945c78e76207206084c775c043834ac",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795464000731,
-          "di": "w+/Qfjh1hDYqVtvjUX5kAnFn6llyix8BAtYRwCQ2yabxoNrXTU6rsQan"
-        },
-        {
-          "label": "TEST @9",
-          "hash": "29844fcfc6a9e4ee51bce66de8b0e6fa1d718f35994e3bd878dd474e3895cbf6",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795464555915,
-          "di": "F9NsEP/UlEFExl8eXAE8UeRXNkk3xP85W/CvNI7/jpjG7eAdMzIlNuky"
-        },
-        {
-          "label": "TEST@ 10",
-          "hash": "c84a8fe455005fc891a7f7a4c04a8bd4d82e9105977baa60984eefbf704d7ce9",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795464907234,
-          "di": "zTz2Jc4vIhuFRe8PPhp2koc24j3bN2+D3qypALbFMkYZzJ7tdmTCSKbG"
         },
         {
           "label": "test#11",
