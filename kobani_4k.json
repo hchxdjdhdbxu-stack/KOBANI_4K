@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-24T10:49:20.800351Z",
+  "exportedAt": "2026-11-24T10:50:14.188078Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8916,6 +8916,15 @@
           "days": 180,
           "hard": 1811044532990,
           "di": "3ZFcOl4ROmxW2WYYeEH85+gYmJmr+w9bn9VSprhDeCDeZJMY3R5lEafF"
+        },
+        {
+          "label": "VIP SAMAN",
+          "hash": "13843fc73e672feb5ce987b526ddde4b7a3fb28d7af95556a08cacb7be90248e",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811069409942,
+          "di": "kprddI66w/9K3ZthjETx9JcLS9VmLgNOblP9RjHItzukYgJFbbX8urFj"
         }
       ],
       "freeTime": {
