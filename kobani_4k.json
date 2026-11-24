@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-24T17:15:56.955179Z",
+  "exportedAt": "2026-11-24T17:34:11.257053Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8907,6 +8907,13 @@
           "days": 1,
           "hard": 1795625270263,
           "di": "rIH53uiMP/HQvNUPWRp+3ULA0dLlBVzG848oPlydJwIkj5jbj4wpiwd3"
+        },
+        {
+          "label": "EZ TV",
+          "hash": "a712bdcd65656e4c0e2c1951452a631f509f0a398303c24cdc71f6ee588d0812",
+          "open": true,
+          "dev": true,
+          "di": "dt3u/GkG9egR91VpopnBTIZhYDWjURNPJKM8Xpy8G/1md8qzgoXJauul"
         }
       ],
       "freeTime": {
