@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-24T14:17:22.601455Z",
+  "exportedAt": "2026-11-24T14:18:10.447214Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -3121,7 +3121,7 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "SmartIPTV",
-      "userAgent": "",
+      "userAgent": "Dalvik/2.1.0 (Linux; U; Android 11; RMX3261 Build/RP1A.201005.001)",
       "url": "http://myhand.org:8080/live/14750317709431/24953573146084/90975.ts",
       "url2": "http://vt.protoniumtv.net:1997/live/OIHfiptvtree2023f/6tYbxSIifTUwg8Vm/75075.ts",
       "url3": "",
