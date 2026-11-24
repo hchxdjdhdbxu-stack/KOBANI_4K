@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-24T20:37:28.174577Z",
+  "exportedAt": "2026-11-24T20:55:09.393533Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -2176,7 +2176,11 @@
       "url2": "https://stream.kurdmax.tv/app/kurdmax-kurmanji2/ts:playlist.m3u8",
       "url3": "http://tvr.iptvboss.net/live/tree141es/sdfsdvvcxvxcvx/2467.ts",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": false,
+      "bannerType": "video"
     },
     "u3fywecioujjtkn": {
       "backdrop": "",
