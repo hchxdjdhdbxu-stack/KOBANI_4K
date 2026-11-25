@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-25T15:17:36.722734Z",
+  "exportedAt": "2026-11-25T16:01:16.587299Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -9026,6 +9026,33 @@
           "days": 180,
           "hard": 1811171855351,
           "di": "wZgdxJm0kOlSXW730QfFs+jwMO0AH/LbkjJdfc6L3Jh80eJ62bPhZ3cC"
+        },
+        {
+          "label": "VIP ZAXO",
+          "hash": "9ae6158a5cd425108eda3bce2d994d518a2fa3075c1f7f2d41a3d4d87f730529",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811174190656,
+          "di": "ART5axrVQflFQ8mv0WSypqxChgfkdfo9LCWvSoOKEd1DoSPc2tUHGMMI"
+        },
+        {
+          "label": "VIP ZAXO",
+          "hash": "786d785b42f23563fcb01f63033cda67167e6c5c1b9a686a91c0201117cb6437",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811174229785,
+          "di": "HJ9AzGXiqmE/IKe91WbP60K1gGdpVK/plw1ad0FDB+AdDcSPaaEGQg69"
+        },
+        {
+          "label": "VIP ZAXO 2",
+          "hash": "9bf5b7f6d49d4e1bc1df6bf5b4e3ad6e55873ddea2c79c49ee9d5193df992da9",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811174417471,
+          "di": "LEDzLyslVZKJggaKVpgNt7Pg1KR9U51WOOpatlXGyjZARufNB3DZw97q"
         }
       ],
       "freeTime": {
