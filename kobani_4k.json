@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-25T20:03:13.922942Z",
+  "exportedAt": "2026-11-25T20:03:30.880093Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -9093,6 +9093,15 @@
           "days": 1,
           "hard": 1795713771356,
           "di": "ZEtd9D0/XUQElfycgQF0cF6jpfV1/B0W03WVHSQcV702kKoptt3EdDu8"
+        },
+        {
+          "label": "malii",
+          "hash": "9da201041eed1d581acd15bf1e072f49b16691d206847def96c99a510f89c55d",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811189007323,
+          "di": "epbT5/IH5OtUmDiZnQ5ZC+HaTLrnk5D3bYLJ5BJzb3zWHRRQli80Ecyd"
         }
       ],
       "freeTime": {
