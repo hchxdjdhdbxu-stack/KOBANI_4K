@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-25T17:22:53.538324Z",
+  "exportedAt": "2026-11-25T20:03:13.922942Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8958,15 +8958,6 @@
           "days": 180,
           "hard": 1811093852296,
           "di": "FhlHEnIIBjv6RghLZ4slyI/iQDimCFV87twpuU3t8Wer1al6cuXBxiMc"
-        },
-        {
-          "label": "TEST TAXI",
-          "hash": "79e28c8186d3ce7663d9af5cb1b3f69089bdc0f16e90452912e0f9f5fc9628af",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795632942983,
-          "di": "LLeWVLhqUpAD+EziTZ5Be1sKFxXX0FYvzJLLDvd9A95LbSDEQL3oho6K"
         },
         {
           "label": "VIP??",
