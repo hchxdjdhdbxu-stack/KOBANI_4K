@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-25T16:44:45.013110Z",
+  "exportedAt": "2026-11-25T17:20:31.111345Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8942,15 +8942,6 @@
           "days": 180,
           "hard": 1811090477952,
           "di": "iL4DIGb0hqS00HY7iUtB0hpE44Ea2cgieHI8EaGRwsYYwpToTlEfWBHn"
-        },
-        {
-          "label": "Test mali",
-          "hash": "108c55ab05df99d5136f2f6d3f05298bd9552640e36af03fbaf3caf099b6350a",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795625270263,
-          "di": "rIH53uiMP/HQvNUPWRp+3ULA0dLlBVzG848oPlydJwIkj5jbj4wpiwd3"
         },
         {
           "label": "Ezzzzzzz tv",
