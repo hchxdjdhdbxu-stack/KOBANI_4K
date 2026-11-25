@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-25T16:37:41.016005Z",
+  "exportedAt": "2026-11-25T16:44:45.013110Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -6472,11 +6472,15 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/onekids4k/chunks.m3u8",
+      "url": "https://183.giatvcdn.com/giatv/giatv-onekids/onekids/chunks.m3u8",
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "5gu74evansfryka": {
       "backdrop": "",
