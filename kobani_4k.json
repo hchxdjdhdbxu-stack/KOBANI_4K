@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-25T13:34:33.653340Z",
+  "exportedAt": "2026-11-25T13:49:02.621547Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8972,6 +8972,15 @@
           "days": 180,
           "hard": 1811165671381,
           "di": "Qb0ahNth3SWYOFnhfoNpAu8nbBs8GsPIWDp01yw+CB3mhvpfE5FYz7gd"
+        },
+        {
+          "label": "HALABJA TIKTO",
+          "hash": "1b4882f67f117678f41e7c156b9bf0debff528ea6f9a6cfbf9f6f6f2ec6e7590",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811166540570,
+          "di": "r5VeB7KYRDaJeHUawlmC8hb1fXE0kcW+mFmmZrwwYmtbCmWqMq5xq5ml"
         }
       ],
       "freeTime": {
