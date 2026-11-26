@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-26T16:02:50.293110Z",
+  "exportedAt": "2026-11-26T16:45:03.045809Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -3094,11 +3094,15 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8",
+      "url": "https://dengezelaltv.com/hls/yayin/index.m3u8",
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "550yxwnnchgmubz": {
       "backdrop": "",
