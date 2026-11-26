@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-25T20:03:30.880093Z",
+  "exportedAt": "2026-11-26T11:50:33.440648Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8978,15 +8978,6 @@
           "di": "daesfHmxncFNp8wEGQ/8Yi3vEpmyeMbsRrDz76BVMzJUDhj8SsFd4mPO"
         },
         {
-          "label": "Hoshng test",
-          "hash": "7d60d32fc872c14eb5dfb77ab63067c379c8020bd837708663e9c99232477950",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795639046502,
-          "di": "uXjqz9ZKAh4FwZEmv9OIeQSfaXxp8pXRHrbT7pIWGZm8nHSlGtep3TlA"
-        },
-        {
           "label": "VIPPPP",
           "hash": "8cfa3852776ff552748444a89accd1dbdbf67b00f051fc0ff345ef74e6be4380",
           "open": true,
@@ -8994,15 +8985,6 @@
           "days": 180,
           "hard": 1811149621719,
           "di": "E4qGs5nveOsNg3Pl6ShSXVT31x/zZUNB2yyBkFlt9aGWOPbkxtlGUtsR"
-        },
-        {
-          "label": "TESTTT T",
-          "hash": "bf89730957cb805bb7579b3432ecbda1f8cde6a0bf4c89795f321fa27c2032e1",
-          "open": true,
-          "dev": true,
-          "days": 1,
-          "hard": 1795684734251,
-          "di": "KxW6Q+eVouerpYj/+Lmu9RzSL/LwwAZuF6TUaQRzGejawfz4U1hI2huE"
         },
         {
           "label": "VIP 20",
