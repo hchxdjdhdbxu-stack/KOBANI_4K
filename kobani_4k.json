@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-26T15:48:47.822721Z",
+  "exportedAt": "2026-11-26T16:01:50.275595Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -9102,6 +9102,15 @@
           "days": 180,
           "hard": 1811260126448,
           "di": "PaoVNQWLEPUJAby8Bzc1XLeVeRdci3wrkY4JJa334HtpdyFp1lum3PDB"
+        },
+        {
+          "label": "VIP HOSANG",
+          "hash": "f4b93ee610d8dfa4cf9f0190ba2de2bebfa703db1f14597ebbaf43c5fa4766aa",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811260907591,
+          "di": "AsjJmPwVqJMIzEZbAaUkjqXkRfsZX2SEFCriqkvXt0iQHKTbkgUlhE/d"
         }
       ],
       "freeTime": {
