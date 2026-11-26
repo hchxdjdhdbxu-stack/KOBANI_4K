@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-26T18:13:27.315533Z",
+  "exportedAt": "2026-11-26T18:24:10.309442Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -9128,7 +9128,7 @@
         {
           "label": "TEET",
           "hash": "dc6421c9930b53d7bb1bbf0bf245e95d50f6771564df0a65fe9385b6345a38e6",
-          "open": true,
+          "open": false,
           "dev": true,
           "days": 1,
           "hard": 1795803065710,
