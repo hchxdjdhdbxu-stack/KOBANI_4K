@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-27T18:32:01.530660Z",
+  "exportedAt": "2026-11-27T18:33:43.733055Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -9198,6 +9198,15 @@
           "days": 1,
           "hard": 1795886414208,
           "di": "4enootuFHJm3sRgB7mTZTiPpniaFSSGq98snfQ6KZOAJQp54depy1u6J"
+        },
+        {
+          "label": "HARKI",
+          "hash": "9ae490e571c840ee24b1e785516c66d6f26a16c865626306306a5bd7da66e8c8",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811356419420,
+          "di": "a+FBSjRxUds8sn3LlougngV/fDmI1emIai4cr0YXEMxy7xCWtIULRxaY"
         }
       ],
       "freeTime": {
