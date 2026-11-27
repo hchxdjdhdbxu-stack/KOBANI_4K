@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-27T17:29:59.650644Z",
+  "exportedAt": "2026-11-27T17:36:34.512889Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -420,10 +420,13 @@
       "userAgent": "",
       "bannerType": "video",
       "url": "http://rahmmax.org:2052/live/88577072662804/15518509928643/649691.ts",
-      "url2": "https://streams.rooter.gg/hls/437cf97c81671384bfb54d35708d00ca/hd720.m3u8",
+      "url2": "http://10.119.54.1:8080/stream.m3u8",
       "url3": "http://109.71.252.138/Alwan3/tracks-v1a1/mono.m3u8",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": false,
+      "hdr3": false
     },
     "ynb255ofvbwixda": {
       "backdrop": "",
