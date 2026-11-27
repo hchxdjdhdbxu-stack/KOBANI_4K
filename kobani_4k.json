@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-27T17:41:21.216451Z",
+  "exportedAt": "2026-11-27T17:42:46.438809Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -5203,7 +5203,7 @@
       "subtitleUrl": "",
       "type": "live",
       "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652349?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
-      "url2": "http://sawa2025.vip:80/live/elmagd68/mg68ymtgd/269376.m3u8",
+      "url2": "http://10.119.54.1:8080/stream.m3u8",
       "url2DrmLicense": "",
       "url2DrmScheme": "",
       "url2Name": "",
@@ -5215,7 +5215,11 @@
       "url3Name": "",
       "url3Referer": "",
       "url3UserAgent": "",
-      "userAgent": "SmartIPTV"
+      "userAgent": "SmartIPTV",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "jn737txbtl82dpp": {
       "backdrop": "",
