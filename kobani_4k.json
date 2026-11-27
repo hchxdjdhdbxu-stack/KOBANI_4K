@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-27T20:43:09.038134Z",
+  "exportedAt": "2026-11-27T21:29:14.237577Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -7649,11 +7649,15 @@
       "url3Referer": "",
       "url3UserAgent": "",
       "userAgent": "SmartIPTV",
-      "url": "http://v6.fny82k2.com/live/674532959367Vd/521230229273/321849.ts",
+      "url": "http://max4kcdn.com:8080/live/3544352126/5152401717/182888.ts",
       "url2": "",
       "url3": "",
       "drmScheme": "",
-      "drmLicense": ""
+      "drmLicense": "",
+      "free": false,
+      "hdr2": true,
+      "hdr3": true,
+      "bannerType": "video"
     },
     "hhklp40cu6f6d5j": {
       "backdrop": "",
