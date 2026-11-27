@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-27T11:58:18.348889Z",
+  "exportedAt": "2026-11-27T11:58:38.098968Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -8730,7 +8730,7 @@
     "update": {
       "apkUrl": "https://github.com/hchxdjdhdbxu-stack/KOBANI/releases/download/v1.0.1/Kobani-1.0.1.apk",
       "versionCode": 0,
-      "versionName": "v1.0.",
+      "versionName": "",
       "enabled": true,
       "force": true,
       "notes": "پێویستە ئاپەکە نوێ بکەیتەوە."
