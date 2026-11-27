@@ -1,6 +1,6 @@
 {
   "opticTvBackupVersion": 1,
-  "exportedAt": "2026-11-27T13:49:59.599372Z",
+  "exportedAt": "2026-11-27T15:11:40.595955Z",
   "managedPlaylist": {
     "5zpvxfocjaeef61": {
       "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP2YiAngYBFpMrE4HbA0oczl7QUEUXMqM1w&s",
@@ -9179,6 +9179,15 @@
           "days": 1,
           "hard": 1795872666383,
           "di": "V4j5rdKaOQ9PyGrUZynRHs2IXwi8P9TKWzCfUXTz82Hc6r75sx3rvbiE"
+        },
+        {
+          "label": "VIP TAXISI",
+          "hash": "e06615485fa8d142e2df73b2beb245f5d11332f92e6c11db29ba4918e8dde953",
+          "open": true,
+          "dev": true,
+          "days": 180,
+          "hard": 1811344280988,
+          "di": "ohiBAo58+sWWVwkZu5r/vNuE0+QPTd0IcYGjGEDQt+XAHvJ71X0QY428"
         }
       ],
       "freeTime": {
